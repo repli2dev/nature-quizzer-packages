@@ -1,0 +1,3162 @@
+{
+    "922786": {
+        "cs": "norek americký",
+        "en": "american mink",
+        "scientific": "neovison vison"
+    },
+    "311518": {
+        "cs": "tchoř tmavý",
+        "en": "european polecat",
+        "scientific": "mustela putorius"
+    },
+    "926026": {
+        "cs": "tchoř stepní",
+        "en": "steppe polecat",
+        "scientific": "mustela eversmanii"
+    },
+    "328020": {
+        "cs": "kuna lesní",
+        "en": "european pine marten",
+        "scientific": "martes martes"
+    },
+    "311514": {
+        "cs": "kuna skalní",
+        "en": "stone marten",
+        "scientific": "martes foina"
+    },
+    "328586": {
+        "cs": "lasice kolčava",
+        "en": "least weasel",
+        "scientific": "mustela nivalis"
+    },
+    "328587": {
+        "cs": "lasice hranostaj",
+        "en": "ermine",
+        "scientific": "mustela erminea"
+    },
+    "328046": {
+        "cs": "jezevec lesní",
+        "en": "eurasian badger",
+        "scientific": "meles meles"
+    },
+    "328044": {
+        "cs": "vydra říční",
+        "en": "european otter",
+        "scientific": "lutra lutra"
+    },
+    "328581": {
+        "cs": "medvěd hnědý",
+        "en": "brown bear",
+        "scientific": "ursus arctos"
+    },
+    "328598": {
+        "cs": "mýval severní",
+        "en": "northern raccoon",
+        "scientific": "procyon lotor"
+    },
+    "328684": {
+        "cs": "psík mývalovitý",
+        "en": "asiatic raccoon",
+        "scientific": "nyctereutes procyonoides"
+    },
+    "328609": {
+        "cs": "liška obecná",
+        "en": "red fox",
+        "scientific": "vulpes vulpes"
+    },
+    "328607": {
+        "cs": "vlk obecný",
+        "en": "grey wolf",
+        "scientific": "canis lupus"
+    },
+    "328603": {
+        "cs": "rys ostrovid",
+        "en": "eurasian lynx",
+        "scientific": "lynx lynx"
+    },
+    "328605": {
+        "cs": "kočka divoká",
+        "en": "wildcat",
+        "scientific": "felis silvestris"
+    },
+    "328663": {
+        "cs": "prase divoké",
+        "en": "wild boar",
+        "scientific": "sus scrofa"
+    },
+    "328649": {
+        "cs": "jelen lesní",
+        "en": "elk",
+        "scientific": "cervus elaphus"
+    },
+    "313992": {
+        "cs": "daněk evropský",
+        "en": "fallow deer",
+        "scientific": "dama dama"
+    },
+    "328650": {
+        "cs": "jelen sika",
+        "en": "sika deer",
+        "scientific": "cervus nippon"
+    },
+    "328652": {
+        "cs": "jelenec běloocasý",
+        "en": "white-tailed deer",
+        "scientific": "odocoileus virginianus"
+    },
+    "308479": {
+        "cs": "srnec obecný",
+        "en": "european roe deer",
+        "scientific": "capreolus capreolus"
+    },
+    "328654": {
+        "cs": "los evropský",
+        "en": "eurasian elk",
+        "scientific": "alces alces"
+    },
+    "331073": {
+        "cs": "kamzík horský",
+        "en": "chamois",
+        "scientific": "rupicapra rupicapra"
+    },
+    "311906": {
+        "cs": "muflon",
+        "en": "domestic sheep",
+        "scientific": "ovis aries"
+    },
+    "328662": {
+        "cs": "paovce hřivnatá",
+        "en": "aoudad",
+        "scientific": "ammotragus lervia"
+    },
+    "118009": {
+        "cs": "zajíc polní",
+        "en": "european hare",
+        "scientific": "lepus europaeus"
+    },
+    "327977": {
+        "cs": "králík divoký",
+        "en": "european rabbit",
+        "scientific": "oryctolagus cuniculus"
+    },
+    "1037909": {
+        "cs": "veverka obecná",
+        "en": "eurasian red squirrel",
+        "scientific": "sciurus vulgaris"
+    },
+    "1041051": {
+        "cs": "sysel obecný",
+        "en": "european suslik",
+        "scientific": "spermophilus citellus"
+    },
+    "1036116": {
+        "cs": "bobr evropský",
+        "en": "eurasian beaver",
+        "scientific": "castor fiber"
+    },
+    "328471": {
+        "cs": "nutrie říční",
+        "en": "coypu",
+        "scientific": "myocastor coypus"
+    },
+    "1179512": {
+        "cs": "křeček polní",
+        "en": "european hamster",
+        "scientific": "cricetus cricetus"
+    },
+    "1179604": {
+        "cs": "norník rudý",
+        "en": "bank vole",
+        "scientific": "clethrionomys glareolus"
+    },
+    "1179597": {
+        "cs": "hryzec vodní",
+        "en": "european water vole",
+        "scientific": "arvicola amphibius"
+    },
+    "313678": {
+        "cs": "ondatra pižmová",
+        "en": "common muskrat",
+        "scientific": "ondatra zibethicus"
+    },
+    "1179634": {
+        "cs": "hraboš polní",
+        "en": "common vole",
+        "scientific": "microtus arvalis"
+    },
+    "1179633": {
+        "cs": "hraboš mokřadní",
+        "en": "field vole",
+        "scientific": "microtus agrestis"
+    },
+    "1179671": {
+        "cs": "hrabošík podzemní",
+        "en": "common pine vole",
+        "scientific": "microtus subterraneus"
+    },
+    "328447": {
+        "cs": "krysa obecná",
+        "en": "black rat",
+        "scientific": "rattus rattus"
+    },
+    "328448": {
+        "cs": "potkan",
+        "en": "brown rat",
+        "scientific": "rattus norvegicus"
+    },
+    "328450": {
+        "cs": "myš domácí",
+        "en": "house mouse",
+        "scientific": "mus musculus"
+    },
+    "1179217": {
+        "cs": "myška drobná",
+        "en": "eurasian harvest mouse",
+        "scientific": "micromys minutus"
+    },
+    "1178729": {
+        "cs": "myšice temnopásá",
+        "en": "striped field mouse",
+        "scientific": "apodemus agrarius"
+    },
+    "327905": {
+        "cs": "myšivka horská",
+        "en": "northern birch mouse",
+        "scientific": "sicista betulina"
+    },
+    "1178939": {
+        "cs": "myšice lesní",
+        "en": "yellow-necked field mouse",
+        "scientific": "apodemus flavicollis"
+    },
+    "1178950": {
+        "cs": "myšice křovinná",
+        "en": "wood mouse",
+        "scientific": "apodemus sylvaticus"
+    },
+    "1178972": {
+        "cs": "myšice malooká",
+        "en": "pygmy field mouse",
+        "scientific": "apodemus uralensis"
+    },
+    "327942": {
+        "cs": "plch velký",
+        "en": "edible dormouse",
+        "scientific": "glis glis"
+    },
+    "327940": {
+        "cs": "plšík lískový",
+        "en": "hazel dormouse",
+        "scientific": "muscardinus avellanarius"
+    },
+    "327936": {
+        "cs": "plch zahradní",
+        "en": "garden dormouse",
+        "scientific": "eliomys quercinus"
+    },
+    "327933": {
+        "cs": "plch lesní",
+        "en": "forest dormouse",
+        "scientific": "dryomys nitedula"
+    },
+    "1178682": {
+        "cs": "ježek východní",
+        "en": "east european hedgehog",
+        "scientific": "erinaceus concolor"
+    },
+    "1178684": {
+        "cs": "ježek západní",
+        "en": "european hedgehog",
+        "scientific": "erinaceus europaeus"
+    },
+    "1178935": {
+        "cs": "rejsec černý",
+        "en": "southern water shrew",
+        "scientific": "neomys anomalus"
+    },
+    "1178936": {
+        "cs": "rejsec vodní",
+        "en": "eurasian water shrew",
+        "scientific": "neomys fodiens"
+    },
+    "1178934": {
+        "cs": "rejsec horský",
+        "en": "web-footed water shrew",
+        "scientific": "nectogale elegans"
+    },
+    "124497": {
+        "cs": "rejsek obecný",
+        "en": "eurasian shrew",
+        "scientific": "sorex araneus"
+    },
+    "323672": {
+        "cs": "rejsek malý",
+        "en": "pgymy shrew",
+        "scientific": "sorex minutus"
+    },
+    "1178809": {
+        "cs": "bělozubka bělobřichá",
+        "en": "bicoloured white-toothed shrew",
+        "scientific": "crocidura leucodon"
+    },
+    "1178871": {
+        "cs": "bělozubka šedá",
+        "en": "lesser white-toothed shrew",
+        "scientific": "crocidura suaveolens"
+    },
+    "1178988": {
+        "cs": "krtek obecný",
+        "en": "european mole",
+        "scientific": "talpa europaea"
+    },
+    "327955": {
+        "cs": "člověk moudrý",
+        "en": "humans",
+        "scientific": "homo sapiens"
+    },
+    "327185": {
+        "cs": "netopýr černý",
+        "en": "western barbastelle",
+        "scientific": "barbastella barbastellus"
+    },
+    "327653": {
+        "cs": "netopýr severní",
+        "en": "northern bat",
+        "scientific": "eptesicus nilssoni"
+    },
+    "327660": {
+        "cs": "netopýr večerní",
+        "en": "common serotine",
+        "scientific": "eptesicus serotinus"
+    },
+    "127025": {
+        "cs": "netopýr saviův",
+        "en": "savi's pipistrelle",
+        "scientific": "hypsugo savii"
+    },
+    "4436039": {
+        "cs": "netopýr alkathoe",
+        "en": "alcathoe myotis",
+        "scientific": "myotis alcathoe"
+    },
+    "327570": {
+        "cs": "netopýr velkouchý",
+        "en": "bechstein's myotis",
+        "scientific": "myotis bechsteini"
+    },
+    "327579": {
+        "cs": "netopýr pobřežní",
+        "en": "pond bat",
+        "scientific": "myotis dasycneme"
+    },
+    "327580": {
+        "cs": "netopýr vodní",
+        "en": "daubenton's myotis",
+        "scientific": "myotis daubentoni"
+    },
+    "327583": {
+        "cs": "netopýr brvitý",
+        "en": "geoffroy's myotis",
+        "scientific": "myotis emarginatus"
+    },
+    "327603": {
+        "cs": "netopýr velký",
+        "en": "large mouse-eared bat",
+        "scientific": "myotis myotis"
+    },
+    "327604": {
+        "cs": "netopýr vousatý",
+        "en": "whiskered bat",
+        "scientific": "myotis mystacinus"
+    },
+    "327605": {
+        "cs": "netopýr řasnatý",
+        "en": "natterer's bat",
+        "scientific": "myotis nattereri"
+    },
+    "1038526": {
+        "cs": "netopýr obrovský",
+        "en": "giant noctule",
+        "scientific": "nyctalus lasiopterus"
+    },
+    "1038527": {
+        "cs": "netopýr stromový",
+        "en": "leisler's noctule",
+        "scientific": "nyctalus leisleri"
+    },
+    "1038529": {
+        "cs": "netopýr rezavý",
+        "en": "mountain noctule bat",
+        "scientific": "nyctalus noctula"
+    },
+    "289882": {
+        "cs": "netopýr parkový",
+        "en": "nathusius's pipistrelle",
+        "scientific": "pipistrellus nathusii"
+    },
+    "127390": {
+        "cs": "netopýr hvízdavý",
+        "en": "common pipistrelle",
+        "scientific": "pipistrellus pipistrellus"
+    },
+    "4436365": {
+        "cs": "netopýr nejmenší",
+        "en": "soprano pipistrelle",
+        "scientific": "pipistrellus pygmaeus"
+    },
+    "289433": {
+        "cs": "netopýr ušatý",
+        "en": "brown long-eared bat",
+        "scientific": "plecotus auritus"
+    },
+    "289429": {
+        "cs": "netopýr dlouhouchý",
+        "en": "grey long-eared bat",
+        "scientific": "plecotus austriacus"
+    },
+    "326348": {
+        "cs": "netopýr pestrý",
+        "en": "particolored bat",
+        "scientific": "vespertilio murinus"
+    },
+    "327571": {
+        "cs": "netopýr východní",
+        "en": "lesser mouse-eared myotis",
+        "scientific": "myotis blythii"
+    },
+    "328775": {
+        "cs": "vrápenec malý",
+        "en": "lesser horseshoe bat",
+        "scientific": "rhinolophus hipposideros"
+    },
+    "328771": {
+        "cs": "vrápenec velký",
+        "en": "greater horseshoe bat",
+        "scientific": "rhinolophus ferrumequinum"
+    },
+    "1049773": {
+        "cs": "alkoun malý",
+        "en": "dovekie",
+        "scientific": "alle alle"
+    },
+    "1049817": {
+        "cs": "alkoun obecný",
+        "en": "black guillemot",
+        "scientific": "cepphus grylle"
+    },
+    "1049761": {
+        "cs": "alkoun úzkozobý",
+        "en": "common murre",
+        "scientific": "uria aalge"
+    },
+    "1049554": {
+        "cs": "bekasina otavní",
+        "en": "common snipe",
+        "scientific": "gallinago gallinago"
+    },
+    "1049586": {
+        "cs": "bekasina větší",
+        "en": "great snipe",
+        "scientific": "gallinago media"
+    },
+    "1051431": {
+        "cs": "bělořit okrový",
+        "en": "black-eared wheatear",
+        "scientific": "oenanthe hispanica"
+    },
+    "1051428": {
+        "cs": "bělořit pouštní",
+        "en": "desert wheatear, black-throated desent",
+        "scientific": "oenanthe deserti"
+    },
+    "1177543": {
+        "cs": "bělořit šedý",
+        "en": "wheatear",
+        "scientific": "oenanthe oenanthe"
+    },
+    "1048436": {
+        "cs": "berneška bělolící",
+        "en": "barnacle goose",
+        "scientific": "branta leucopsis"
+    },
+    "1047333": {
+        "cs": "berneška rudokrká",
+        "en": "red-breasted goose",
+        "scientific": "branta ruficollis"
+    },
+    "913234": {
+        "cs": "berneška tmavá",
+        "en": "brent goose",
+        "scientific": "branta bernicla"
+    },
+    "284202": {
+        "cs": "bramborníček černohlavý",
+        "en": "african stonechat",
+        "scientific": "saxicola torquatus"
+    },
+    "1051480": {
+        "cs": "bramborníček hnědý",
+        "en": "whinchat",
+        "scientific": "saxicola rubetra"
+    },
+    "1051081": {
+        "cs": "brhlík lesní",
+        "en": "eurasian nuthatch",
+        "scientific": "sitta europaea"
+    },
+    "1050636": {
+        "cs": "brkoslav severní",
+        "en": "bohemian waxwing",
+        "scientific": "bombycilla garrulus"
+    },
+    "1049550": {
+        "cs": "břehouš černoocasý",
+        "en": "black-tailed godwit",
+        "scientific": "limosa limosa"
+    },
+    "1049548": {
+        "cs": "břehouš rudý",
+        "en": "bar-tailed godwit",
+        "scientific": "limosa lapponica"
+    },
+    "1050781": {
+        "cs": "břehule skalní",
+        "en": "eurasian crag martin",
+        "scientific": "hirundo rupestris"
+    },
+    "917611": {
+        "cs": "břehule říční",
+        "en": "sand martin",
+        "scientific": "riparia riparia"
+    },
+    "4410534": {
+        "cs": "budníček iberský",
+        "en": "iberian chiffchaff",
+        "scientific": "phylloscopus ibericus"
+    },
+    "1178071": {
+        "cs": "budníček lesní",
+        "en": "wood warbler",
+        "scientific": "phylloscopus sibilatrix"
+    },
+    "1052649": {
+        "cs": "budníček menší",
+        "en": "chiff-chaff",
+        "scientific": "phylloscopus collybita"
+    },
+    "1052656": {
+        "cs": "budníček pruhohlavý",
+        "en": "yellow-browed warbler",
+        "scientific": "phylloscopus inornatus"
+    },
+    "1052674": {
+        "cs": "budníček tlustozobý",
+        "en": "radde's willow warbler",
+        "scientific": "phylloscopus schwarzi"
+    },
+    "1052636": {
+        "cs": "budníček větší",
+        "en": "willow warbler",
+        "scientific": "phylloscopus trochilus"
+    },
+    "1052679": {
+        "cs": "budníček zelený",
+        "en": "greenish leaf-warbler",
+        "scientific": "phylloscopus trochiloides"
+    },
+    "1052668": {
+        "cs": "budníček zlatohlavý",
+        "en": "pallas's leaf warbler",
+        "scientific": "phylloscopus proregulus"
+    },
+    "1049017": {
+        "cs": "bukač velký",
+        "en": "eurasian bittern",
+        "scientific": "botaurus stellaris"
+    },
+    "1049006": {
+        "cs": "bukáček malý",
+        "en": "little bittern",
+        "scientific": "ixobrychus minutus"
+    },
+    "1048565": {
+        "cs": "buřňáček malý",
+        "en": "european storm petrel",
+        "scientific": "hydrobates pelagicus"
+    },
+    "1047350": {
+        "cs": "buřňák lední",
+        "en": "northern fulmar",
+        "scientific": "fulmarus glacialis"
+    },
+    "1052574": {
+        "cs": "cetie jižní",
+        "en": "cetti’s warbler",
+        "scientific": "cettia cetti"
+    },
+    "1052684": {
+        "cs": "cvrčilka říční",
+        "en": "river warbler",
+        "scientific": "locustella fluviatilis"
+    },
+    "1052685": {
+        "cs": "cvrčilka slavíková",
+        "en": "savi's warbler",
+        "scientific": "locustella luscinioides"
+    },
+    "1052686": {
+        "cs": "cvrčilka zelená",
+        "en": "eastern grasshopper warbler",
+        "scientific": "locustella naevia"
+    },
+    "1049144": {
+        "cs": "čáp bílý",
+        "en": "white stork",
+        "scientific": "ciconia ciconia"
+    },
+    "1049147": {
+        "cs": "čáp černý",
+        "en": "black stork",
+        "scientific": "ciconia nigra"
+    },
+    "1051076": {
+        "cs": "čečetka bělavá",
+        "en": "arctic redpoll",
+        "scientific": "carduelis hornemanni"
+    },
+    "4391309": {
+        "cs": "čečetka tmavá",
+        "en": "lesser redpoll",
+        "scientific": "carduelis cabaret"
+    },
+    "1051077": {
+        "cs": "čečetka zimní",
+        "en": "common redpoll",
+        "scientific": "carduelis flammea"
+    },
+    "1049340": {
+        "cs": "čejka chocholatá",
+        "en": "northern lapwing",
+        "scientific": "vanellus vanellus"
+    },
+    "1049077": {
+        "cs": "čejka trnitá",
+        "en": "spur-winged plover",
+        "scientific": "vanellus spinosus"
+    },
+    "1051567": {
+        "cs": "červenka obecná",
+        "en": "european robin",
+        "scientific": "erithacus rubecula"
+    },
+    "1048957": {
+        "cs": "čírka modrá",
+        "en": "garganey",
+        "scientific": "anas querquedula"
+    },
+    "1048953": {
+        "cs": "čírka modrokřídlá",
+        "en": "blue-winged teal",
+        "scientific": "anas discors"
+    },
+    "1048951": {
+        "cs": "čírka obecná",
+        "en": "common teal",
+        "scientific": "anas crecca"
+    },
+    "1178497": {
+        "cs": "čížek lesní",
+        "en": "eurasian siskin",
+        "scientific": "carduelis spinus"
+    },
+    "1177481": {
+        "cs": "datel černý",
+        "en": "black woodpecker",
+        "scientific": "dryocopus martius"
+    },
+    "1047048": {
+        "cs": "datlík tříprstý",
+        "en": "three-toed woodpecker",
+        "scientific": "picoides tridactylus"
+    },
+    "919549": {
+        "cs": "dlask tlustozobý",
+        "en": "hawfinch",
+        "scientific": "coccothraustes coccothraustes"
+    },
+    "915400": {
+        "cs": "drop malý",
+        "en": "little bustard",
+        "scientific": "tetrax tetrax"
+    },
+    "915364": {
+        "cs": "drop velký",
+        "en": "great bustard",
+        "scientific": "otis tarda"
+    },
+    "1052757": {
+        "cs": "drozd brávník",
+        "en": "mistle thrush",
+        "scientific": "turdus viscivorus"
+    },
+    "1177528": {
+        "cs": "drozd cvrčala",
+        "en": "redwing",
+        "scientific": "turdus iliacus"
+    },
+    "1177507": {
+        "cs": "drozd kvíčala",
+        "en": "fieldfare",
+        "scientific": "turdus pilaris"
+    },
+    "1177508": {
+        "cs": "drozd plavý",
+        "en": "white-browed thrush",
+        "scientific": "turdus obscurus"
+    },
+    "1177497": {
+        "cs": "drozd rezavý",
+        "en": "dusky trush",
+        "scientific": "turdus naumanni"
+    },
+    "1052742": {
+        "cs": "drozd zpěvný",
+        "en": "song thrush",
+        "scientific": "turdus philomelos"
+    },
+    "1049166": {
+        "cs": "dřemlík tundrový",
+        "en": "merlin",
+        "scientific": "falco columbarius"
+    },
+    "917145": {
+        "cs": "dudek chocholatý",
+        "en": "hoopoe",
+        "scientific": "upupa epops"
+    },
+    "1049042": {
+        "cs": "dytík úhorní",
+        "en": "stone curlew",
+        "scientific": "burhinus oedicnemus"
+    },
+    "916409": {
+        "cs": "havran polní",
+        "en": "rook",
+        "scientific": "corvus frugilegus"
+    },
+    "1048975": {
+        "cs": "hohol severní",
+        "en": "common goldeneye",
+        "scientific": "bucephala clangula"
+    },
+    "1048978": {
+        "cs": "hoholka lední",
+        "en": "oldsquaw",
+        "scientific": "clangula hyemalis"
+    },
+    "1049690": {
+        "cs": "holub doupňák",
+        "en": "stock pigeon, stock dove",
+        "scientific": "columba oenas"
+    },
+    "1049693": {
+        "cs": "holub hřivnáč",
+        "en": "wood pigeon",
+        "scientific": "columba palumbus"
+    },
+    "914622": {
+        "cs": "hrdlička divoká",
+        "en": "turtle dove",
+        "scientific": "streptopelia turtur"
+    },
+    "915275": {
+        "cs": "hrdlička zahradní",
+        "en": "eurasian collared dove",
+        "scientific": "streptopelia decaocto"
+    },
+    "1048438": {
+        "cs": "husa běločelá",
+        "en": "white-fronted goose",
+        "scientific": "anser albifrons"
+    },
+    "1048458": {
+        "cs": "husa malá",
+        "en": "lesser white-fronted goose",
+        "scientific": "anser erythropus"
+    },
+    "1048449": {
+        "cs": "husa polní",
+        "en": "bean goose",
+        "scientific": "anser fabalis"
+    },
+    "1047334": {
+        "cs": "husa velká",
+        "en": "greylag goose",
+        "scientific": "anser anser"
+    },
+    "1047356": {
+        "cs": "husice liščí",
+        "en": "shelduck",
+        "scientific": "tadorna tadorna"
+    },
+    "1048958": {
+        "cs": "hvízdák americký",
+        "en": "american wigeon",
+        "scientific": "anas americana"
+    },
+    "1048955": {
+        "cs": "hvízdák eurasijský",
+        "en": "eurasian widgeon",
+        "scientific": "anas penelope"
+    },
+    "919552": {
+        "cs": "hýl obecný",
+        "en": "bullfinch",
+        "scientific": "pyrrhula pyrrhula"
+    },
+    "283089": {
+        "cs": "hýl pouštní",
+        "en": "desert finch",
+        "scientific": "bucanetes githagineus"
+    },
+    "1051187": {
+        "cs": "hýl křivčí",
+        "en": "pine rosefinch",
+        "scientific": "pinicola enucleator"
+    },
+    "919948": {
+        "cs": "hýl rudý",
+        "en": "scarlet grosbeak",
+        "scientific": "carpodacus erythrinus"
+    },
+    "1049570": {
+        "cs": "chaluha malá",
+        "en": "long-tailed skua",
+        "scientific": "stercorarius longicaudus"
+    },
+    "1049568": {
+        "cs": "chaluha pomořanská",
+        "en": "pomarine skua",
+        "scientific": "stercorarius pomarinus"
+    },
+    "1049569": {
+        "cs": "chaluha příživná",
+        "en": "arctic skua",
+        "scientific": "stercorarius parasiticus"
+    },
+    "1064979": {
+        "cs": "chaluha velká",
+        "en": "great skua",
+        "scientific": "stercorarius skua"
+    },
+    "913308": {
+        "cs": "chocholouš obecný",
+        "en": "crested lark",
+        "scientific": "galerida cristata"
+    },
+    "913273": {
+        "cs": "chřástal kropenatý",
+        "en": "spotted crake",
+        "scientific": "porzana porzana"
+    },
+    "913277": {
+        "cs": "chřástal malý",
+        "en": "little crake",
+        "scientific": "porzana parva"
+    },
+    "915410": {
+        "cs": "chřástal nejmenší",
+        "en": "baillon's crake",
+        "scientific": "porzana pusilla"
+    },
+    "1049298": {
+        "cs": "chřástal polní",
+        "en": "corncrake",
+        "scientific": "crex crex"
+    },
+    "913261": {
+        "cs": "chřástal vodní",
+        "en": "water rail",
+        "scientific": "rallus aquaticus"
+    },
+    "1048015": {
+        "cs": "ibis hnědý",
+        "en": "glossy ibis",
+        "scientific": "plegadis falcinellus"
+    },
+    "1049273": {
+        "cs": "jeřáb popelavý",
+        "en": "common crane",
+        "scientific": "grus grus"
+    },
+    "892334": {
+        "cs": "jeřábek lesní",
+        "en": "hazel grouse",
+        "scientific": "tetrastes bonasia"
+    },
+    "1049558": {
+        "cs": "jespáček ploskozobý",
+        "en": "broad-billed sandpiper",
+        "scientific": "limicola falcinellus"
+    },
+    "1049551": {
+        "cs": "jespák bojovný",
+        "en": "ruff",
+        "scientific": "philomachus pugnax"
+    },
+    "1049483": {
+        "cs": "jespák dlouhokřídlý",
+        "en": "baird's sandpiper",
+        "scientific": "calidris bairdii"
+    },
+    "1049496": {
+        "cs": "jespák křivozobý",
+        "en": "curlew sandpiper",
+        "scientific": "calidris ferruginea"
+    },
+    "1049519": {
+        "cs": "jespák malý",
+        "en": "little stint",
+        "scientific": "calidris minuta"
+    },
+    "1049471": {
+        "cs": "jespák mořský",
+        "en": "purple sandpiper",
+        "scientific": "calidris maritima"
+    },
+    "1049497": {
+        "cs": "jespák obecný",
+        "en": "dunlin",
+        "scientific": "calidris alpina"
+    },
+    "1049518": {
+        "cs": "jespák písečný",
+        "en": "sanderling",
+        "scientific": "calidris alba"
+    },
+    "1049546": {
+        "cs": "jespák plavý",
+        "en": "buff-breasted sandpiper",
+        "scientific": "tryngites subruficollis"
+    },
+    "1049469": {
+        "cs": "jespák rezavý",
+        "en": "red knot",
+        "scientific": "calidris canutus"
+    },
+    "1049474": {
+        "cs": "jespák skvrnitý",
+        "en": "pectoral sandpiper",
+        "scientific": "calidris melanotos"
+    },
+    "1049486": {
+        "cs": "jespák šedý",
+        "en": "temminck's stint",
+        "scientific": "calidris temminckii"
+    },
+    "1049475": {
+        "cs": "jespák tundrový",
+        "en": "white-rumped sandpiper",
+        "scientific": "calidris fuscicollis"
+    },
+    "1049024": {
+        "cs": "jestřáb lesní",
+        "en": "northern goshawk",
+        "scientific": "accipiter gentilis"
+    },
+    "284079": {
+        "cs": "jiřička obecná",
+        "en": "common house martin",
+        "scientific": "delichon urbicum"
+    },
+    "1047918": {
+        "cs": "kachna divoká",
+        "en": "mallard",
+        "scientific": "anas platyrhynchos"
+    },
+    "1048994": {
+        "cs": "kajka královská",
+        "en": "king eider",
+        "scientific": "somateria spectabilis"
+    },
+    "1048993": {
+        "cs": "kajka mořská",
+        "en": "common eider",
+        "scientific": "somateria mollissima"
+    },
+    "1048990": {
+        "cs": "kajka stellerova",
+        "en": "steller's eider",
+        "scientific": "polysticta stelleri"
+    },
+    "915736": {
+        "cs": "kalous pustovka",
+        "en": "short-eared owl",
+        "scientific": "asio flammeus"
+    },
+    "915724": {
+        "cs": "kalous ušatý",
+        "en": "long-eared owl",
+        "scientific": "asio otus"
+    },
+    "1049367": {
+        "cs": "kameňáček pestrý",
+        "en": "ruddy turnstone",
+        "scientific": "arenaria interpres"
+    },
+    "1048447": {
+        "cs": "káně bělochvostá",
+        "en": "long-legged hawk",
+        "scientific": "buteo rufinus"
+    },
+    "1048441": {
+        "cs": "káně lesní",
+        "en": "buzzard",
+        "scientific": "buteo buteo"
+    },
+    "1049089": {
+        "cs": "káně rousná",
+        "en": "rough-legged hawk",
+        "scientific": "buteo lagopus"
+    },
+    "916568": {
+        "cs": "kavče žlutozobé",
+        "en": "yellow-billed chough",
+        "scientific": "pyrrhocorax graculus"
+    },
+    "1177485": {
+        "cs": "kavka obecná",
+        "en": "jackdaw",
+        "scientific": "corvus monedula"
+    },
+    "1049069": {
+        "cs": "keptuška běloocasá",
+        "en": "white-tailed lapwing",
+        "scientific": "vanellus leucurus"
+    },
+    "1049066": {
+        "cs": "keptuška stepní",
+        "en": "sociable lapwing",
+        "scientific": "vanellus gregarius"
+    },
+    "1049394": {
+        "cs": "koliha malá",
+        "en": "whimbrel",
+        "scientific": "numenius phaeopus"
+    },
+    "1049389": {
+        "cs": "koliha velká",
+        "en": "eurasian curlew",
+        "scientific": "numenius arquata"
+    },
+    "1049642": {
+        "cs": "kolpík bílý",
+        "en": "eurasian spoonbill",
+        "scientific": "platalea leucorodia"
+    },
+    "1050602": {
+        "cs": "konipas bílý",
+        "en": "white wagtail",
+        "scientific": "motacilla alba"
+    },
+    "1178526": {
+        "cs": "konipas citronový",
+        "en": "citrine wagtail",
+        "scientific": "motacilla citreola"
+    },
+    "1050603": {
+        "cs": "konipas horský",
+        "en": "grey wagtail",
+        "scientific": "motacilla cinerea"
+    },
+    "8846611": {
+        "cs": "konipas luční",
+        "en": "western yellow wagtail",
+        "scientific": "motacilla flava"
+    },
+    "1050640": {
+        "cs": "konopka obecná",
+        "en": "linnet",
+        "scientific": "carduelis cannabina"
+    },
+    "1050644": {
+        "cs": "konopka žlutozobá",
+        "en": "twite",
+        "scientific": "carduelis flavirostris"
+    },
+    "912807": {
+        "cs": "kopřivka obecná",
+        "en": "gadwall",
+        "scientific": "anas strepera"
+    },
+    "1049403": {
+        "cs": "kormorán chocholatý",
+        "en": "shag",
+        "scientific": "phalacrocorax aristotelis"
+    },
+    "1049432": {
+        "cs": "kormorán malý",
+        "en": "pygmy cormorant",
+        "scientific": "phalacrocorax pygmaeus"
+    },
+    "1048641": {
+        "cs": "kormorán velký",
+        "en": "great cormorant",
+        "scientific": "phalacrocorax carbo"
+    },
+    "1049240": {
+        "cs": "koroptev polní",
+        "en": "grey partridge",
+        "scientific": "perdix perdix"
+    },
+    "1177498": {
+        "cs": "kos černý",
+        "en": "common blackbird",
+        "scientific": "turdus merula"
+    },
+    "1052755": {
+        "cs": "kos horský",
+        "en": "ring ouzel",
+        "scientific": "turdus torquatus"
+    },
+    "1048019": {
+        "cs": "krahujec krátkoprstý",
+        "en": "levant sparrowhawk",
+        "scientific": "accipiter brevipes"
+    },
+    "1048393": {
+        "cs": "krahujec obecný",
+        "en": "eurasian sparrow hawk",
+        "scientific": "accipiter nisus"
+    },
+    "1051232": {
+        "cs": "králíček obecný",
+        "en": "goldcrest",
+        "scientific": "regulus regulus"
+    },
+    "1051231": {
+        "cs": "králíček ohnivý",
+        "en": "firecrest",
+        "scientific": "regulus ignicapilla"
+    },
+    "1177364": {
+        "cs": "krkavec velký",
+        "en": "common raven",
+        "scientific": "corvus corax"
+    },
+    "917141": {
+        "cs": "krutihlav obecný",
+        "en": "wryneck",
+        "scientific": "jynx torquilla"
+    },
+    "914847": {
+        "cs": "křepelka polní",
+        "en": "common quail",
+        "scientific": "coturnix coturnix"
+    },
+    "1052536": {
+        "cs": "křivka bělokřídlá",
+        "en": "white-winged crossbill",
+        "scientific": "loxia leucoptera"
+    },
+    "1051010": {
+        "cs": "křivka obecná",
+        "en": "red crossbill",
+        "scientific": "loxia curvirostra"
+    },
+    "1050658": {
+        "cs": "křivka velká",
+        "en": "parrot crossbill",
+        "scientific": "loxia pytyopsittacus"
+    },
+    "913266": {
+        "cs": "kukačka obecná",
+        "en": "common cuckoo",
+        "scientific": "cuculus canorus"
+    },
+    "1049366": {
+        "cs": "kulík bledý",
+        "en": "grey plover",
+        "scientific": "pluvialis squatarola"
+    },
+    "1049365": {
+        "cs": "kulík hnědokřídlý",
+        "en": "american golden plover",
+        "scientific": "pluvialis dominica"
+    },
+    "1178531": {
+        "cs": "kulík hnědý",
+        "en": "eurasian dotterel",
+        "scientific": "charadrius morinellus"
+    },
+    "1049344": {
+        "cs": "kulík mořský",
+        "en": "kentish plover",
+        "scientific": "charadrius alexandrinus"
+    },
+    "1049341": {
+        "cs": "kulík písečný",
+        "en": "common ringed plover",
+        "scientific": "charadrius hiaticula"
+    },
+    "1049361": {
+        "cs": "kulík říční",
+        "en": "little ringed plover",
+        "scientific": "charadrius dubius"
+    },
+    "1049364": {
+        "cs": "kulík zlatý",
+        "en": "european golden plover",
+        "scientific": "pluvialis apricaria"
+    },
+    "1178263": {
+        "cs": "kulíšek nejmenší",
+        "en": "pigmy owlet",
+        "scientific": "glaucidium passerinum"
+    },
+    "1048731": {
+        "cs": "kvakoš noční",
+        "en": "black-crowned night-heron",
+        "scientific": "nycticorax nycticorax"
+    },
+    "913228": {
+        "cs": "labuť malá",
+        "en": "tundra swan",
+        "scientific": "cygnus columbianus"
+    },
+    "913227": {
+        "cs": "labuť velká",
+        "en": "mute swan",
+        "scientific": "cygnus olor"
+    },
+    "913229": {
+        "cs": "labuť zpěvná",
+        "en": "whooper swan",
+        "scientific": "cygnus cygnus"
+    },
+    "1178564": {
+        "cs": "ledňáček říční",
+        "en": "common kingfisher",
+        "scientific": "alcedo atthis"
+    },
+    "1051397": {
+        "cs": "lejsek bělokrký",
+        "en": "collared flycatcher",
+        "scientific": "ficedula albicollis"
+    },
+    "1051410": {
+        "cs": "lejsek černohlavý",
+        "en": "european pied flycatcher",
+        "scientific": "ficedula hypoleuca"
+    },
+    "1050792": {
+        "cs": "lejsek malý",
+        "en": "red-throated flycatcher",
+        "scientific": "ficedula parva"
+    },
+    "1051394": {
+        "cs": "lejsek šedý",
+        "en": "spotted flycatcher",
+        "scientific": "muscicapa striata"
+    },
+    "1178141": {
+        "cs": "lelek lesní",
+        "en": "european nightjar",
+        "scientific": "caprimulgus europaeus"
+    },
+    "1051318": {
+        "cs": "linduška horská",
+        "en": "water pipit",
+        "scientific": "anthus spinoletta"
+    },
+    "1050626": {
+        "cs": "linduška lesní",
+        "en": "tree pipit",
+        "scientific": "anthus trivialis"
+    },
+    "1051319": {
+        "cs": "linduška luční",
+        "en": "meadow pipit",
+        "scientific": "anthus pratensis"
+    },
+    "1051355": {
+        "cs": "linduška skalní",
+        "en": "eurasian rock pipit",
+        "scientific": "anthus petrosus"
+    },
+    "1050624": {
+        "cs": "linduška rudokrká",
+        "en": "red-throated pipit",
+        "scientific": "anthus cervinus"
+    },
+    "1051331": {
+        "cs": "linduška úhorní",
+        "en": "tawny pipit",
+        "scientific": "anthus campestris"
+    },
+    "1048006": {
+        "cs": "luněc šedý",
+        "en": "black-winged kite",
+        "scientific": "elanus caeruleus"
+    },
+    "914570": {
+        "cs": "luňák červený",
+        "en": "red kite",
+        "scientific": "milvus milvus"
+    },
+    "1049133": {
+        "cs": "luňák hnědý",
+        "en": "black kite",
+        "scientific": "milvus migrans"
+    },
+    "1049300": {
+        "cs": "lyska černá",
+        "en": "eurasian coot",
+        "scientific": "fulica atra"
+    },
+    "1064981": {
+        "cs": "lyskonoh ploskozobý",
+        "en": "grey phalarope",
+        "scientific": "phalaropus fulicarius"
+    },
+    "1049565": {
+        "cs": "lyskonoh úzkozobý",
+        "en": "red-necked phalarope",
+        "scientific": "phalaropus lobatus"
+    },
+    "1048959": {
+        "cs": "lžičák pestrý",
+        "en": "northern shoveler",
+        "scientific": "anas clypeata"
+    },
+    "1050025": {
+        "cs": "mandelík hajní",
+        "en": "european roller",
+        "scientific": "coracias garrulus"
+    },
+    "915636": {
+        "cs": "mlynařík dlouhoocasý",
+        "en": "long-tailed tit",
+        "scientific": "aegithalos caudatus"
+    },
+    "1177985": {
+        "cs": "modruška tajgová",
+        "en": "red-flanked bluetail",
+        "scientific": "tarsiger cyanurus"
+    },
+    "1049009": {
+        "cs": "morčák bílý",
+        "en": "smew",
+        "scientific": "mergellus albellus"
+    },
+    "1049002": {
+        "cs": "morčák prostřední",
+        "en": "red-breasted merganser",
+        "scientific": "mergus serrator"
+    },
+    "1049001": {
+        "cs": "morčák velký",
+        "en": "common merganser",
+        "scientific": "mergus merganser"
+    },
+    "913085": {
+        "cs": "moták lužní",
+        "en": "montagu’s harrier",
+        "scientific": "circus pygargus"
+    },
+    "1049123": {
+        "cs": "moták pilich",
+        "en": "northern harrier",
+        "scientific": "circus cyaneus"
+    },
+    "1047915": {
+        "cs": "moták pochop",
+        "en": "western marsh harrier",
+        "scientific": "circus aeruginosus"
+    },
+    "1047911": {
+        "cs": "moták stepní",
+        "en": "pallid harrier",
+        "scientific": "circus macrourus"
+    },
+    "1051179": {
+        "cs": "moudivláček lužní",
+        "en": "penduline tit",
+        "scientific": "remiz pendulinus"
+    },
+    "914599": {
+        "cs": "orel jestřábí",
+        "en": "bonelli’s eagle",
+        "scientific": "aquila fasciata"
+    },
+    "914148": {
+        "cs": "orel královský",
+        "en": "imperial eagle",
+        "scientific": "aquila heliaca"
+    },
+    "914147": {
+        "cs": "orel křiklavý",
+        "en": "lesser spotted eagle",
+        "scientific": "aquila pomarina"
+    },
+    "1049120": {
+        "cs": "orel mořský",
+        "en": "white-tailed eagle",
+        "scientific": "haliaeetus albicilla"
+    },
+    "915252": {
+        "cs": "orel nejmenší",
+        "en": "booted hawk eagle",
+        "scientific": "hieraaetus pennatus"
+    },
+    "1049119": {
+        "cs": "orel skalní",
+        "en": "golden eagle",
+        "scientific": "aquila chrysaetos"
+    },
+    "914512": {
+        "cs": "orel stepní",
+        "en": "steppe eagle",
+        "scientific": "aquila nipalensis"
+    },
+    "1048435": {
+        "cs": "orel volavý",
+        "en": "greater spotted eagle",
+        "scientific": "aquila clanga"
+    },
+    "1047571": {
+        "cs": "orlík krátkoprstý",
+        "en": "short-toed eagle",
+        "scientific": "circaetus gallicus"
+    },
+    "1049145": {
+        "cs": "orlovec říční",
+        "en": "osprey",
+        "scientific": "pandion haliaetus"
+    },
+    "917366": {
+        "cs": "ořešník kropenatý",
+        "en": "nutcracker",
+        "scientific": "nucifraga caryocatactes"
+    },
+    "1048943": {
+        "cs": "ostralka štíhlá",
+        "en": "northern pintail",
+        "scientific": "anas acuta"
+    },
+    "1049195": {
+        "cs": "ostříž jižní",
+        "en": "eleonora's falcon",
+        "scientific": "falco eleonorae"
+    },
+    "1049172": {
+        "cs": "ostříž lesní",
+        "en": "eurasian hobby",
+        "scientific": "falco subbuteo"
+    },
+    "1049253": {
+        "cs": "ouhorlík černokřídlý",
+        "en": "black-winged pratincole",
+        "scientific": "glareola nordmanni"
+    },
+    "1049257": {
+        "cs": "ouhorlík stepní",
+        "en": "collared pratincole",
+        "scientific": "glareola pratincola"
+    },
+    "1049382": {
+        "cs": "pelikán bílý",
+        "en": "great white pelican",
+        "scientific": "pelecanus onocrotalus"
+    },
+    "1052375": {
+        "cs": "pěnice bělohrdlá",
+        "en": "sardinian warbler",
+        "scientific": "sylvia melanocephala"
+    },
+    "1052362": {
+        "cs": "pěnice černohlavá",
+        "en": "eurasian blackcap",
+        "scientific": "sylvia atricapilla"
+    },
+    "1052367": {
+        "cs": "pěnice hnědokřídlá",
+        "en": "common whitethroat",
+        "scientific": "sylvia communis"
+    },
+    "1052384": {
+        "cs": "pěnice kaštanová",
+        "en": "dartford warbler",
+        "scientific": "sylvia undata"
+    },
+    "1052379": {
+        "cs": "pěnice malá",
+        "en": "desert warbler",
+        "scientific": "sylvia nana"
+    },
+    "1052369": {
+        "cs": "pěnice pokřovní",
+        "en": "whitethroat",
+        "scientific": "sylvia curruca"
+    },
+    "1052364": {
+        "cs": "pěnice slavíková",
+        "en": "garden warbler",
+        "scientific": "sylvia borin"
+    },
+    "1052380": {
+        "cs": "pěnice vlašská",
+        "en": "barred warbler",
+        "scientific": "sylvia nisoria"
+    },
+    "1052105": {
+        "cs": "pěnkava jikavec",
+        "en": "brambling",
+        "scientific": "fringilla montifringilla"
+    },
+    "919235": {
+        "cs": "pěnkava obecná",
+        "en": "chaffinch",
+        "scientific": "fringilla coelebs"
+    },
+    "1052127": {
+        "cs": "pěnkavák sněžní",
+        "en": "white-winged snowfinch",
+        "scientific": "montifringilla nivalis"
+    },
+    "918161": {
+        "cs": "pěvuška modrá",
+        "en": "dunnock",
+        "scientific": "prunella modularis"
+    },
+    "919833": {
+        "cs": "pěvuška podhorní",
+        "en": "alpine accentor",
+        "scientific": "prunella collaris"
+    },
+    "1049400": {
+        "cs": "pisík obecný",
+        "en": "common sandpiper",
+        "scientific": "actitis hypoleucos"
+    },
+    "1049562": {
+        "cs": "pisila čáponohá",
+        "en": "common stilt",
+        "scientific": "himantopus himantopus"
+    },
+    "913221": {
+        "cs": "plameňák americký",
+        "en": "greater flamingo",
+        "scientific": "phoenicopterus ruber"
+    },
+    "1048974": {
+        "cs": "polák chocholačka",
+        "en": "tufted duck",
+        "scientific": "aythya fuligula"
+    },
+    "1048972": {
+        "cs": "polák kaholka",
+        "en": "greater scaup",
+        "scientific": "aythya marila"
+    },
+    "1048483": {
+        "cs": "polák malý",
+        "en": "ferruginous duck",
+        "scientific": "aythya nyroca"
+    },
+    "1048966": {
+        "cs": "polák proužkozobý",
+        "en": "ring-necked duck",
+        "scientific": "aythya collaris"
+    },
+    "1048965": {
+        "cs": "polák velký",
+        "en": "common pochard",
+        "scientific": "aythya ferina"
+    },
+    "1049201": {
+        "cs": "poštolka jižní",
+        "en": "lesser kestrel",
+        "scientific": "falco naumanni"
+    },
+    "1049167": {
+        "cs": "poštolka obecná",
+        "en": "eurasian kestrel",
+        "scientific": "falco tinnunculus"
+    },
+    "1049210": {
+        "cs": "poštolka rudonohá",
+        "en": "red-footed falcon",
+        "scientific": "falco vespertinus"
+    },
+    "1047340": {
+        "cs": "potápka černokrká",
+        "en": "eared grebe",
+        "scientific": "podiceps nigricollis"
+    },
+    "1049443": {
+        "cs": "potápka roháč",
+        "en": "great-crested grebe",
+        "scientific": "podiceps cristatus"
+    },
+    "1047339": {
+        "cs": "potápka žlutorohá",
+        "en": "horned grebe",
+        "scientific": "podiceps auritus"
+    },
+    "1047329": {
+        "cs": "potáplice lední",
+        "en": "common loon",
+        "scientific": "gavia immer"
+    },
+    "1047332": {
+        "cs": "potáplice malá",
+        "en": "red-throated loon",
+        "scientific": "gavia stellata"
+    },
+    "1047331": {
+        "cs": "potáplice severní",
+        "en": "arctic loon",
+        "scientific": "gavia arctica"
+    },
+    "1047330": {
+        "cs": "potáplice žlutozobá",
+        "en": "yellow-billed loon",
+        "scientific": "gavia adamsii"
+    },
+    "1178297": {
+        "cs": "puštík bělavý",
+        "en": "ural owl",
+        "scientific": "strix uralensis"
+    },
+    "1178288": {
+        "cs": "puštík obecný",
+        "en": "tawny wood owl",
+        "scientific": "strix aluco"
+    },
+    "1049301": {
+        "cs": "racek audouinův",
+        "en": "audouin's gull",
+        "scientific": "ichthyaetus audouinii"
+    },
+    "1178521": {
+        "cs": "racek bělohlavý",
+        "en": "caspian gull",
+        "scientific": "larus cachinnans"
+    },
+    "1049606": {
+        "cs": "racek bonapartův",
+        "en": "bonaparte's gull",
+        "scientific": "chroicocephalus philadelphia"
+    },
+    "1049585": {
+        "cs": "racek bouřní",
+        "en": "common gull",
+        "scientific": "larus canus"
+    },
+    "1049313": {
+        "cs": "racek černohlavý",
+        "en": "mediterranean gull",
+        "scientific": "ichthyaetus melanocephalus"
+    },
+    "1049583": {
+        "cs": "racek delawarský",
+        "en": "ring-billed gull",
+        "scientific": "larus delawarensis"
+    },
+    "1049595": {
+        "cs": "racek chechtavý",
+        "en": "black-headed gull",
+        "scientific": "chroicocephalus ridibundus"
+    },
+    "1049607": {
+        "cs": "racek malý",
+        "en": "little gull",
+        "scientific": "hydrocoloeus minutus"
+    },
+    "1049577": {
+        "cs": "racek mořský",
+        "en": "great black-backed gull",
+        "scientific": "larus marinus"
+    },
+    "1049572": {
+        "cs": "racek polární",
+        "en": "iceland gull",
+        "scientific": "larus glaucoides"
+    },
+    "1049627": {
+        "cs": "racek sabinův",
+        "en": "sabine's gull",
+        "scientific": "xema sabini"
+    },
+    "2870492": {
+        "cs": "racek středomořský",
+        "en": "yellow-legged gull",
+        "scientific": "larus michahellis"
+    },
+    "1049581": {
+        "cs": "racek stříbřitý",
+        "en": "herring gull",
+        "scientific": "larus argentatus"
+    },
+    "1049571": {
+        "cs": "racek šedý",
+        "en": "glaucous gull",
+        "scientific": "larus hyperboreus"
+    },
+    "1049628": {
+        "cs": "racek tříprstý",
+        "en": "kittiwake gull",
+        "scientific": "rissa tridactyla"
+    },
+    "1049309": {
+        "cs": "racek velký",
+        "en": "great black-headed gull",
+        "scientific": "ichthyaetus ichthyaetus"
+    },
+    "1049580": {
+        "cs": "racek žlutonohý",
+        "en": "lesser black-backed gull",
+        "scientific": "larus fuscus"
+    },
+    "1052563": {
+        "cs": "rákosník obecný",
+        "en": "eurasian reed warbler",
+        "scientific": "acrocephalus scirpaceus"
+    },
+    "1052557": {
+        "cs": "rákosník ostřicový",
+        "en": "aquatic warbler",
+        "scientific": "acrocephalus paludicola"
+    },
+    "1052562": {
+        "cs": "rákosník proužkovaný",
+        "en": "sedge warbler",
+        "scientific": "acrocephalus schoenobaenus"
+    },
+    "1052554": {
+        "cs": "rákosník tamaryškový",
+        "en": "moustached warbler",
+        "scientific": "acrocephalus melanopogon"
+    },
+    "1052541": {
+        "cs": "rákosník velký",
+        "en": "great reed warbler",
+        "scientific": "acrocephalus arundinaceus"
+    },
+    "1052558": {
+        "cs": "rákosník zpěvný",
+        "en": "marsh warbler",
+        "scientific": "acrocephalus palustris"
+    },
+    "1049190": {
+        "cs": "raroh velký",
+        "en": "saker falcon",
+        "scientific": "falco cherrug"
+    },
+    "1051609": {
+        "cs": "rehek domácí",
+        "en": "black redstart",
+        "scientific": "phoenicurus ochruros"
+    },
+    "1051610": {
+        "cs": "rehek zahradní",
+        "en": "common redstart",
+        "scientific": "phoenicurus phoenicurus"
+    },
+    "1046068": {
+        "cs": "rorýs obecný",
+        "en": "common swift",
+        "scientific": "apus apus"
+    },
+    "1178570": {
+        "cs": "rorýs velký",
+        "en": "alpine swift",
+        "scientific": "apus melba"
+    },
+    "1065007": {
+        "cs": "rybák bahenní",
+        "en": "whiskered tern",
+        "scientific": "chlidonias hybrida"
+    },
+    "1049371": {
+        "cs": "rybák bělokřídlý",
+        "en": "white-winged tern",
+        "scientific": "chlidonias leucopterus"
+    },
+    "1049737": {
+        "cs": "rybák černozobý",
+        "en": "gull-billed tern",
+        "scientific": "gelochelidon nilotica"
+    },
+    "1049372": {
+        "cs": "rybák černý",
+        "en": "black tern",
+        "scientific": "chlidonias niger"
+    },
+    "1049640": {
+        "cs": "rybák dlouhoocasý",
+        "en": "arctic tern",
+        "scientific": "sterna paradisaea"
+    },
+    "1049714": {
+        "cs": "rybák malý",
+        "en": "little tern",
+        "scientific": "sternula albifrons"
+    },
+    "1049639": {
+        "cs": "rybák obecný",
+        "en": "common tern",
+        "scientific": "sterna hirundo"
+    },
+    "1049738": {
+        "cs": "rybák severní",
+        "en": "sandwich tern",
+        "scientific": "thalasseus sandvicensis"
+    },
+    "1049728": {
+        "cs": "rybák velkozobý",
+        "en": "caspian tern",
+        "scientific": "hydroprogne caspia"
+    },
+    "1052237": {
+        "cs": "sedmihlásek hajní",
+        "en": "icterine warbler",
+        "scientific": "hippolais icterina"
+    },
+    "1052236": {
+        "cs": "sedmihlásek malý",
+        "en": "booted warbler",
+        "scientific": "hippolais caligata"
+    },
+    "1052240": {
+        "cs": "sedmihlásek šedý",
+        "en": "olivaceous warbler",
+        "scientific": "hippolais pallida"
+    },
+    "1052797": {
+        "cs": "skalník zpěvný",
+        "en": "white-backed rock thrush",
+        "scientific": "monticola saxatilis"
+    },
+    "916125": {
+        "cs": "skorec vodní",
+        "en": "dipper",
+        "scientific": "cinclus cinclus"
+    },
+    "1048050": {
+        "cs": "skřivan lesní",
+        "en": "woodlark",
+        "scientific": "lullula arborea"
+    },
+    "915655": {
+        "cs": "skřivan ouškatý",
+        "en": "horned lark",
+        "scientific": "eremophila alpestris"
+    },
+    "916864": {
+        "cs": "skřivan polní",
+        "en": "skylark",
+        "scientific": "alauda arvensis"
+    },
+    "1177797": {
+        "cs": "slavík modráček",
+        "en": "bluethroat",
+        "scientific": "luscinia svecica"
+    },
+    "1051449": {
+        "cs": "slavík obecný",
+        "en": "common nightingale",
+        "scientific": "luscinia megarhynchos"
+    },
+    "1051448": {
+        "cs": "slavík tmavý",
+        "en": "thrush nightingale",
+        "scientific": "luscinia luscinia"
+    },
+    "1049299": {
+        "cs": "slípka zelenonohá",
+        "en": "common moorhen",
+        "scientific": "gallinula chloropus"
+    },
+    "1049387": {
+        "cs": "slučka malá",
+        "en": "jack snipe",
+        "scientific": "lymnocryptes minimus"
+    },
+    "1049377": {
+        "cs": "sluka lesní",
+        "en": "eurasian woodcock",
+        "scientific": "scolopax rusticola"
+    },
+    "1052768": {
+        "cs": "sněhule severní",
+        "en": "snow bunting",
+        "scientific": "plectrophenax nivalis"
+    },
+    "916527": {
+        "cs": "sojka obecná",
+        "en": "jay",
+        "scientific": "garrulus glandarius"
+    },
+    "1049164": {
+        "cs": "sokol stěhovavý",
+        "en": "peregrine falcon",
+        "scientific": "falco peregrinus"
+    },
+    "914939": {
+        "cs": "sova pálená",
+        "en": "barn owl",
+        "scientific": "tyto alba"
+    },
+    "913152": {
+        "cs": "sovice krahujová",
+        "en": "hawk owl",
+        "scientific": "surnia ulula"
+    },
+    "1036388": {
+        "cs": "sovice sněžní",
+        "en": "snowy owl",
+        "scientific": "bubo scandiacus"
+    },
+    "1051079": {
+        "cs": "stehlík obecný",
+        "en": "european goldfinch",
+        "scientific": "carduelis carduelis"
+    },
+    "1177362": {
+        "cs": "straka obecná",
+        "en": "eurasian magpie",
+        "scientific": "pica pica"
+    },
+    "1177523": {
+        "cs": "strakapoud bělohřbetý",
+        "en": "white-backed woodpecker",
+        "scientific": "dendrocopos leucotos"
+    },
+    "1177524": {
+        "cs": "strakapoud jižní",
+        "en": "syrian woodpecker",
+        "scientific": "dendrocopos syriacus"
+    },
+    "1177514": {
+        "cs": "strakapoud malý",
+        "en": "lesser spotted woodpecker",
+        "scientific": "dendrocopos minor"
+    },
+    "1177522": {
+        "cs": "strakapoud prostřední",
+        "en": "middle spotted woodpecker",
+        "scientific": "dendrocopos medius"
+    },
+    "1178483": {
+        "cs": "strakapoud velký",
+        "en": "great spotted woodpecker",
+        "scientific": "dendrocopos major"
+    },
+    "1178506": {
+        "cs": "strnad bělohlavý",
+        "en": "pine bunting",
+        "scientific": "emberiza leucocephalos"
+    },
+    "1046736": {
+        "cs": "strnad cvrčivý",
+        "en": "cirl bunting",
+        "scientific": "emberiza cirlus"
+    },
+    "1046727": {
+        "cs": "strnad hnědohlavý",
+        "en": "brown-headed bunting",
+        "scientific": "emberiza bruniceps"
+    },
+    "892214": {
+        "cs": "strnad luční",
+        "en": "corn bunting",
+        "scientific": "emberiza calandra"
+    },
+    "1052774": {
+        "cs": "strnad malinký",
+        "en": "little bunting",
+        "scientific": "emberiza pusilla"
+    },
+    "1046716": {
+        "cs": "strnad obecný",
+        "en": "yellowhammer",
+        "scientific": "emberiza citrinella"
+    },
+    "1178505": {
+        "cs": "strnad obojkový",
+        "en": "yellow-breasted bunting",
+        "scientific": "emberiza aureola"
+    },
+    "1052775": {
+        "cs": "strnad rákosní",
+        "en": "common reed bunting",
+        "scientific": "emberiza schoeniclus"
+    },
+    "1052772": {
+        "cs": "strnad rolní",
+        "en": "rustic bunting",
+        "scientific": "emberiza rustica"
+    },
+    "1052765": {
+        "cs": "strnad severní",
+        "en": "lapland longspur",
+        "scientific": "calcarius lapponicus"
+    },
+    "1046733": {
+        "cs": "strnad viničný",
+        "en": "rock bunting",
+        "scientific": "emberiza cia"
+    },
+    "1046741": {
+        "cs": "strnad zahradní",
+        "en": "ortolan bunting",
+        "scientific": "emberiza hortulana"
+    },
+    "1050660": {
+        "cs": "střízlík obecný",
+        "en": "winter wren",
+        "scientific": "troglodytes troglodytes"
+    },
+    "912806": {
+        "cs": "sup bělohlavý",
+        "en": "eurasian griffon",
+        "scientific": "gyps fulvus"
+    },
+    "1047566": {
+        "cs": "sup hnědý",
+        "en": "cinereous vulture",
+        "scientific": "aegypius monachus"
+    },
+    "914577": {
+        "cs": "sup mrchožravý",
+        "en": "egyptian vulture",
+        "scientific": "neophron percnopterus"
+    },
+    "915739": {
+        "cs": "sýc rousný",
+        "en": "tengmalm's owl",
+        "scientific": "aegolius funereus"
+    },
+    "1178306": {
+        "cs": "sýček obecný",
+        "en": "little owl",
+        "scientific": "athene noctua"
+    },
+    "1051998": {
+        "cs": "sýkora azurová",
+        "en": "azure tit",
+        "scientific": "cyanistes cyanus"
+    },
+    "1051996": {
+        "cs": "sýkora babka",
+        "en": "marsh tit",
+        "scientific": "poecile palustris"
+    },
+    "1051974": {
+        "cs": "sýkora koňadra",
+        "en": "great tit",
+        "scientific": "parus major"
+    },
+    "284208": {
+        "cs": "sýkora lužní",
+        "en": "willow tit",
+        "scientific": "poecile montana"
+    },
+    "1051997": {
+        "cs": "sýkora modřinka",
+        "en": "blue tit",
+        "scientific": "cyanistes caeruleus"
+    },
+    "1052002": {
+        "cs": "sýkora parukářka",
+        "en": "european crested tit",
+        "scientific": "lophophanes cristatus"
+    },
+    "1052006": {
+        "cs": "sýkora uhelníček",
+        "en": "coal tit",
+        "scientific": "periparus ater"
+    },
+    "920714": {
+        "cs": "sýkořice vousatá",
+        "en": "bearded reedling",
+        "scientific": "panurus biarmicus"
+    },
+    "916105": {
+        "cs": "šoupálek dlouhoprstý",
+        "en": "tree creeper",
+        "scientific": "certhia familiaris"
+    },
+    "916104": {
+        "cs": "šoupálek krátkoprstý",
+        "en": "short-toed treecreeper",
+        "scientific": "certhia brachydactyla"
+    },
+    "922253": {
+        "cs": "špaček obecný",
+        "en": "common starling",
+        "scientific": "sturnus vulgaris"
+    },
+    "1051049": {
+        "cs": "špaček růžový",
+        "en": "rosy starling",
+        "scientific": "sturnus roseus"
+    },
+    "1049118": {
+        "cs": "tenkozobec opačný",
+        "en": "avocet",
+        "scientific": "recurvirostra avosetta"
+    },
+    "1048640": {
+        "cs": "terej bílý",
+        "en": "northern gannet",
+        "scientific": "morus bassanus"
+    },
+    "915309": {
+        "cs": "tetřev hlušec",
+        "en": "western capercaillie",
+        "scientific": "tetrao urogallus"
+    },
+    "1050928": {
+        "cs": "ťuhýk menší",
+        "en": "lesser grey shrike",
+        "scientific": "lanius minor"
+    },
+    "1050920": {
+        "cs": "ťuhýk obecný",
+        "en": "red-backed shrike",
+        "scientific": "lanius collurio"
+    },
+    "1050932": {
+        "cs": "ťuhýk rudohlavý",
+        "en": "woodchat shrike",
+        "scientific": "lanius senator"
+    },
+    "1050633": {
+        "cs": "ťuhýk šedý",
+        "en": "northern shrike",
+        "scientific": "lanius excubitor"
+    },
+    "1048998": {
+        "cs": "turpan černý",
+        "en": "black scoter",
+        "scientific": "melanitta nigra"
+    },
+    "1048996": {
+        "cs": "turpan hnědý",
+        "en": "white-winged scoter",
+        "scientific": "melanitta fusca"
+    },
+    "1049333": {
+        "cs": "ústřičník velký",
+        "en": "eurasian oystercatcher",
+        "scientific": "haematopus ostralegus"
+    },
+    "914556": {
+        "cs": "včelojed lesní",
+        "en": "european honey-buzzard",
+        "scientific": "pernis apivorus"
+    },
+    "917688": {
+        "cs": "vlaštovka obecná",
+        "en": "barn swallow",
+        "scientific": "hirundo rustica"
+    },
+    "1050761": {
+        "cs": "vlaštovka skalní",
+        "en": "red-rumped swallow",
+        "scientific": "hirundo daurica"
+    },
+    "1050051": {
+        "cs": "vlha pestrá",
+        "en": "european bee eater",
+        "scientific": "merops apiaster"
+    },
+    "1049421": {
+        "cs": "vodouš bahenní",
+        "en": "wood sandpiper",
+        "scientific": "tringa glareola"
+    },
+    "1049450": {
+        "cs": "vodouš kropenatý",
+        "en": "green sandpiper",
+        "scientific": "tringa ochropus"
+    },
+    "1049559": {
+        "cs": "vodouš malý",
+        "en": "terek sandpiper",
+        "scientific": "xenus cinereus"
+    },
+    "1049441": {
+        "cs": "vodouš rudonohý",
+        "en": "common redshank",
+        "scientific": "tringa totanus"
+    },
+    "1049442": {
+        "cs": "vodouš šedý",
+        "en": "greenshank",
+        "scientific": "tringa nebularia"
+    },
+    "1049451": {
+        "cs": "vodouš štíhlý",
+        "en": "marsh sandpiper",
+        "scientific": "tringa stagnatilis"
+    },
+    "1049440": {
+        "cs": "vodouš tmavý",
+        "en": "spotted redshank",
+        "scientific": "tringa erythropus"
+    },
+    "1049431": {
+        "cs": "vodouš velký",
+        "en": "greater yellowlegs",
+        "scientific": "tringa melanoleuca"
+    },
+    "1178488": {
+        "cs": "volavka bílá",
+        "en": "great egret",
+        "scientific": "ardea alba"
+    },
+    "1048985": {
+        "cs": "volavka červená",
+        "en": "purple heron",
+        "scientific": "ardea purpurea"
+    },
+    "1048664": {
+        "cs": "volavka popelavá",
+        "en": "grey heron",
+        "scientific": "ardea cinerea"
+    },
+    "1048666": {
+        "cs": "volavka rusohlavá",
+        "en": "cattle egret",
+        "scientific": "bubulcus ibis"
+    },
+    "1048689": {
+        "cs": "volavka stříbřitá",
+        "en": "little egret",
+        "scientific": "egretta garzetta"
+    },
+    "1049020": {
+        "cs": "volavka vlasatá",
+        "en": "squacco heron",
+        "scientific": "ardeola ralloides"
+    },
+    "922241": {
+        "cs": "vrabec domácí",
+        "en": "house sparrow",
+        "scientific": "passer domesticus"
+    },
+    "922242": {
+        "cs": "vrabec polní",
+        "en": "eurasian tree sparrow",
+        "scientific": "passer montanus"
+    },
+    "917348": {
+        "cs": "vrána černá",
+        "en": "carrion crow",
+        "scientific": "corvus corone"
+    },
+    "268794": {
+        "cs": "vrána šedá",
+        "en": "hooded crow",
+        "scientific": "corvus cornix"
+    },
+    "1178250": {
+        "cs": "výr velký",
+        "en": "eurasian eagle-owl",
+        "scientific": "bubo bubo"
+    },
+    "1178238": {
+        "cs": "výreček malý",
+        "en": "scops owl",
+        "scientific": "otus scops"
+    },
+    "1051060": {
+        "cs": "zedníček skalní",
+        "en": "wallcreeper",
+        "scientific": "tichodroma muraria"
+    },
+    "1048530": {
+        "cs": "zrzohlávka rudozobá",
+        "en": "red-crested pochard",
+        "scientific": "netta rufina"
+    },
+    "1050641": {
+        "cs": "zvonek zelený",
+        "en": "european greenfinch",
+        "scientific": "carduelis chloris"
+    },
+    "8844911": {
+        "cs": "zvonohlík citronový",
+        "en": "citril finch",
+        "scientific": "serinus citrinella"
+    },
+    "1050691": {
+        "cs": "zvonohlík zahradní",
+        "en": "european serin",
+        "scientific": "serinus serinus"
+    },
+    "1177654": {
+        "cs": "žluna šedá",
+        "en": "gray-faced woodpecker",
+        "scientific": "picus canus"
+    },
+    "1177650": {
+        "cs": "žluna zelená",
+        "en": "european green woodpecker",
+        "scientific": "picus viridis"
+    },
+    "1051835": {
+        "cs": "žluva hajní",
+        "en": "golden oriole",
+        "scientific": "oriolus oriolus"
+    },
+    "1049760": {
+        "cs": "alka malá",
+        "en": "razor-billed auk",
+        "scientific": "alca torda"
+    },
+    "1049248": {
+        "cs": "běhulík plavý",
+        "en": "cream-coloured courser",
+        "scientific": "cursorius cursor"
+    },
+    "1178314": {
+        "cs": "buřňák šedý",
+        "en": "mediterranean shearwater",
+        "scientific": "calonectris diomedea"
+    },
+    "1048545": {
+        "cs": "čírka úzkozobá",
+        "en": "marbled duck",
+        "scientific": "marmaronetta angustirostris"
+    },
+    "904345": {
+        "cs": "drop hřívnatý",
+        "en": "macqueen’s bustard",
+        "scientific": "chlamydotis macqueenii"
+    },
+    "4401028": {
+        "cs": "drozd černohrdlý",
+        "en": "black-throated thrush",
+        "scientific": "turdus atrogularis"
+    },
+    "1048460": {
+        "cs": "husa sněžní",
+        "en": "snow goose",
+        "scientific": "chen caerulescens"
+    },
+    "1047357": {
+        "cs": "husice rezavá",
+        "en": "ruddy shelduck",
+        "scientific": "tadorna ferruginea"
+    },
+    "1048052": {
+        "cs": "kalandra zpěvná",
+        "en": "calandra lark",
+        "scientific": "melanocorypha calandra"
+    },
+    "1049182": {
+        "cs": "raroh jižní",
+        "en": "lanner falcon",
+        "scientific": "falco biarmicus"
+    },
+    "1049156": {
+        "cs": "raroh lovecký",
+        "en": "gyrfalcon",
+        "scientific": "falco rusticolus"
+    },
+    "1052241": {
+        "cs": "sedmihlásek švitořivý",
+        "en": "melodious warbler",
+        "scientific": "hippolais polyglotta"
+    },
+    "1049521": {
+        "cs": "stepokur kirgizský",
+        "en": "pallas' sand grouse",
+        "scientific": "syrrhaptes paradoxus"
+    },
+    "1049238": {
+        "cs": "bažant obecný",
+        "en": "common pheasant",
+        "scientific": "phasianus colchicus"
+    },
+    "914922": {
+        "cs": "bažant královský",
+        "en": "reeves's pheasant",
+        "scientific": "syrmaticus reevesii"
+    },
+    "913235": {
+        "cs": "berneška velká",
+        "en": "canada goose",
+        "scientific": "branta canadensis"
+    },
+    "1050069": {
+        "cs": "holub domácí",
+        "en": "rock dove",
+        "scientific": "columba livia"
+    },
+    "1065128": {
+        "cs": "husice nilská",
+        "en": "egyptian goose",
+        "scientific": "alopochen aegyptiaca"
+    },
+    "1049647": {
+        "cs": "ibis posvátný",
+        "en": "sacred ibis",
+        "scientific": "threskiornis aethiopicus"
+    },
+    "1048478": {
+        "cs": "kachnička mandarinská",
+        "en": "mandarin duck",
+        "scientific": "aix galericulata"
+    },
+    "1048999": {
+        "cs": "kachnice kaštanová",
+        "en": "ruddy duck",
+        "scientific": "oxyura jamaicensis"
+    },
+    "1048977": {
+        "cs": "hohol bělavý",
+        "en": "bufflehead",
+        "scientific": "bucephala albeola"
+    },
+    "1048976": {
+        "cs": "hohol islandský",
+        "en": "barrow's goldeneye",
+        "scientific": "bucephala islandica"
+    },
+    "1049000": {
+        "cs": "morčák chocholatý",
+        "en": "hooded merganser",
+        "scientific": "lophodytes cucullatus"
+    },
+    "1048979": {
+        "cs": "kačka pestrá",
+        "en": "harlequin duck",
+        "scientific": "histrionicus histrionicus"
+    },
+    "914578": {
+        "cs": "orlosup bradatý",
+        "en": "lammergeier",
+        "scientific": "gypaetus barbatus"
+    },
+    "914969": {
+        "cs": "andulka vlnkovaná",
+        "en": "budgerigar",
+        "scientific": "melopsittacus undulatus"
+    },
+    "1047369": {
+        "cs": "čírka skvrnitá",
+        "en": "yellow-billed teal",
+        "scientific": "anas flavirostris"
+    },
+    "1048465": {
+        "cs": "hvízdák chilský",
+        "en": "chiloe wigeon",
+        "scientific": "anas sibilatrix"
+    },
+    "1047336": {
+        "cs": "husa indická",
+        "en": "bar-headed goose",
+        "scientific": "anser indicus"
+    },
+    "1047344": {
+        "cs": "husička stěhovavá",
+        "en": "wandering whistling ducks",
+        "scientific": "dendrocygna arcuata"
+    },
+    "1048531": {
+        "cs": "kachnička hřivnatá",
+        "en": "australian wood duck",
+        "scientific": "chenonetta jubata"
+    },
+    "1048963": {
+        "cs": "kachnička karolínská",
+        "en": "wood duck",
+        "scientific": "aix sponsa"
+    },
+    "1049643": {
+        "cs": "kolpík africký",
+        "en": "african spoonbill",
+        "scientific": "platalea alba"
+    },
+    "1049266": {
+        "cs": "krocan divoký",
+        "en": "wild turkey",
+        "scientific": "meleagris gallopavo"
+    },
+    "1047328": {
+        "cs": "labuť černá",
+        "en": "black swan",
+        "scientific": "cygnus atratus"
+    },
+    "1049153": {
+        "cs": "marabu africký",
+        "en": "marabou stork",
+        "scientific": "leptoptilos crumeniferus"
+    },
+    "1047260": {
+        "cs": "orebice horská",
+        "en": "rock partridge",
+        "scientific": "alectoris graeca"
+    },
+    "1048949": {
+        "cs": "ostralka bělolící",
+        "en": "bahama duck",
+        "scientific": "anas bahamensis"
+    },
+    "1048537": {
+        "cs": "pižmovka velká",
+        "en": "muscovy duck",
+        "scientific": "cairina moschata"
+    },
+    "1049435": {
+        "cs": "plameňák chilský",
+        "en": "chilean flamingo",
+        "scientific": "phoenicopterus chilensis"
+    },
+    "1177974": {
+        "cs": "skalník modrý",
+        "en": "blue rock thrush",
+        "scientific": "monticola solitarius"
+    },
+    "916793": {
+        "cs": "sojka zlověstná",
+        "en": "siberian jay",
+        "scientific": "perisoreus infaustus"
+    },
+    "916487": {
+        "cs": "straka modrá",
+        "en": "azure-winged magpie",
+        "scientific": "cyanopica cyanus"
+    },
+    "211359": {
+        "cs": "jeseter malý",
+        "en": "sterlet",
+        "scientific": "acipenser ruthenus"
+    },
+    "206890": {
+        "cs": "jeseter velký",
+        "en": "sturgeon",
+        "scientific": "acipenser sturio"
+    },
+    "994822": {
+        "cs": "vyza velká",
+        "en": "russian sturgeon",
+        "scientific": "huso huso"
+    },
+    "356349": {
+        "cs": "úhoř říční",
+        "en": "european eel",
+        "scientific": "anguilla anguilla"
+    },
+    "225607": {
+        "cs": "placka pomořanská",
+        "en": "shad",
+        "scientific": "alosa alosa"
+    },
+    "206776": {
+        "cs": "losos obecný",
+        "en": "atlantic salmon",
+        "scientific": "salmo salar"
+    },
+    "204854": {
+        "cs": "hlavatka obecná",
+        "en": "huchen",
+        "scientific": "hucho hucho"
+    },
+    "205250": {
+        "cs": "pstruh duhový",
+        "en": "rainbow trout",
+        "scientific": "oncorhynchus mykiss"
+    },
+    "205276": {
+        "cs": "siven americký",
+        "en": "brook trout",
+        "scientific": "salvelinus fontinalis"
+    },
+    "267571": {
+        "cs": "síh severní",
+        "en": "whitefish",
+        "scientific": "coregonus lavaretus"
+    },
+    "994186": {
+        "cs": "síh ostronosý",
+        "en": "houting",
+        "scientific": "coregonus oxyrinchus"
+    },
+    "206427": {
+        "cs": "síh peleď",
+        "en": "peled",
+        "scientific": "coregonus peled"
+    },
+    "204590": {
+        "cs": "lipan podhorní",
+        "en": "grayling",
+        "scientific": "thymallus thymallus"
+    },
+    "206652": {
+        "cs": "štika obecná",
+        "en": "northern pike",
+        "scientific": "esox lucius"
+    },
+    "211216": {
+        "cs": "blatňák tmavý",
+        "en": "mudminnow",
+        "scientific": "umbra krameri"
+    },
+    "205274": {
+        "cs": "plotice obecná",
+        "en": "siberian roach",
+        "scientific": "rutilus rutilus"
+    },
+    "205243": {
+        "cs": "plotice lesklá",
+        "en": "danube roach",
+        "scientific": "rutilus pigus"
+    },
+    "208728": {
+        "cs": "slunka obecná",
+        "en": "able de heckel",
+        "scientific": "leucaspius delineatus"
+    },
+    "217965": {
+        "cs": "jelec proudník",
+        "en": "hasel",
+        "scientific": "leuciscus leuciscus"
+    },
+    "2778689": {
+        "cs": "jelec tloušť",
+        "en": "chub",
+        "scientific": "squalius cephaloides"
+    },
+    "207288": {
+        "cs": "jelec jesen",
+        "en": "ide",
+        "scientific": "leuciscus idus"
+    },
+    "204013": {
+        "cs": "střevle potoční",
+        "en": "eurasian minnow",
+        "scientific": "phoxinus phoxinus"
+    },
+    "209182": {
+        "cs": "střevlička východní",
+        "en": "topmouth gudgeon",
+        "scientific": "pseudorasbora parva"
+    },
+    "222141": {
+        "cs": "perlín ostrobřichý",
+        "en": "rudd",
+        "scientific": "scardinius erythrophthalmus"
+    },
+    "225105": {
+        "cs": "bolen dravý",
+        "en": "asp",
+        "scientific": "aspius aspius"
+    },
+    "210300": {
+        "cs": "lín obecný",
+        "en": "tench",
+        "scientific": "tinca tinca"
+    },
+    "339806": {
+        "cs": "ostroretka stěhovavá",
+        "en": "undermouth",
+        "scientific": "chondrostoma nasus"
+    },
+    "207392": {
+        "cs": "hrouzek obecný",
+        "en": "gudgeon",
+        "scientific": "gobio gobio"
+    },
+    "221169": {
+        "cs": "hrouzek kesslerův",
+        "en": "kessler's gudgeon",
+        "scientific": "romanogobio kesslerii"
+    },
+    "209781": {
+        "cs": "hrouzek běloploutvý",
+        "en": "white-finned gudgeon",
+        "scientific": "romanogobio albipinnatus"
+    },
+    "211593": {
+        "cs": "parma obecná",
+        "en": "barbel",
+        "scientific": "barbus barbus"
+    },
+    "203970": {
+        "cs": "ouklej obecná",
+        "en": "bleak",
+        "scientific": "alburnus alburnus"
+    },
+    "204016": {
+        "cs": "ouklejka pruhovaná",
+        "en": "spirlin",
+        "scientific": "alburnoides bipunctatus"
+    },
+    "356737": {
+        "cs": "cejnek malý",
+        "en": "white bream",
+        "scientific": "blicca bjoerkna"
+    },
+    "205715": {
+        "cs": "cejn velký",
+        "en": "european bream",
+        "scientific": "abramis brama"
+    },
+    "225843": {
+        "cs": "cejn perleťový",
+        "en": "white-eye bream",
+        "scientific": "ballerus sapa"
+    },
+    "212199": {
+        "cs": "cejn siný",
+        "en": "zope",
+        "scientific": "ballerus ballerus"
+    },
+    "994546": {
+        "cs": "podoustev říční",
+        "en": "zanthe",
+        "scientific": "vimba vimba"
+    },
+    "205257": {
+        "cs": "ostrucha křivočará",
+        "en": "ziege",
+        "scientific": "pelecus cultratus"
+    },
+    "217578": {
+        "cs": "hořavka hořká",
+        "en": "bitterling",
+        "scientific": "rhodeus amarus"
+    },
+    "205155": {
+        "cs": "karas obecný",
+        "en": "crucian carp",
+        "scientific": "carassius carassius"
+    },
+    "214363": {
+        "cs": "karas stříbřitý",
+        "en": "goldfish",
+        "scientific": "carassius auratus"
+    },
+    "985921": {
+        "cs": "kapr obecný",
+        "en": "common carp",
+        "scientific": "cyprinus carpio"
+    },
+    "212044": {
+        "cs": "amur bílý",
+        "en": "grass carp",
+        "scientific": "ctenopharyngodon idella"
+    },
+    "220327": {
+        "cs": "tolstolobik bílý",
+        "en": "silver carp",
+        "scientific": "hypophthalmichthys molitrix"
+    },
+    "204760": {
+        "cs": "tolstolobec pestrý",
+        "en": "bighead carp",
+        "scientific": "hypophthalmichthys nobilis"
+    },
+    "215190": {
+        "cs": "mřenka mramorovaná",
+        "en": "terek stone loach",
+        "scientific": "barbatula barbatula"
+    },
+    "217145": {
+        "cs": "piskoř pruhovaný",
+        "en": "weather-fish",
+        "scientific": "misgurnus fossilis"
+    },
+    "212556": {
+        "cs": "sekavec písečný",
+        "en": "weatherfish",
+        "scientific": "cobitis taenia"
+    },
+    "217453": {
+        "cs": "sekavec podunajský",
+        "en": "spined loach",
+        "scientific": "cobitis elongatoides"
+    },
+    "1156742": {
+        "cs": "sekavčík horský",
+        "en": "golden spined loach",
+        "scientific": "sabanejewia balcanica"
+    },
+    "224550": {
+        "cs": "sumec velký",
+        "en": "european catfish",
+        "scientific": "silurus glanis"
+    },
+    "995106": {
+        "cs": "sumeček americký",
+        "en": "brown bullhead",
+        "scientific": "ameiurus nebulosus"
+    },
+    "204768": {
+        "cs": "mník jednovousý",
+        "en": "burbot",
+        "scientific": "lota lota"
+    },
+    "223856": {
+        "cs": "koljuška tříostná",
+        "en": "three-spined stickleback",
+        "scientific": "gasterosteus aculeatus"
+    },
+    "223357": {
+        "cs": "okoun říční",
+        "en": "european perch",
+        "scientific": "perca fluviatilis"
+    },
+    "222787": {
+        "cs": "candát obecný",
+        "en": "zander",
+        "scientific": "sander lucioperca"
+    },
+    "214518": {
+        "cs": "candát východní",
+        "en": "volga zander",
+        "scientific": "sander volgensis"
+    },
+    "203972": {
+        "cs": "ježdík obecný",
+        "en": "ruffe",
+        "scientific": "gymnocephalus cernua"
+    },
+    "218762": {
+        "cs": "ježdík žlutý",
+        "en": "striped ruffe",
+        "scientific": "gymnocephalus schraetser"
+    },
+    "339218": {
+        "cs": "ježdík dunajský",
+        "en": "danube ruffe",
+        "scientific": "gymnocephalus baloni"
+    },
+    "208579": {
+        "cs": "drsek větší",
+        "en": "zingel",
+        "scientific": "zingel zingel"
+    },
+    "219648": {
+        "cs": "drsek menší",
+        "en": "streber",
+        "scientific": "zingel streber"
+    },
+    "223475": {
+        "cs": "okounek pstruhový",
+        "en": "largemouth bass",
+        "scientific": "micropterus salmoides"
+    },
+    "995125": {
+        "cs": "slunečnice pestrá",
+        "en": "pumpkinseed",
+        "scientific": "lepomis gibbosus"
+    },
+    "218110": {
+        "cs": "hlavačka mramorovaná",
+        "en": "tube-nosed goby",
+        "scientific": "proterorhinus marmoratus"
+    },
+    "1012522": {
+        "cs": "vranka obecná",
+        "en": "sculpin",
+        "scientific": "cottus gobio"
+    },
+    "213840": {
+        "cs": "vranka pruhoploutvá",
+        "en": "spotted sculpin",
+        "scientific": "cottus poecilopus"
+    },
+    "994631": {
+        "cs": "platýs bradavičnatý",
+        "en": "european flounder",
+        "scientific": "platichthys flesus"
+    },
+    "328681": {
+        "cs": "šakal obecný",
+        "en": "golden jackal",
+        "scientific": "canis aureus"
+    },
+    "311519": {
+        "cs": "norek evropský",
+        "en": "european mink",
+        "scientific": "mustela lutreola"
+    },
+    "328110": {
+        "cs": "zubr",
+        "en": "european bison",
+        "scientific": "bison bonasus"
+    },
+    "327574": {
+        "cs": "netopýr brandtův",
+        "en": "brandt's myotis",
+        "scientific": "myotis brandti"
+    },
+    "4436019": {
+        "cs": "netopýr ostrouchý",
+        "en": "monticelli's myotis",
+        "scientific": "myotis oxygnathus"
+    },
+    "327706": {
+        "cs": "netopýr jižní",
+        "en": "kuhl's pipistrelle",
+        "scientific": "pipistrellus kuhlii"
+    },
+    "311998": {
+        "cs": "ježek východní",
+        "en": "northern white-breasted hedgehog",
+        "scientific": "erinaceus roumanicus"
+    },
+    "124135": {
+        "cs": "rejsek horský",
+        "en": "alpine shrew",
+        "scientific": "sorex alpinus"
+    },
+    "330758": {
+        "cs": "čolek horský",
+        "en": "alpine newt",
+        "scientific": "mesotriton alpestris"
+    },
+    "332574": {
+        "cs": "čolek hranatý",
+        "en": "draadstaartsalamand",
+        "scientific": "lissotriton helveticus"
+    },
+    "332418": {
+        "cs": "čolek karpatský",
+        "en": "caprpathian newt",
+        "scientific": "lissotriton montandoni"
+    },
+    "333313": {
+        "cs": "čolek obecný",
+        "en": "smooth newt",
+        "scientific": "lissotriton vulgaris"
+    },
+    "333311": {
+        "cs": "mlok skvrnitý",
+        "en": "fire salamander",
+        "scientific": "salamandra salamandra"
+    },
+    "330755": {
+        "cs": "čolek dravý",
+        "en": "italian crested newt",
+        "scientific": "triturus carnifex"
+    },
+    "1018157": {
+        "cs": "čolek velký",
+        "en": "great crested newt",
+        "scientific": "triturus cristatus"
+    },
+    "332577": {
+        "cs": "čolek dunajský",
+        "en": "danube crested newt",
+        "scientific": "triturus dobrogicus"
+    },
+    "333308": {
+        "cs": "kuňka obecná",
+        "en": "fire-bellied toad",
+        "scientific": "bombina bombina"
+    },
+    "332923": {
+        "cs": "kuňka žlutobřichá",
+        "en": "yellow-bellied toad",
+        "scientific": "bombina variegata"
+    },
+    "333310": {
+        "cs": "ropucha obecná",
+        "en": "european toad",
+        "scientific": "bufo bufo"
+    },
+    "36579198": {
+        "cs": "ropucha zelená",
+        "en": "green toad",
+        "scientific": "bufotes viridis"
+    },
+    "1019146": {
+        "cs": "ropucha krátkonohá",
+        "en": "natterjack toad",
+        "scientific": "epidalea calamita"
+    },
+    "332925": {
+        "cs": "rosnička zelená",
+        "en": "european treefrog",
+        "scientific": "hyla arborea"
+    },
+    "330757": {
+        "cs": "blatnice skvrnitá",
+        "en": "common spadefoot",
+        "scientific": "pelobates fuscus"
+    },
+    "1018660": {
+        "cs": "skokan zelený",
+        "en": "edible frog",
+        "scientific": "pelophylax esculentus"
+    },
+    "332998": {
+        "cs": "skokan krátkonohý",
+        "en": "pool frog",
+        "scientific": "pelophylax lessonae"
+    },
+    "320013": {
+        "cs": "skokan skřehotavý",
+        "en": "marsh frog",
+        "scientific": "pelophylax ridibundus"
+    },
+    "333000": {
+        "cs": "skokan ostronosý",
+        "en": "moor frog",
+        "scientific": "rana arvalis"
+    },
+    "1019739": {
+        "cs": "skokan štíhlý",
+        "en": "agile frog",
+        "scientific": "rana dalmatina"
+    },
+    "331133": {
+        "cs": "skokan hnědý",
+        "en": "european frog",
+        "scientific": "rana temporaria"
+    },
+    "1056912": {
+        "cs": "želva bahenní",
+        "en": "european pond turtle",
+        "scientific": "emys orbicularis"
+    },
+    "1055221": {
+        "cs": "želva žlutohnědá",
+        "en": "mediterranean spur-thighed tortoise",
+        "scientific": "testudo graeca"
+    },
+    "1055218": {
+        "cs": "želva zelenavá",
+        "en": "greek tortoise",
+        "scientific": "testudo hermanni"
+    },
+    "452960": {
+        "cs": "želva stepní",
+        "en": "horsfield's tortoise",
+        "scientific": "testudo horsfieldii"
+    },
+    "1055216": {
+        "cs": "želva vroubená",
+        "en": "marginated tortoise",
+        "scientific": "testudo marginata"
+    },
+    "790439": {
+        "cs": "želva nádherná",
+        "en": "common slider",
+        "scientific": "trachemys scripta"
+    },
+    "453239": {
+        "cs": "slepýš křehký",
+        "en": "slow worm",
+        "scientific": "anguis fragilis"
+    },
+    "791768": {
+        "cs": "ještěrka obecná",
+        "en": "zauneidechse",
+        "scientific": "lacerta agilis"
+    },
+    "457011": {
+        "cs": "ještěrka zelená",
+        "en": "european green lizard",
+        "scientific": "lacerta viridis"
+    },
+    "791008": {
+        "cs": "ještěrka zední",
+        "en": "common wall lizard",
+        "scientific": "podarcis muralis"
+    },
+    "457012": {
+        "cs": "ještěrka živorodá",
+        "en": "viviparous lizard",
+        "scientific": "lacerta vivipara"
+    },
+    "456655": {
+        "cs": "gekon turecký",
+        "en": "mediterranean house gecko",
+        "scientific": "hemidactylus turcicus"
+    },
+    "791285": {
+        "cs": "užovka hladká",
+        "en": "smooth snake",
+        "scientific": "coronella austriaca"
+    },
+    "791395": {
+        "cs": "užovka obojková",
+        "en": "grass snake",
+        "scientific": "natrix natrix"
+    },
+    "791393": {
+        "cs": "užovka podplamatá",
+        "en": "diced water snake",
+        "scientific": "natrix tessellata"
+    },
+    "289378": {
+        "cs": "zmije obecná",
+        "en": "common viper",
+        "scientific": "vipera berus"
+    },
+    "794905": {
+        "cs": "užovka stromová",
+        "en": "aesculapian rat snake",
+        "scientific": "zamenis longissimus"
+    },
+    "215509": {
+        "cs": "karas stříbřitý",
+        "en": "prussian carp",
+        "scientific": "carassius gibelio"
+    },
+    "206412": {
+        "cs": "mihule potoční",
+        "en": "european brook lamprey",
+        "scientific": "lampetra planeri"
+    },
+    "1049456": {
+        "cs": "potápka malá",
+        "en": "little grebe",
+        "scientific": "tachybaptus ruficollis"
+    },
+    "2870505": {
+        "cs": "bramborníček černohlavý",
+        "en": "european stonechat",
+        "scientific": "saxicola rubicola"
+    },
+    "892336": {
+        "cs": "tetřívek obecný",
+        "en": "black grouse",
+        "scientific": "lyrurus tetrix"
+    },
+    "1047338": {
+        "cs": "potápka rudokrká",
+        "en": "red-necked grebe",
+        "scientific": "podiceps grisegena"
+    },
+    "1049307": {
+        "cs": "racek tenkozobý",
+        "en": "slender-billed gull",
+        "scientific": "chroicocephalus genei"
+    },
+    "1048459": {
+        "cs": "husa krátkozobá",
+        "en": "pink-footed goose",
+        "scientific": "anser brachyrhynchus"
+    },
+    "1049495": {
+        "cs": "jespák rudokrký",
+        "en": "red-necked stint",
+        "scientific": "calidris ruficollis"
+    },
+    "1048543": {
+        "cs": "kachnička šedoboká",
+        "en": "ringed teal",
+        "scientific": "callonetta leucophrys"
+    }
+}
