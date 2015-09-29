@@ -365,13 +365,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "460bfaaa9a2973ccf9d36d38b9281681428a9e35309f97b63e4f0a83390a4bfe656c7b2c09d8d6fb2159375c6bb8d40b42f06d694c770533b1cd7b8813127a2b",
-                    "url": "http://farm2.staticflickr.com/1430/5179575955_19f7675728_o.jpg",
-                    "rights_holder": "Smithsonian Wild",
-                    "source": "http://www.flickr.com/photos/smithsonianwild/5179575955/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
                     "hash": "0619a61560f827dfa5f7196307e5aee2182d20772e589a5b7a4e6bfc57dd97110284a13615d84479d053d8abe17d3cb8c5939c5d48d153bbc57823e2aded8770",
                     "url": "http://farm2.staticflickr.com/1397/5180196904_0efd7643b8_o.jpg",
                     "rights_holder": "Smithsonian Wild",
@@ -2046,13 +2039,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 },
                 {
-                    "hash": "480105db24fc5e30433be333f69dfe83cdc5ac58035150147b961a898245210474be35a7324c9195d8335dce175dd00e5baa43c4025a2c0fe45fda45dc76e567",
-                    "url": "http://calphotos.berkeley.edu/imgs/512x768/1073_3283/3181/0038.jpeg",
-                    "rights_holder": "2002 California Academy of Sciences",
-                    "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=110426&one=T",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "4a1481beb3f4d49b4844f79d10659576c30aeb48a9e7a2e056fa28e5ed8733f9875554696fe3ef72ca03359aaa4c4e90865a602155edb978a566d095b5c7bfab",
                     "url": "http://calphotos.berkeley.edu/imgs/512x768/8235_3181/2553/0065.jpeg",
                     "rights_holder": "1999 California Academy of Sciences",
@@ -2678,13 +2664,6 @@
             ],
             "representations": [
                 {
-                    "hash": "966241f95ca2282eb5b7faa9568da9e7bcd3dfcd1b62bc600eeced7a2e80fc9ece5dacaf856d70b8d3d1ff3817d90f00dfa483507ad5c240ecdf348d3b4b9d1e",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/6/61/Apodemus_uralensis_CZ_distribution_map.png",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Apodemus_uralensis_CZ_distribution_map.png",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
                     "hash": "e0644852f4b2bcd4a893b3d4588dbff8825dc9f0369bd085b037101b360c66384cfafb1bf3b5538c7265279e94973a0bf10a7eba323b10338b70b678b25d3db3",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/f/fd/Apodemus_uralensis_%28measuring_1%29.jpg",
                     "rights_holder": null,
@@ -3177,13 +3156,6 @@
                     "rights_holder": null,
                     "source": "http://www.biopix.com/shrew-sorex-araneus_photo-30010.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "955980cbbe88d9dbccb4089d9c4b24f881aca67257c637d63407316801807e0d00c7832cb7640e16c52395946738b5d2e3ac9c3bb608123ae4fdb23f8d12afa7",
-                    "url": "http://www.discoverlife.org/mp/20p?img=I_MWS53390&res=mx",
-                    "rights_holder": null,
-                    "source": "http://www.bioimages.org.uk/html/p5/p50677.php",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -3591,13 +3563,6 @@
                     "url": "http://www.biopix.com/photos/JCS-Eptesicus-serotinus-52414.JPG",
                     "rights_holder": null,
                     "source": "http://www.biopix.com/eptesicus-serotinus_photo-79185.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "a34790074a2b24559a33cb55bec3c2d2542966128976956370c8abf4f72785f369e89a4c809faa711027b9f68ccde1158d93eba1c01ff6b52c1cb85467aa82d4",
-                    "url": "http://www.biopix.com/photos/JCS-Eptesicus-serotinus-52418.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/eptesicus-serotinus_photo-79189.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
@@ -4641,13 +4606,6 @@
             ],
             "representations": [
                 {
-                    "hash": "7cdfc54030c4b060e41652cdf2b8bd7cc6e2b97ad2143baa3cd68a152414c8693f092d5c94e7ea870d8cf70ec580756fa853307dda304e30b3ef3e0830628726",
-                    "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=34406&DMWIDTH=10000&DMHEIGHT=10000",
-                    "rights_holder": null,
-                    "source": "https://content-dev.lib.washington.edu/u?/fishimages,34406",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
                     "hash": "789d42a3d32f897ddfce128f7e3bb8a1cc16e13ab8051122910c07c182a3fc7a5c60499ee0ea050e5a67c0a8fd32d9f5b50c8dd2db2dfd7014bf2ba6aa6103a3",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/2/24/Little_Auk_%28js%29_24.jpg",
                     "rights_holder": null,
@@ -5135,13 +5093,6 @@
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 },
                 {
-                    "hash": "dc83ed0d571f8c0142b42ed755c2eeef9f88479905723e732c018d7f9dc0b730ad18ddc4d50f7988ccf2e50be5e7d50b8e75c3bb401ca56714d68c9f7f51a5e3",
-                    "url": "http://i1.treknature.com/photos/1990/img_04211.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.treknature.com/viewphotos.php?l=3&p=289021",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "5574c4a206e88e52e548dfde570b651856544d9a38259392172a83e9211bc74f853a4ff94cb44b72e49ffd4a10b1c81f636936ad66fc798c51f5516bc619172c",
                     "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Anseriformes/Anatidae/Branta/ruficollis/F6877D69-0AA0-4094-947D-4199F32278A5.jpg",
                     "rights_holder": "上海科学技术出版社",
@@ -5599,13 +5550,6 @@
                     "rights_holder": "José María Escolano",
                     "source": "http://www.flickr.com/photos/valdelobos/6032456869/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "a6a6caa770f36430ab3993f8ba4188ba76ffe32e4cf5c799e228fa56936b86216b911a7a05a89ed8881a9ad39e74a2e2bd4979849d16b571604bad015c4e5e52",
-                    "url": "http://farm7.staticflickr.com/6206/6033014980_d05844be45_o.jpg",
-                    "rights_holder": "José María Escolano",
-                    "source": "http://www.flickr.com/photos/valdelobos/6033014980/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 }
             ]
         },
@@ -5624,13 +5568,6 @@
                 "cz_forest"
             ],
             "representations": [
-                {
-                    "hash": "a3791600a2cdb466a4624d19d101e30a65fe0be09b777098337ec1ed71b245bc0e0c5adfb11742b21040e23fd9e27def97b114a3e888bffe811f46fa225d8b8a",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/c/c3/Riparia_riparia_Pleshkani_Ukraine.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Riparia_riparia_Pleshkani_Ukraine.JPG",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
                 {
                     "hash": "80d33c5ad05ee440222e407b98f0af96dcd00f77180e7585d8633fa42c74176216f33719682475af32fff904217edf3160801fa1fc7a24171d3f768c612a7f82",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/e/ee/Riparia_Riparia-2006-Ejdzej-1.jpg",
@@ -5935,13 +5872,6 @@
                     "rights_holder": "António Pena",
                     "source": "http://www.flickr.com/photos/anpena/5588770530/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "1a988917e6d6b66ef053e53de22ae271c21ebd9aca7f180e4ea81b97633913f888bb32622b13cf5578ed42a6f4f8674245e743cad65b1218758b6300b91c8462",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/2/29/Phylloscopus_trochilus_eggs.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Phylloscopus_trochilus_eggs.JPG",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 }
             ]
         },
@@ -6051,13 +5981,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 },
                 {
-                    "hash": "2f36e13c7bd4fa6f03a343e9471d6de2dfcac568db687fcb0dd9b0f82b00000abc18f43d4293848f5ff4b5a1f52b3f3f67d5cca72343cd28368cbb921e4be351",
-                    "url": "https://farm8.staticflickr.com/7014/6831641225_de433ae44b_o.jpg",
-                    "rights_holder": "Sciadopitys",
-                    "source": "https://www.flickr.com/photos/40183553@N02/6831641225/",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.0/"
-                },
-                {
                     "hash": "8f1a92b1311303255b822a43e8d26ea5e961fcc183033019592d6de3b1d10c0ea854a33ec4db3451dc04626166706946d5199cddad9340b878ea72d1498dbab0",
                     "url": "http://www.biopix.com/photos/Botaurus-stellaris-00089.JPG",
                     "rights_holder": null,
@@ -6162,13 +6085,6 @@
                     "url": "https://farm7.staticflickr.com/6124/6022707404_c1568438e7_o.jpg",
                     "rights_holder": "Biodiversity Heritage Library",
                     "source": "https://www.flickr.com/photos/biodivlibrary/6022707404/",
-                    "license": "http://creativecommons.org/licenses/by/2.0/"
-                },
-                {
-                    "hash": "25b5e677c8aecd50e15b5df06fdd9f10f2a72d96eaf946c8189827e33daefb5db8225f3f8770faab9de714f82435a3fd5e57117b769a80b45e759614effe9c31",
-                    "url": "http://farm7.staticflickr.com/6143/5982053822_acb62dee05_o.jpg",
-                    "rights_holder": "Biodiversity Heritage Library",
-                    "source": "http://www.flickr.com/photos/biodivlibrary/5982053822/",
                     "license": "http://creativecommons.org/licenses/by/2.0/"
                 },
                 {
@@ -7133,24 +7049,10 @@
             ],
             "representations": [
                 {
-                    "hash": "fdff8cb3d338f3da99b671b1b4d5d6d0026a6ca335c360e75925c51b4b225f2055f3a35e50dd781a4f7f9dcbee7be5ed5b326cad5dd9189a27a038e982548a17",
-                    "url": "http://www.biopix.com/photos/ANE-Picoides-tridactylus-02181.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/three-toed-woodpecker-picoides-tridactylus_photo-101693.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "9edf59d817925b7191e5201bf332f717a5fff3872b2c64ffbfd8be5348f4d11f063744d21770a0137e759713054cde1193ee3496ec432887d58a2bbbfa4d24d4",
                     "url": "http://static.inaturalist.org/photos/93400/original.JPG",
                     "rights_holder": "Bob Henry",
                     "source": "http://www.inaturalist.org/photos/93400",
-                    "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
-                    "hash": "b78a155ae9b840f9fa249d6c95156ee904b233f104f8e94ccc9c5a279e600fd71cc3f86ac62f8d7a0da6c3b4033b3323eb443f1f6df6e71424d90252c5382da8",
-                    "url": "http://static.inaturalist.org/photos/93401/original.JPG",
-                    "rights_holder": "Bob Henry",
-                    "source": "http://www.inaturalist.org/photos/93401",
                     "license": "http://creativecommons.org/licenses/by/3.0/"
                 },
                 {
@@ -7393,13 +7295,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 },
                 {
-                    "hash": "1f7ca8ebfd956d2f1585ac31132212a9f678e0ab6d0f3ef7e6c4ba4b499924ee683359c15701ebcff0082d4ad8dcdeb725a0b1ee30e4a06515666480d9efda37",
-                    "url": "http://farm4.staticflickr.com/3090/2674591869_da91b39d13_o.jpg",
-                    "rights_holder": "Bruce McAdam",
-                    "source": "http://www.flickr.com/photos/bruce_mcadam/2674591869/",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.0/"
-                },
-                {
                     "hash": "95c908a8da1ee17c3698a84f0ff25f813e19cdfdb3f0744a0f4aa4e7af928bf2be6e0742ca62d4dccca4f2f88bd175d5d00e703310f4cfc007538f377bc3fc17",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/1/1f/Turdus_iliacus_axelkr.jpg",
                     "rights_holder": null,
@@ -7502,13 +7397,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Eyebrowed_Thrush1.jpg",
                     "license": "http://creativecommons.org/licenses/by/2.0/"
-                },
-                {
-                    "hash": "0c41897e51cc46a850a3b21e91a820261d89f6db071fcbb29fecf96653d41043d36f8f618b2fc1e860c6197445d63184d5bbcd197cf765f12f051cb2f9b8aa44",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/b/b2/Turdus_obscurus_MWNH_1761.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Turdus_obscurus_MWNH_1761.JPG",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 }
             ]
         },
@@ -9114,13 +9002,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "de60bf6515a3625a38083f3c8a6850531f02e34215c86a1589edc982577ffa6a3be306768053b71d2af0f9e770edee7ad49b9dc88062f7f5b1c16cee7c90a911",
-                    "url": "http://pngbirds.myspecies.info/sites/pngbirds.myspecies.info/files/PorzPusi.jpg",
-                    "rights_holder": "Katerina Tvardikova",
-                    "source": "http://pngbirds.myspecies.info/file/2903",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "f985afc553450ce915e0e81315eedd8f67c26767978ab325c15eaaa77f20c266cf1178fc5096dd66a7cd9c0198cbf17e859569e999be8c06e3821f2100db38e6",
                     "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Gruiformes/Rallidae/Porzana/pusilla/5A507058-4D2E-4D59-ABC8-E31BA681E864.jpg",
                     "rights_holder": "科学出版社",
@@ -9357,23 +9238,9 @@
             ],
             "representations": [
                 {
-                    "hash": "b5b2b4dc23f8c9dcc56597c5817009cb3a17141ee31ec14b7a186e1b5091e0f805a6ca2df9aaf6547bb70a3b77f4830467202b0218389ab8c71b9b3ea12a62ca",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Galliformes/Tetraonidae/Tetrastes/bonasia/A1399D46-FDE1-411A-9E33-97086E448849.jpg",
-                    "rights_holder": "科学出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "ddab829b42bcf897455cfd550cb2ea1c652ddf1b636734bbfcd703abe38880e54b92de67fe51e596954c2a46e3b485b24d20f41a99a5c19fffefef91aa2e80ee",
                     "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Galliformes/Tetraonidae/Bonasa/bonasia/C00DE5A2-17A5-4016-844B-86AF145E5D9A.jpg",
                     "rights_holder": "上海科学技术出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "b5b2b4dc23f8c9dcc56597c5817009cb3a17141ee31ec14b7a186e1b5091e0f805a6ca2df9aaf6547bb70a3b77f4830467202b0218389ab8c71b9b3ea12a62ca",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Galliformes/Tetraonidae/Tetrastes/bonasia/A1399D46-FDE1-411A-9E33-97086E448849.jpg",
-                    "rights_holder": "科学出版社",
                     "source": null,
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
@@ -9547,13 +9414,6 @@
                     "rights_holder": "oldbilluk",
                     "source": "https://www.flickr.com/photos/oldbilluk/3984480509/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "915389b3d9f11ccbc3adf41f5d3ec0ec61ecd5db52daffd10f9160d6b7a3632f7d392514aef5d5ac0991fd25a5b71b69dfa21e14a7066023774e5b7d7ad2d319",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/d/d2/Calidris_bairdii1.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Calidris_bairdii1.jpg",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
                 }
             ]
         },
@@ -9745,13 +9605,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Calidris_alpina_01.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "e36ba53fd0510b2a20ac2e1dcefea487d46b54ec64f462dd3a578c2cca16d638170f0698a50aefaf282e5b1b754ff2603f7d39718154c90c8f2b767172c5738d",
-                    "url": "http://farm4.staticflickr.com/3344/3217589654_6fecb666cc_o.jpg",
-                    "rights_holder": "Blake Matheson",
-                    "source": "http://www.flickr.com/photos/34328261@N02/3217589654/",
-                    "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 },
                 {
                     "hash": "5e17e464fe9868dc91d7e4e640c3a58d07eace7d80d77daf0fb0ffde84df42cbb43c68f8ea9e0030a5906aea3f6904c5545b5c17832b6af66565e4ba65613af7",
@@ -10460,13 +10313,6 @@
                     "url": "http://upload.wikimedia.org/wikipedia/commons/4/42/Asio_otus_-_Ransuil.jpg",
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Asio_otus_-_Ransuil.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "03a9693ca7c600dec6b40d53e273ac7be14ed6d51729273f2a9a7c56d986e794c8603ed5e0ff287853c01acbbed9d71a3ecf36ed0334c93d55e2e26d4c295faf",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/b/b3/Cherxiao.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Cherxiao.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 },
                 {
@@ -11463,20 +11309,6 @@
                     "rights_holder": null,
                     "source": "http://www.biopix.com/european-shag-phalacrocorax-aristotelis_photo-107478.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "d2d50153dca97d94bc6ef198413330f08f92e985ced4ac64197aa91a1c1d161e29b02c14b4881b73439850dfe4dc873c9288c22e1d1f77961d7daad7b639adc7",
-                    "url": "http://farm7.staticflickr.com/6189/6023371531_6569070a7c_o.jpg",
-                    "rights_holder": "Bas Kers",
-                    "source": "http://www.flickr.com/photos/21933510@N07/6023371531/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "25c1c7fdceac0224756473d6af882514d6768af032f701e3cddc6a3882248e2910d69a5aae18fc0873deec960aa631e05857ddbddcde184946e446c433238a4c",
-                    "url": "http://farm7.staticflickr.com/6127/6023373015_b91b1c7e22_o.jpg",
-                    "rights_holder": "Bas Kers",
-                    "source": "http://www.flickr.com/photos/21933510@N07/6023373015/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 }
             ]
         },
@@ -12425,13 +12257,6 @@
                     "license": "http://creativecommons.org/licenses/by-sa/2.0/"
                 },
                 {
-                    "hash": "b6c910f51bef9c22b3cd4be2335d719380dd23c7ba96b33565752f48c9e3dac319d8cce63b54d5ac06222e7026e85938d4ec120b36c54993dc8434fffa5b3ca2",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/9/95/Pluvialis_dominica_eggs_and_nest.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Pluvialis_dominica_eggs_and_nest.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
                     "hash": "e14fed5a32f530b68ace23a9387e160f1ad7373c2b784836265b716b19a9dd69218d5a457507312910a44a97b771caa7dc70847dd678ca7d054ea169eb82f8fb",
                     "url": "http://farm6.staticflickr.com/5049/5370722018_a4b5a25976_o.jpg",
                     "rights_holder": "Drew Avery",
@@ -13338,13 +13163,6 @@
                     "url": "http://www.biopix.com/photos/INN-Caprimulgus-europaeus-00039.jpg",
                     "rights_holder": null,
                     "source": "http://www.biopix.com/european-nightjar-caprimulgus-europaeus_photo-64228.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "f0ab207ccf70e58b6289267eef14b737cde93991850f310f6f194d8a6fab01e3bb911c688492c7d2e2e7475a2ad806db7030015efb3790e0c50037df8ade7d00",
-                    "url": "http://www.biopix.com/photos/INN-Caprimulgus-europaeus-00038.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/european-nightjar-caprimulgus-europaeus_photo-64227.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
@@ -14738,13 +14556,6 @@
                     "license": "http://creativecommons.org/licenses/by/2.5/"
                 },
                 {
-                    "hash": "2d2c1983e3da7b0cc82b010afa722543971b66acb5ae360ecb947d1e5cde197c9039e33f560074b079f7f9ce3f1a1c2282ddba90310710ae4da2386a47c5fd95",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/9/92/Aquila_pomarina_nest_with_eggs.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Aquila_pomarina_nest_with_eggs.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
                     "hash": "75501f391f59af501d5c6f677f6621b89ef54bd0025ed6ec5d668a235e300fa3dbbbf00dbbf9d1ee3e759fa9937382c39192c3beda0c44622e11fcb14853252f",
                     "url": "http://farm4.staticflickr.com/3572/3466475458_d7fdf90a0a_o.jpg",
                     "rights_holder": "Vitaliy Khustochka",
@@ -14757,13 +14568,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Schreiadler070422.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/2.5/"
-                },
-                {
-                    "hash": "1bf4da6cdddb082a70e90a3b105c6cd957107c2925f4212e2841372b8ebc449f04152b1d1ff736539e9e5045d190d3e49ccacc549d88cbe8bb8a4c80d13dc844",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/7/7f/Schreiadler_All_Europa_and_Africa.PNG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Schreiadler_All_Europa_and_Africa.PNG",
-                    "license": "http://creativecommons.org/licenses/by/3.0/"
                 },
                 {
                     "hash": "c25b65e19fe3635465fab1dc9c64313c4bb7e59d93fd4548215f4e61e5e0888a9a6b0402454296878d79fee6c28248ab7f6cf302a7c56bbc4e59dc39529b651f",
@@ -15102,13 +14906,6 @@
                     "rights_holder": "Cláudio Dias Timm",
                     "source": "http://www.flickr.com/photos/cdtimm/5275605226/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "b10435c1a3020a2d7d3eff1af07b8332703abd7974bc7dd0137e9fed8c35e796d80eaf7b97d09a8988ea23d5d88e7e38172d6c9dc465fec8f283795e24cd1094",
-                    "url": "http://farm3.staticflickr.com/2472/3647588998_efbc515e8d_o.jpg",
-                    "rights_holder": "Kent McFarland",
-                    "source": "http://www.flickr.com/photos/vtebird/3647588998/",
-                    "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 },
                 {
                     "hash": "009de6fb75ea7682cc009530693f82da5f87e88f438dfad68bef64d734e38a2945d7fcdaec55dbc9423abc9034dfeb019476eae9ba0e3856f4ec8daaa3f49da6",
@@ -15634,13 +15431,6 @@
                     "url": "https://farm5.staticflickr.com/4035/4374677725_406a300ab3_o.jpg",
                     "rights_holder": "Valter Jacinto",
                     "source": "https://www.flickr.com/photos/valter/4374677725/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "4f08e8beb059caaff23a65a23f3c03461bdd21187caaad0408ef6ad8054dcd9d282d2cfaf134e097506f310a2d26a8bb122a8c698dffcfd2cf5a3904dbd93293",
-                    "url": "https://farm5.staticflickr.com/4048/4374677993_cfeace6066_o.jpg",
-                    "rights_holder": "Valter Jacinto",
-                    "source": "https://www.flickr.com/photos/valter/4374677993/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 },
                 {
@@ -16859,13 +16649,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Podiceps_auritus_Iona_2.jpg",
                     "license": "http://creativecommons.org/licenses/by/2.0/"
-                },
-                {
-                    "hash": "60e5e76f9cdd4e9e1287d334ccc9a1800f137a22cbcfe76d68bef62e6b3c12fbfea8b1721b97724ba7cfe4a55351bdc64161005775cebc9bbdbe52162404d416",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/e/e2/Podiceps_auritus.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Podiceps_auritus.jpg",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
                 }
             ]
         },
@@ -18272,13 +18055,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Acrocephalus_melanopogon_1838.jpg",
                     "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-                },
-                {
-                    "hash": "c5f16c34f63c9f236c6ce7ec6eb1d68d8bbf53e6d8242fc994d27fcaafd01a877dd366e5e22e7d690ec8ee358f903d4d694b8426a51dd15c528c616173699c4b",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/4/41/Acrocephalus_melanopogon_MWNH_1689.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Acrocephalus_melanopogon_MWNH_1689.JPG",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 }
             ]
         },
@@ -19251,13 +19027,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:IdunaCaligataCHS.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "4b2366cec1062648c7644bb75a02caa89e7eb2bd7f0ff34cea90b0bcb3062a7ac6261f64b50997a6717d753094e1e5a7af6f6a09529fcda177a53d66a571268b",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Iduna_caligata_MHNT_ZOO_2010_11_201_P%C3%A9rowsk.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Iduna_caligata_MHNT_ZOO_2010_11_201_Pérowsk.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
                 }
             ]
         },
@@ -19762,20 +19531,6 @@
             ],
             "representations": [
                 {
-                    "hash": "aa5dee5bc368622b7dd6cb1358c89266aeb77a9395f24a9587bde93a53de0a33d3bae6f564de8bc2755cb850e0641bea5b530c24058ef7305cd842598151cf96",
-                    "url": "http://farm1.static.flickr.com/172/377454492_6a8c1a29d6.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.flickr.com/photos/valter/377454492/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "aa5dee5bc368622b7dd6cb1358c89266aeb77a9395f24a9587bde93a53de0a33d3bae6f564de8bc2755cb850e0641bea5b530c24058ef7305cd842598151cf96",
-                    "url": "http://farm1.static.flickr.com/43/82607312_bc5e652061.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.flickr.com/photos/valter/82607312/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
                     "hash": "4f50bb4fb3d09067ac1f5b4956effb8afc02a5d78bfb84cef3e8a55f8bce17f62179e16596e05a939ebdb49812d7b33e0e494bdb98fc8921b9903b96f1cd78b1",
                     "url": "http://farm4.staticflickr.com/3467/3397099336_a78d787f6d_o.jpg",
                     "rights_holder": "Caleb Slemmons",
@@ -19896,13 +19651,6 @@
                     "url": "http://upload.wikimedia.org/wikipedia/commons/9/9c/Woodcock_%28Scolopax_rusticola%29_-_geograph.org.uk_-_1036177.jpg",
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Woodcock_(Scolopax_rusticola)_-_geograph.org.uk_-_1036177.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.0/"
-                },
-                {
-                    "hash": "bdee1ffaa8c1ce73950f65d330c052a4eee8f97d5bbe0fa2fb6ccf712ad4dba1f01b48e7f92ab4e70cfee10de07cd1506bb2f27f72efc27fb25bc4e7b0ef4f46",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/a/ad/Woodcock_%28wild%29_at_Highland_Wildlife_Park_-_geograph.org.uk_-_1074749.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Woodcock_(wild)_at_Highland_Wildlife_Park_-_geograph.org.uk_-_1074749.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/2.0/"
                 },
                 {
@@ -21962,13 +21710,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "350d6eae46ac8dd14d3148691bda91d7d8686823ccbe80c32b753f58a0ac14444358ace1394fac0076f04aeae735d925466d7bd3c45180a2e25e99f77198f753",
-                    "url": "http://farm9.staticflickr.com/8528/8482097126_5e52b4557d_o.jpg",
-                    "rights_holder": "Kirill Ignatyev",
-                    "source": "http://www.inaturalist.org/photos/254200",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "4ba64b0ebbba0c8d95a1ac1ffd36d8ba0aee80cd5da589a029f3103d82fd454b0ac969ae3c6d6b5f508aa15a8a9f968cc89883aae45bd8fbe5f8cff1249e1b1d",
                     "url": "http://farm8.staticflickr.com/7205/6836495064_ccaabda74a_b.jpg",
                     "rights_holder": "Michael",
@@ -22331,13 +22072,6 @@
                     "url": "http://static.inaturalist.org/photos/341216/original.JPG?1369267209",
                     "rights_holder": "Carmelo López Abad",
                     "source": "http://www.inaturalist.org/photos/341216",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "dd58bc850eab0c4351453ba0df1e9b4cb0889451021c90e0367f194ce91036a2659beb5c1e28d7a819ac8b3f8a2b3a8b6057cf2c2a876405897b5e1a00c26cdf",
-                    "url": "http://static.inaturalist.org/photos/775747/original.JPG?1397075864",
-                    "rights_holder": "John Sullivan",
-                    "source": "http://www.inaturalist.org/photos/775747",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
@@ -23724,13 +23458,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "3613bb0490c61d3e9dcbdafdce6d993291eb028b64fc813ec3d6391fd0573bc5cf372269700623a535558fcfb9f68f0c839c8936d9c3dc702f0241eae107f790",
-                    "url": "http://farm4.staticflickr.com/3813/11380370723_df2ee59c0b_o.jpg",
-                    "rights_holder": "James Maughn",
-                    "source": "http://www.inaturalist.org/photos/609090",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "b67441bbc59e1df571c4fd8ddebbfaebec4e26142a9f0ec5d744041901b2655bc5d21cf93bc8471b472feb24c72deeda1dc1cb52fdd004daa31030599d9eb363",
                     "url": "http://farm8.staticflickr.com/7452/10460847455_a23e5d0c6e_o.jpg",
                     "rights_holder": "Elvis Herrera Rodríguez",
@@ -24523,13 +24250,6 @@
                     "rights_holder": "David Yeany",
                     "source": "http://www.inaturalist.org/photos/492162",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "9a3db0c8fd83274c30052d0e248e633705377196c985032b34112a0f1fa6a95821c9cfe08764e21072c61d6656c5c2de62814d76e24ab15a4da0eba399f312b8",
-                    "url": "http://static.inaturalist.org/photos/423854/original.jpg?1374450430",
-                    "rights_holder": "Seabird",
-                    "source": "http://www.inaturalist.org/photos/423854",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
         },
@@ -24650,13 +24370,6 @@
                     "license": "http://creativecommons.org/publicdomain/mark/1.0/"
                 },
                 {
-                    "hash": "c57f25afbef6722ca3fedc5ddc75de6f4df60451b284b18229b176fc8d03142005b448b3b0f884522d8b55f2b685ccaf9921f33c85f11c09872b1209d21bf39f",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/9/98/Eggs_of_British_Birds_Seebohm_1896_Plate51_Black_throated_Ouzel.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Eggs_of_British_Birds_Seebohm_1896_Plate51_Black_throated_Ouzel.jpg",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-                },
-                {
                     "hash": "0990b530ef1a5b95a726d8c4065defcb9c413b56ae15eed75f53dd2546042476dbf33b9afa86412553012b9aa71f399ec1d5f52db366b6b1123d38936ac8046b",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/2/28/A_dark-throated_Thrush_female_-_Dhanachuli%2C_Uttarakhand_India.jpg",
                     "rights_holder": null,
@@ -24676,13 +24389,6 @@
                     "rights_holder": "Biodiversity Heritage Library",
                     "source": "https://www.flickr.com/photos/biodivlibrary/6008730116/",
                     "license": "http://creativecommons.org/licenses/by/2.0/"
-                },
-                {
-                    "hash": "0960695f1fc2e840fd381f8109daab4273074404703ca195c47527b8c5db98a74fef544889c22e93c6a5f514f1f6bab9cda98a451d54cba03c2b64f19d9398f4",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Eggs_of_British_Birds_Seebohm_1896_Plate51.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Eggs_of_British_Birds_Seebohm_1896_Plate51.jpg",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
                 }
             ]
         },
@@ -24804,13 +24510,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Berreşe.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "99f40c26f27e1cac5c04ed5bb71e1462b6e83878f2df6f8c617b3ca53af6aed70d73ead75523fec77c0a653c8d3ae6ef9c3501f9b7371cf1527f6ae3b93b3682",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/a/a2/Melanocorypha_calandra_MHNT_232_Moulares_Tunisie.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Melanocorypha_calandra_MHNT_232_Moulares_Tunisie.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
                 },
                 {
                     "hash": "7a4d763f585ab36f161594cbde1aed76dd4b00f962a4c7fe7a7b9d3520165857c5ad2b3a3103558d863bc9608b51028ba12a7fa9379537cd5e6333a9a46e4bcb",
@@ -24960,13 +24659,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 },
                 {
-                    "hash": "9434cab305280bccb6a974045a2e8fffc51376e8012982c36cb9fdab37a975fafb7935b187b56ab8a719fa33e022e4fccdb8aa06e364bffdc63e87f9e418d5d2",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Hippolais_polyglotta_MHNT_ZOO_2010_11_201_Ouarsenis.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Hippolais_polyglotta_MHNT_ZOO_2010_11_201_Ouarsenis.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
-                },
-                {
                     "hash": "8b16a9010212fe9cb484aa10fd5bab8f2b407edca667da331794abd6d9e5691410f2840b64148d58fe0fef17671ec2f7c13d6af3cf1ed52e76707ea9c8d65787",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/1/16/Hippolais_polyglotta_NRM.jpg",
                     "rights_holder": null,
@@ -25105,13 +24797,6 @@
                 "cz_cultural"
             ],
             "representations": [
-                {
-                    "hash": "dbf3bba3ab55e0b9133e20f4860a2de3a5b2e9ec018b777c3010b1ce7eb3cbae8f55d6cf539328b3c652a82181e1bb8fbb793df19be20e498f6c520fb364a9ce",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Galliformes/Phasianidae/Phasianini/Syrmaticus/reevesii/BB3B8D03-1110-4F4B-A3D5-E7B9C32D8DDF.jpg",
-                    "rights_holder": "科学出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
                 {
                     "hash": "8f94f1a4f1292f5dbce70a934aa18d9d0840ed1d4e6240fed5f9fc2e274ef361aaf899e05f5e00f702c5a70a749947fbe5053f638368408bde4c31aae7a88f12",
                     "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Galliformes/Phasianidae/Phasianini/Syrmaticus/reevesii/F3F54861-E2D7-47DA-917E-13B91054CA95.jpg",
@@ -25620,13 +25305,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 },
                 {
-                    "hash": "e1129a33e399c78c3b04313c9b3f77c8de60d4122247fe177630e15bde622a0f4bce6985e75989437c08eb798d5dbe034abd32ba2fd6b24bc893cc9046d380c4",
-                    "url": "http://farm9.staticflickr.com/8210/8186864994_f25d9e46ee_o.jpg",
-                    "rights_holder": "Mark Rosenstein",
-                    "source": "http://www.inaturalist.org/photos/204286",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "6a64c3742b34522f1d0d6f821ec1da0b377cb7994087dcaba2eda879d38949d0a789dfdf92a7cd3f5924fff2eac085eba5e21badbb14e84c9c7e15ce773a81eb",
                     "url": "http://farm9.staticflickr.com/8210/8191507641_59610a24b3_o.jpg",
                     "rights_holder": "James Maughn",
@@ -25845,13 +25523,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "50c0179ecf592000c1b4439e320ad25535a39d9c22f24e03944c7fcb80a317444d6c41a2e818c3bbbe3da369cc3b4c604f99ed567273838743cd922a67111bb4",
-                    "url": "http://static.inaturalist.org/photos/1334544/original.jpg?1415543260",
-                    "rights_holder": "Nicolas Olejnik",
-                    "source": "http://www.inaturalist.org/photos/1334544",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "1ea16adf1fa8c29a47733f1fc1629c0b3b5cd2ea551860c5e8bbf1323233885b300c9030ea6315f58fe0204bb44c6e439944fce7a97b045fed1b69372ceeb394",
                     "url": "http://static.inaturalist.org/photos/1566236/original.JPG?1424436533",
                     "rights_holder": "Guillermo Debandi",
@@ -26009,13 +25680,6 @@
                     "url": "http://www.biodiversity.com.au/wp-content/gallery/birds/stills15_311.jpg",
                     "rights_holder": "Peter Kuttner",
                     "source": "http://www.biodiversity.com.au/?page_id=7",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "6eb4d2d1535eb7d9af5ea16b0cb9ea53531c38e7f36e0d40b882be9a8451a251a3703a96e50a94eff5626f5e5ef306fe0272c4781722c82f36275011e0ea5fec",
-                    "url": "http://pngbirds.myspecies.info/sites/pngbirds.myspecies.info/files/DendArcu.jpg",
-                    "rights_holder": "Katerina Tvardikova",
-                    "source": "http://pngbirds.myspecies.info/file/2812",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
@@ -26744,13 +26408,6 @@
             ],
             "representations": [
                 {
-                    "hash": "0d546a67124d425ad42bbeba7c6a9a5666191543e2515218c92a708be07279fa5960b50f08890137dec375b56c1a1483ec273c45af96708ab34516220006f45b",
-                    "url": "http://www.fishbase.us/images/species/Acrut_u8.jpg",
-                    "rights_holder": "مركز الأسماك العالمى. قاعدة بيانات الأسماك",
-                    "source": "http://www.fishbase.org/summary/SpeciesSummary.php?id=4604",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "a55d135429307321ab3d1ab8041179cddd21ae73ed23d5ae1005380b44fde0480071278f3551924316d9ce34d02eb7f5cb05e3ce5fbb905696c26507170a1af3",
                     "url": "http://images.marinespecies.org/resized/2269_acipenser-ruthenus-linnaeus-1758.jpg",
                     "rights_holder": "وورمز لجمعية إدارة البيانات الإلكترونية للتنوع البيولوجي",
@@ -26818,13 +26475,6 @@
                     "rights_holder": "وورمز لجمعية إدارة البيانات الإلكترونية للتنوع البيولوجي",
                     "source": "http://www.marinespecies.org/aphia.php?p=image&id=2273",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "34620bd4791c6883a862947ede2d96ea1209c4f9f93ce1538beac577a6df3f4d2359596352a39f5110f71ca9af907b6beb54d9ff6966f33ca63bb55a39edc031",
-                    "url": "http://images.marinespecies.org/resized/15797_gilson-1921-figuur-17.jpg",
-                    "rights_holder": "وورمز لجمعية إدارة البيانات الإلكترونية للتنوع البيولوجي",
-                    "source": "http://www.marinespecies.org/aphia.php?p=image&id=15797",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -26872,13 +26522,6 @@
                     "rights_holder": "FAO",
                     "source": "http://www.fishbase.org/summary/SpeciesSummary.php?id=2067",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "804f891c6d4f6c95330ef648a1f8bea27ee552335a124fccd1279091bb7e05bf15980a11000d2b2b160b44647a1e222f210006108dda226b955396e31c0a53d7",
-                    "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=48156&DMWIDTH=10000&DMHEIGHT=10000",
-                    "rights_holder": null,
-                    "source": "https://content-dev.lib.washington.edu/u?/fishimages,48156",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
                 }
             ]
         },
@@ -27337,13 +26980,6 @@
                     "rights_holder": null,
                     "source": "https://content-dev.lib.washington.edu/u?/fishimages,48138",
                     "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
-                    "hash": "798c51d01c964dc3590ad500f3926b5cc8fa39880073a3f5ec73b8c520b1635b5c82451166c3c020d08357dd762b0e6a813bedf42ae555020833ab60e5989422",
-                    "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=48139&DMWIDTH=10000&DMHEIGHT=10000",
-                    "rights_holder": null,
-                    "source": "https://content-dev.lib.washington.edu/u?/fishimages,48139",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
                 }
             ]
         },
@@ -27783,13 +27419,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Aspius_aspius_Serbia_1.jpg",
                     "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
-                    "hash": "f68ed4344a7a554f4f4545d74366085158e203c10ab1268d062e8673dba4fd3a40329a3cb7a53dad3a36d7355c16354b16cae2a7629a960f6ca70bef3eb24acd",
-                    "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=48097&DMWIDTH=10000&DMHEIGHT=10000",
-                    "rights_holder": null,
-                    "source": "https://content-dev.lib.washington.edu/u?/fishimages,48097",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
                 }
             ]
         },
@@ -27876,20 +27505,6 @@
                     "rights_holder": "Biodiversity Heritage Library",
                     "source": "http://www.flickr.com/photos/biodivlibrary/6266711391/",
                     "license": "http://creativecommons.org/licenses/by/2.0/"
-                },
-                {
-                    "hash": "f159896dbab902c7b0cfcbf992fe0ecc78b48efda29649449e8f4869569bfee821ee3c0bfce586be8248d87fcc201f9c0ced5012efde25a9b6bedd48af58dbe0",
-                    "url": "http://www.morphbank.net/?id=460999&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460999",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "f520b15e4177e2f16ae8e2643112b246523d9c8603447e42c3037dcef07de241793d1a18e996a7f66d70c479a33b0b61931fd8237557fb5b99cd8530da198b2c",
-                    "url": "http://www.morphbank.net/?id=461000&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=461000",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
                     "hash": "2b568427942c2e56f235fc0a058a0aecfc69ea6f8261a8271f829da8a656e47d6905d662e4d810a9c78a9764e44023e6782a76be1ded08d25482e8297e3c2d72",
@@ -27998,27 +27613,6 @@
                     "rights_holder": "President and Fellows of Harvard College",
                     "source": "http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:29318",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "c2b9a2387377a0bf68484d51b447a3149f72efc4836a9cf3b7b2fd1dc1c94645615d3ba9c157044bb498e533526f4cb7368a230e5e0e4288b0b7b2197ebe0a1a",
-                    "url": "http://www.morphbank.net/?id=460902&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460902",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "ae633b7276c88b3985c91cc341284e05bd4d46d9a927402c78d8c0061c40a63c35f5cb3f2a44b4e3b1f12e5f90e9be461ede6589c4bdb338e8bac35cf8c63f05",
-                    "url": "http://www.morphbank.net/?id=461562&imgType=jpg",
-                    "rights_holder": "Kevin Conway and Richard Mayden",
-                    "source": "http://www.morphbank.net/?id=461562",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "af93ca30be87d363da73a3f310d84ce982f26904fcb019e7ca96389a5c8dc973b2a90788bf806fa8a050a790631a1c8c9cfb43417ffc5826b1186eb14d391c07",
-                    "url": "http://www.morphbank.net/?id=461836&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=461836",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -28084,27 +27678,6 @@
                     "rights_holder": null,
                     "source": "https://content-dev.lib.washington.edu/u?/fishimages,48095",
                     "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
-                    "hash": "f37e0d8a493a2e825f87c968a7802c86860125852adde35fb395648b2304eb3ea2b4242ad0e93198a8b195a30ada77a30717d858c9eda82b237d5c66c83a268b",
-                    "url": "http://www.morphbank.net/?id=459182&imgType=jpg",
-                    "rights_holder": "Alexander Naseka",
-                    "source": "http://www.morphbank.net/?id=459182",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "71adf7a2224be8348281dc4e182790be22fee88193a5f21d12035af059e6cec4489ce76341cf99c158b6f9bc29cd3515377ad1ae7908a994f4433c56cbc18090",
-                    "url": "http://www.morphbank.net/?id=459183&imgType=jpg",
-                    "rights_holder": "Alexander Naseka",
-                    "source": "http://www.morphbank.net/?id=459183",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "1ce3ee5279b8b667a23e3835fcf2539c73e667e7c80985c4f241cfa5f09551e16db05246ab33ab5728169321e42b0f455c804805fe77efca2fd312e05f02f36e",
-                    "url": "http://www.morphbank.net/?id=459184&imgType=jpg",
-                    "rights_holder": "Alexander Naseka",
-                    "source": "http://www.morphbank.net/?id=459184",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -28274,34 +27847,6 @@
                     "license": "http://creativecommons.org/licenses/publicdomain/"
                 },
                 {
-                    "hash": "1b88c5ae24f07d37975193b020d1b6a69d498748381bfd26a47b32aea5d17315df27b8baf5954b33feb012d1b4bfc316f0b10e33eb21e53ca0394dcac6ea45a7",
-                    "url": "http://www.morphbank.net/?id=459223&imgType=jpg",
-                    "rights_holder": "Alexander Naseka",
-                    "source": "http://www.morphbank.net/?id=459223",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "1201bac46df0487bb97c9749ebd5a7a0573dba2d468ec54b23ae08c5ef3045c68feed7961df1dbb3abc9a5eca0f9401966a73ca28887cb67cc106c7951fa6cff",
-                    "url": "http://www.morphbank.net/?id=459224&imgType=jpg",
-                    "rights_holder": "Alexander Naseka",
-                    "source": "http://www.morphbank.net/?id=459224",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "db5d03a3a936ea1fb6c66b554790369432b62e162475fa46484bb52249130573f53bb69cc425267561f91a9a05029d67e29d14c4acaf20eb5f2f228264bc32a4",
-                    "url": "http://www.morphbank.net/?id=459225&imgType=jpg",
-                    "rights_holder": "Alexander Naseka",
-                    "source": "http://www.morphbank.net/?id=459225",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "31fb91ec724737d9f8f19e0b283a2b36a690cd4904e4c5865abbdab10e7882dd4bcfc8c2365d8d6297ea146886b26e54ffd7f4349c249c0910669b5a9588658e",
-                    "url": "http://www.morphbank.net/?id=459226&imgType=jpg",
-                    "rights_holder": "Alexander Naseka",
-                    "source": "http://www.morphbank.net/?id=459226",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "bf435bae3c689b5eade9ca5d0515f6ba09ba90bd9ca9bb34d779cfe1c1bd0bb7d51ae510ce3a7980a91c8dd7a1f278d0b80359d4650218bdfe9f64e7555f7e3c",
                     "url": "http://www.morphbank.net/?id=459227&imgType=jpg",
                     "rights_holder": "Alexander Naseka",
@@ -28325,34 +27870,6 @@
                     "rights_holder": null,
                     "source": "https://content-dev.lib.washington.edu/u?/fishimages,48088",
                     "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
-                    "hash": "77b27eefb3a13c1dab1419539c5dee10ba61d46d8fb441c2c3cfdebaaf4d2967d89a6aeded2da62f4956983004ff3201049db6549ce3be9c3bc6147575f2b6cc",
-                    "url": "http://www.morphbank.net/?id=460903&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460903",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "032522eac75076ae97cb096ab4d4325bd9bce514c2e2ac1be9aeb73a94f7008ea314241b51a16c39328f28e5919bfe6ccd2e9cff41256659c2fbb57d18dabb2d",
-                    "url": "http://www.morphbank.net/?id=460904&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460904",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "032522eac75076ae97cb096ab4d4325bd9bce514c2e2ac1be9aeb73a94f7008ea314241b51a16c39328f28e5919bfe6ccd2e9cff41256659c2fbb57d18dabb2d",
-                    "url": "http://www.morphbank.net/?id=460905&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460905",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "95d112a37dbb1eb53e7b810ca9532f28a7e80c0088552fc269211f0cf0b648d8a93ca13076dafde0d61b54cb51355027bf139e80f76f06509d20edd8a7c60b26",
-                    "url": "http://www.morphbank.net/?id=460906&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460906",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -28423,13 +27940,6 @@
                     "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=48082&DMWIDTH=10000&DMHEIGHT=10000",
                     "rights_holder": null,
                     "source": "https://content-dev.lib.washington.edu/u?/fishimages,48082",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
-                    "hash": "bb545152ab260872768392a4b3eb066ef75a672c0b3727cbc8fdb9a85c0ea55bce23bbf1d92d1d7779015b75286d7e0f4f4f7323f3ffb40bdf7e65cc3738ec67",
-                    "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=48083&DMWIDTH=10000&DMHEIGHT=10000",
-                    "rights_holder": null,
-                    "source": "https://content-dev.lib.washington.edu/u?/fishimages,48083",
                     "license": "http://creativecommons.org/licenses/publicdomain/"
                 },
                 {
@@ -28536,13 +28046,6 @@
                     "rights_holder": null,
                     "source": "http://www.biopix.com/goldfish-carassius-auratus_photo-41955.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "76d0557db755f804816bfba5c3d6685bddaba56fc8e77501050d875239d56b3ad77381eea3472763e67879f7aac163ca67a845b99c778287da8e658e1adcab33",
-                    "url": "http://www.morphbank.net/?id=471047&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=471047",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
                     "hash": "2d95ab28dbfdf401ca80686406451bc09d367b7885480ff578e432db624ec0a80f98c11b557b1508683f7b5f70bfd329b0543a3e48f98b303cf7d33dd0a7c73c",
@@ -28818,34 +28321,6 @@
                     "rights_holder": "Østergaard, T.",
                     "source": "http://www.fishbase.org/summary/SpeciesSummary.php?id=6378",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "f8a7006050f3b9fbcd192362760c3c9ec0ae30c65d9ad2d7be796e586be556b38e6fb8529cde55d99084170896ce8d9c1a64bd41fb51e7d07b712353320a5d8c",
-                    "url": "http://www.morphbank.net/?id=460858&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460858",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "1661c707d07e0d583e04b1f815cf836379b5851efeaa9776383a8cfce4c183eeaa390613037de7b188f166fc347ffde2c1e7aff13d700b4a2fa40525dced10c8",
-                    "url": "http://www.morphbank.net/?id=460859&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460859",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "4f1b8e0164fc461e5b092e15e57e82587106d51e53e87029e0c7e8c9b7aeab888d11f5c38f34c91a7b34217773d3f61ef73532f9d783fe618e8fed6f7568f124",
-                    "url": "http://www.morphbank.net/?id=460860&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460860",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "693ad06ce0502454b45f839294615f194d3dcca0fcee368b082d329a8cb86c898c5af05af4a68f2f47674e74e7bce586958782562bd1d93bade732e07555df04",
-                    "url": "http://www.morphbank.net/?id=460861&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=460861",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -29000,13 +28475,6 @@
                     "rights_holder": "President and Fellows of Harvard College",
                     "source": "http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:63017",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "94ffafd0387ad465f83ebff56f4786a9891fcd3a045a35f1c2e5000b40c81d578ce1c03a463231b72468143ef827b5677d6b9f010f2e3cd63b26d51b7c4f9ccc",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/1/19/Cuvier-106-Morue-merlan-Lotte.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Cuvier-106-Morue-merlan-Lotte.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 }
             ]
         },
@@ -29250,13 +28718,6 @@
                     "license": "http://creativecommons.org/licenses/publicdomain/"
                 },
                 {
-                    "hash": "4487748e1687adcc8b02a039ceb3bd91419e7f511823b8aebdf5042685cc4c0177ae534a09a829369151bf66db8528bff7ba8e5e7b73e18d56698faba6399601",
-                    "url": "http://mczbase.mcz.harvard.edu/specimen_images/fish/large/51794_Gymnocephalus_schraetder_cs.jpg",
-                    "rights_holder": "President and Fellows of Harvard College",
-                    "source": "http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:51794",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "0976ba2a061373cbbcb05076b8cd10476269488042eb6629b8ce78eaef3aec4ea22d9a95993f88f52c523b52c2000885b3a65f3c15c9b292804c2ce0936642c5",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/4/4e/Gymnocephalus_schraetzer_selymes_durbincs.jpg",
                     "rights_holder": null,
@@ -29389,13 +28850,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 },
                 {
-                    "hash": "4fb031fc428edb9cbeda926436f3c0ae5c513152f77f57bfa482acab784216e00cc754a42f9547f6af017bcbfddffedfbf1d7f57af0214dd99ce06f13cae13de",
-                    "url": "http://static.inaturalist.org/photos/44270/original.jpg",
-                    "rights_holder": "wingedwolfpsion",
-                    "source": "http://www.inaturalist.org/photos/44270",
-                    "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
                     "hash": "ed60af7156e0ad37ea4d5120b6c866a0b3239c623972104fc7b4526c868d7366d1c7bda6f1466b3edee4dc61d1d608131f9adf6a4e4aaaeb9c2964eb13b87c30",
                     "url": "http://static.inaturalist.org/photos/269378/original.JPG?1362889535",
                     "rights_holder": "Jennifer Rycenga",
@@ -29465,13 +28919,6 @@
                     "url": "http://static.inaturalist.org/photos/353791/original.JPG?1370204189",
                     "rights_holder": "Zac Cota",
                     "source": "http://www.inaturalist.org/photos/353791",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "419f520d0ac73d65186a1e875a76bd991659db04ebf4b946d009bcd4a576588fe481d149447ac3ad3084adb68db1dda65b56a7bebbd7cf3f97fe472f1f6af796",
-                    "url": "http://static.inaturalist.org/photos/678016/original.JPG?1392585147",
-                    "rights_holder": "Mattia Menchetti",
-                    "source": "http://www.inaturalist.org/photos/678016",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
@@ -29561,13 +29008,6 @@
                     "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=47990&DMWIDTH=10000&DMHEIGHT=10000",
                     "rights_holder": null,
                     "source": "https://content-dev.lib.washington.edu/u?/fishimages,47990",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
-                    "hash": "4f5f24143dd9602b75a45b1a82d3537372158d0c141d30f843300d6960aaf2b4dd1799be1e91a0fb3c42f077e00c9c8b97dc3299c3b77acc8d7a12dce453de53",
-                    "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=47989&DMWIDTH=10000&DMHEIGHT=10000",
-                    "rights_holder": null,
-                    "source": "https://content-dev.lib.washington.edu/u?/fishimages,47989",
                     "license": "http://creativecommons.org/licenses/publicdomain/"
                 }
             ]
@@ -29742,13 +29182,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:European_Mink.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "45a8c99e635c3414edf83c137ab65d0e836e125ec9fede4ba2ea8bc064f872a309c5ad751a4512db51438615c5951b5af3a22e3562a424049203746d87a98505",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/0/05/Mapa_Mustela_lutreola.png",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Mapa_Mustela_lutreola.png",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
                 },
                 {
                     "hash": "428499b9534a8dbbac25964af679d2926ae4be5a4fa5510bb74255146d26b79f41e340df9aceeb1ce0ea05e8c04b0206147bfb13b8c5c96ec01617f91d908fc2",
@@ -31270,13 +30703,6 @@
                     "rights_holder": null,
                     "source": "http://www.bioimages.org.uk/html/p7/p78320.php",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "37d96cd7f32212df16a7f2a963addac90c079dd91eef47ae4fcdcd73ec832603fa40d53602eb9281f21291b280efff5b3057fa1d0672011e3cda6245c70af030",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/8/87/Meyers_b5_s0367a.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Meyers_b5_s0367a.jpg",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
                 }
             ]
         },
@@ -31762,27 +31188,6 @@
             ],
             "representations": [
                 {
-                    "hash": "4c803ea0a860266cd0e0489ce54c3c6ac430ea2df63b3598bba42bd8164e13425b3ef921ae37b9b0472b1ab6c4af2e957fedcc657db9760458dc11faa5649d2b",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/2/2b/Origin_of_Vertebrates_Fig_055.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Origin_of_Vertebrates_Fig_055.jpg",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-                },
-                {
-                    "hash": "574061bd5e128e4c52545e2cfb4df2ee75e45c5b47cb1a61570239eedb8c477c25db106f9b7c0ccd6a194c6d74f6069e364cbb91aa18600ed499f35f70b168b6",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/3/38/Origin_of_Vertebrates_Fig_053.png",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Origin_of_Vertebrates_Fig_053.png",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-                },
-                {
-                    "hash": "faee2e2d1d52cbd7b7afee75384e9a68a5cccdc88943cacb3a0e907c92d304dc1aa08883d37d3ec55b7df7c95358bbd072e6c5c401a89a9702da2e6cda4928d0",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/0/02/Origin_of_Vertebrates_Fig_126.png",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Origin_of_Vertebrates_Fig_126.png",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-                },
-                {
                     "hash": "44f9f057f6f35382a0b29c22ab2b815f73f0da284f8f010c7caf935b5ce283355fa360f9796ba451c00510f1aa6dbc743e4e79dc6de8cc42dd8fc4d2fff57a33",
                     "url": "http://farm6.staticflickr.com/5116/6918356588_21120006c0_o.jpg",
                     "rights_holder": "Biodiversity Heritage Library",
@@ -31961,13 +31366,6 @@
                     "url": "http://www.biopix.com/photos/ANE-Tetrao-tetrix-01640.jpg",
                     "rights_holder": null,
                     "source": "http://www.biopix.com/black-grouse-tetrao-tetrix_photo-94559.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "4f35f6b17facbda14b721b1754f4deb67bba641224195df53d0809179f793da021e6e74c828f4e615a269909aadcde773d47e75ca1a27f57dc75b28266e78277",
-                    "url": "http://www.biopix.com/photos/ANE-Tetrao-tetrix-00186.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/black-grouse-tetrao-tetrix_photo-61978.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
