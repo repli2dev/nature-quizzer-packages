@@ -1305,7 +1305,11 @@
                 "cs": "srnec obecný",
                 "en": "european roe deer"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_forest",
+                "cz_plain",
+                "cz_cultural"
+            ],
             "representations": [
                 {
                     "hash": "26b9c6ba0aedfee07fc79d7ded78e4927a83907d02dc2b01e444fb275e214b679909c05761d76ee5218fb3990d888562a492191b1711b6247d0c86b3c5b310e5",
@@ -4895,7 +4899,10 @@
                 "cs": "bělořit okrový",
                 "en": "black-eared wheatear"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_water_by",
+                "cz_plain"
+            ],
             "representations": [
                 {
                     "hash": "60a6bbf1ec675f811a2594676d8f73cf0bb14c8e5d859cd99097051ad49a1005a390b985a3ca92212381a02186c857405c11c689a52ddfff9ed91cf7ae0250e2",
@@ -5787,7 +5794,10 @@
                 "cs": "budníček pruhohlavý",
                 "en": "yellow-browed warbler"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain",
+                "cz_forest"
+            ],
             "representations": [
                 {
                     "hash": "960c7768302ccc205c3c06ba5375e4ace73cd47032400a118384fadca218b0154119c5367e7098e37312d8b2d5c4bb2e46fecae81822d11fd9eb68a01d2ab443",
@@ -6581,7 +6591,10 @@
                 "cs": "čečetka tmavá",
                 "en": "lesser redpoll"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_forest",
+                "cz_mountain"
+            ],
             "representations": [
                 {
                     "hash": "4638bdb176588944a2ba3d74bb1c15c44b5817062e802e78275e19ec4846f2a4f7bc64ea02e39597d6f4adaff91d3a4225a46307bca0eef8fcf663fcbf4017ca",
@@ -7711,7 +7724,10 @@
                 "cs": "dytík úhorní",
                 "en": "stone curlew"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain",
+                "cz_water_by"
+            ],
             "representations": [
                 {
                     "hash": "b31a61b0cbf0af71063f7cb172816ab04bebfafd417d1520bf8c5bd9818aaaf7f196804b821061ad4d4c41724f70e3defb16452b5b1978341f5211c9596db958",
@@ -7916,7 +7932,11 @@
                 "cs": "holub doupňák",
                 "en": "stock pigeon, stock dove"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain",
+                "cz_forest",
+                "cz_cultural"
+            ],
             "representations": [
                 {
                     "hash": "a44ff96db8ad89054ba01b27569758053be3e4e138756c3cc9a6dd599f6b8581468585a123b9c101369786d0035dc891d131cb77a44f4e0eea3782d68ad2afe5",
@@ -8054,7 +8074,11 @@
                 "cs": "hrdlička zahradní",
                 "en": "eurasian collared dove"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_cultural",
+                "cz_plain",
+                "cz_forest"
+            ],
             "representations": [
                 {
                     "hash": "cb88d24f82c68a544fe875fed42ce79713a8e9877d29a04343380afc51b5f21e175f5eac50fe0a40f5c8bd6c193e166f79b225a87e6dd5c30c869b17e237d2a0",
@@ -12200,7 +12224,9 @@
                 "cs": "křivka velká",
                 "en": "parrot crossbill"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_forest"
+            ],
             "representations": [
                 {
                     "hash": "a27b3ec48add017e5434972a430204aeee3bed42f768f2184ae838a509ae91a78c6b01ff971d30cd2c61655a866d659ce30ac3d7b7933407df1909d766842281",
@@ -13214,7 +13240,11 @@
                 "cs": "lejsek šedý",
                 "en": "spotted flycatcher"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_forest",
+                "cz_cultural",
+                "cz_plain"
+            ],
             "representations": [
                 {
                     "hash": "e126f4f96adc45cbc670d52ed67f03251bc11dbddba4f2895f9206ed7d2f12c954bf49ae950de49af38d773a8ac67a9267d9484b8ab34b2fca8874a60acbe957",
@@ -14986,7 +15016,12 @@
                 "cs": "orlík krátkoprstý",
                 "en": "short-toed eagle"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain",
+                "cz_water_by",
+                "cz_forest",
+                "cz_mountain"
+            ],
             "representations": [
                 {
                     "hash": "4ba28a83ad8f57a67ee2de970b10b5c5c33a89a69e3eb0e4994f4f60810dfd0b747600878e3c61c92caf96a5974872e3c3af2390c1292d843377aed84bde3660",
@@ -15430,7 +15465,9 @@
                 "cs": "pěnice bělohrdlá",
                 "en": "sardinian warbler"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain",
+            ],
             "representations": [
                 {
                     "hash": "fad6357ac169ae1d95be53bf1a6b15b1756ceb8e70aa81cc82e476e7a95363a91155930290fbfdaf25868eddf160761f50a8c8580bb5c921c38c41e010018553",
@@ -20582,7 +20619,9 @@
                 "cs": "strnad bělohlavý",
                 "en": "pine bunting"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain"
+            ],
             "representations": [
                 {
                     "hash": "6848892bc1b60fcfdb5cf9a505dd7bad72897328be5d3c45d9987f7527acea50979d1619119b7d5a9c4eabf132a01e6c526ea3585bfc0abec70aeaab5bc05e70",
@@ -20774,7 +20813,9 @@
                 "cs": "strnad malinký",
                 "en": "little bunting"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain"
+            ],
             "representations": [
                 {
                     "hash": "501d5d6e4f9fdde67be1a8d02772ae338b6c67f19d437952793a48b6ce6240ce428d65015b5b8dda751c885e975207c00906d2a41b7edb3087e4b8ec255e4886",
@@ -24049,7 +24090,9 @@
                 "cs": "zvonek zelený",
                 "en": "european greenfinch"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain"
+            ],
             "representations": [
                 {
                     "hash": "dd83b833faf910fe57f4daaede946139d6e3f6dc8896d2650563b3241eb5f262ba9231f7bedf3cb42be645db2de3e870c6b8f27feb8e9ab958c6e36f51677383",
@@ -24100,7 +24143,9 @@
                 "cs": "zvonohlík citronový",
                 "en": "citril finch"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain"
+            ],
             "representations": [
                 {
                     "hash": "aab4b634a217f999cd91b9499afbd4f4693df98894518881bb64f675dfaa880d325af906e54bc21add2045811c7a8c50c29232176da567956c4cec65c007b9eb",
@@ -24116,7 +24161,9 @@
                 "cs": "zvonohlík zahradní",
                 "en": "european serin"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain"
+            ],
             "representations": [
                 {
                     "hash": "9d5cc024679d4f64eec99701888853497c6acb8e544b76752d82b65347db2395ba54d4285b6de602c4651dcb7c7cb742e52c546475dab81123a3c9e2ff722b53",
@@ -24167,7 +24214,10 @@
                 "cs": "žluna šedá",
                 "en": "gray-faced woodpecker"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_cultural",
+                "cz_forest"
+            ],
             "representations": [
                 {
                     "hash": "769c49d5a4ff9ecd9f8c1ff85a59801d9f2062cff32c65f74e3d5103af0e47abcf0460820d9d69d59f054ca261b56f9c94de1a098bf10cff2ec6230439720e6b",
@@ -24937,7 +24987,9 @@
                 "cs": "stepokur kirgizský",
                 "en": "pallas' sand grouse"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain"
+            ],
             "representations": [
                 {
                     "hash": "4599920c09468cb0d9fb6ab1f105ff9097dc27a5a92d7661ffdc627cd34db73f5b42927f72693b16a2fbf1ba29c3eb615ec6c7e641e5d5242a8f29eab7afd257",
@@ -31411,7 +31463,11 @@
                 "cs": "užovka hladká",
                 "en": "smooth snake"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_cultural",
+                "cz_forest",
+                "cz_desert"
+            ],
             "representations": [
                 {
                     "hash": "c157addfc1a7345aef407fa7abb75fccff599e6d024b8da9ed0a3d84a1dfef7394f21a5571b4ed87b2776fb45ffd4e56d78856c99266be26f827d01f1f3aec38",
@@ -31810,7 +31866,11 @@
                 "cs": "bramborníček černohlavý",
                 "en": "european stonechat"
             },
-            "concepts": [],
+            "concepts": [
+                "cz_plain",
+                "cz_desert",
+                "cz_cultural"
+            ],
             "representations": [
                 {
                     "hash": "0f8a0bdda3b937755fcf250039f80f13683e0af9b1353d50a899f2965f852fb27985ccdf7a6e2bf1fb0f9aaedc3951dbfb26fe706a170b2818329cbc8a6697e7",
