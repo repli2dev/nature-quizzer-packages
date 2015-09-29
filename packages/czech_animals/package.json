@@ -3671,20 +3671,6 @@
                 }
             ]
         },
-        "myotis alcathoe": {
-            "names": {
-                "cs": "netopýr alkathoe",
-                "en": "alcathoe myotis"
-            },
-            "concepts": [
-                "cz_forest",
-                "cz_mountain",
-                "cz_water",
-                "cz_cultural",
-                "cz_water_by"
-            ],
-            "representations": []
-        },
         "myotis bechsteini": {
             "names": {
                 "cs": "netopýr velkouchý",
@@ -4570,7 +4556,15 @@
                 "cz_water_by",
                 "cz_water"
             ],
-            "representations": []
+            "representations": [
+                {
+                    "hash": "d3a7d6602b2cb504fa71fe16075c127442d758a54127d95b697336273d6612048b737091573e80d39748357450da2890aab1bd226608966c335997f78c0b9243",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lesser_horseshoe_bat.jpg",
+                    "rights_holder": "Petr Vodička, Wikipedia",
+                    "source": null,
+                    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+                }
+            ]
         },
         "rhinolophus ferrumequinum": {
             "names": {
@@ -10257,7 +10251,15 @@
                 "cz_desert",
                 "cz_mountain"
             ],
-            "representations": []
+            "representations": [
+                {
+                    "hash": "a890c94cdbbc4bdea4397c028efe56979fb867a61029260610c422acba166d10c31178384a6b7fdd84d02122c4f1a31ea1e3c0f9b8ce5ac771e852c0e491190d",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Eider_%28Somateria_spectabilis%29_%2813668016084%29.jpg",
+                    "rights_holder": "Ron Knight from Seaford, East Sussex, United Kingdom",
+                    "source": "http://www.flickr.com/photos/sussexbirder/13668016084/",
+                    "license": "http://creativecommons.org/licenses/by/2.0/"
+                }
+            ]
         },
         "somateria mollissima": {
             "names": {
@@ -24099,7 +24101,15 @@
                 "en": "citril finch"
             },
             "concepts": [],
-            "representations": []
+            "representations": [
+                {
+                    "hash": "aab4b634a217f999cd91b9499afbd4f4693df98894518881bb64f675dfaa880d325af906e54bc21add2045811c7a8c50c29232176da567956c4cec65c007b9eb",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Carduelis_citrinella_-Plateau_de_Beille%2C_Ariege%2C_Midi-Pyrenee%2C_France-8.jpg",
+                    "rights_holder": "Sandra",
+                    "source": "http://www.flickr.com/photos/79805947@N02/8110299571/",
+                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+                }
+            ]
         },
         "serinus serinus": {
             "names": {
@@ -27145,17 +27155,6 @@
                 }
             ]
         },
-        "coregonus peled": {
-            "names": {
-                "cs": "síh peleď",
-                "en": "peled"
-            },
-            "concepts": [
-                "cz_water",
-                "cz_desert"
-            ],
-            "representations": []
-        },
         "thymallus thymallus": {
             "names": {
                 "cs": "lipan podhorní",
@@ -27353,7 +27352,15 @@
             "concepts": [
                 "cz_water"
             ],
-            "representations": []
+            "representations": [
+                {
+                    "hash": "ebf0d5fef2a8b4433bb546936ad9421b7e61569c8e4037f3b2a182429e596daadd03e542cac1438055843ad8d113afb73d8a8b14e0fbc0fde03d3e91e6fb776f",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/FMIB_35775_Leuciscus_pigus_--_Pigo.jpeg",
+                    "rights_holder": "Freshwater and Marine Image Bank at the University of Washington",
+                    "source": null,
+                    "license": "http://creativecommons.org/licenses/publicdomain/"
+                }
+            ]
         },
         "leucaspius delineatus": {
             "names": {
@@ -28804,19 +28811,15 @@
                 "cz_plain",
                 "cz_cultural"
             ],
-            "representations": []
-        },
-        "sabanejewia balcanica": {
-            "names": {
-                "cs": "sekavčík horský",
-                "en": "golden spined loach"
-            },
-            "concepts": [
-                "cz_water",
-                "cz_desert",
-                "cz_cultural"
-            ],
-            "representations": []
+            "representations": [
+                {
+                    "hash": "334de893752e21e6275c31c9049cad1aedf6d6e7aad3258d2658f5a3f10e1beac726d3a6942b589d2443a003b14a6a73bf3a2407fa997ad318931ecec331c7d3",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/FMIB_46312_Spined_Loach.jpeg",
+                    "rights_holder": "Freshwater and Marine Image Bank at the University of Washington",
+                    "source": null,
+                    "license": "http://creativecommons.org/licenses/publicdomain/"
+                }
+            ]
         },
         "silurus glanis": {
             "names": {
@@ -29815,14 +29818,6 @@
                     "license": "http://creativecommons.org/licenses/by-sa/2.0/"
                 }
             ]
-        },
-        "myotis oxygnathus": {
-            "names": {
-                "cs": "netopýr ostrouchý",
-                "en": "monticelli's myotis"
-            },
-            "concepts": [],
-            "representations": []
         },
         "pipistrellus kuhlii": {
             "names": {
@@ -30826,7 +30821,15 @@
                 "cz_mountain",
                 "cz_desert"
             ],
-            "representations": []
+            "representations": [
+                {
+                    "hash": "078ba050a6de6e3c070ab95680bdc1c8223889e4a2ab0efa747fa97d2f581d1294161eea5f5bcc55f359953cd041a06cc56584fbdf627dfcf6d0c9bd0f0564af",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Moor_Frog_%28Rana_arvalis%29_%286222410897%29.jpg",
+                    "rights_holder": "Thomas Brown",
+                    "source": "http://www.flickr.com/photos/63048706@N06/6222410897/",
+                    "license": "http://creativecommons.org/licenses/by/2.0/"
+                }
+            ]
         },
         "rana dalmatina": {
             "names": {
