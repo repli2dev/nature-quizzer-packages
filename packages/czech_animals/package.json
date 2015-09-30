@@ -13,8 +13,8 @@
     },
     "group": {
         "cz_animals": {
-            "cs": "Česká zvěř",
-            "en": "Animals of Czech Republic"
+            "cs": "Česká divoká zvěř",
+            "en": "Wild animals of Czech Republic"
         }
     },
     "concept": {
@@ -2068,13 +2068,6 @@
             ],
             "representations": [
                 {
-                    "hash": "2c9e02d5e8b772f4a32f4e4281696dc2b4fa9c89e2ec0e3517ac9da3df999414978aaf7faa8815c434a718d5da2e430ee99effffa4da1d567a069159dc3b38bd",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Mammalia/RODENTIA/Cricetidae/Microtus/arvalis/B1046380-30F0-4CAA-80AE-50B4FA29A822.jpg",
-                    "rights_holder": "科学出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "3eea924d7ff3dbf13ac223826884cda3761813ae62076481b4d6df1e5341ba323aa35bf8882feae74964df2d0790871f5776bddd875d8940a81e0b422c49bd19",
                     "url": "http://www.ecomare.nl/fileadmin/ecomare/data/images/jeirdan-veldmuis.jpg",
                     "rights_holder": "jeirdan via www.flickr.com",
@@ -4038,13 +4031,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:GreaterNoctule.JPG",
                     "license": "http://creativecommons.org/licenses/by/2.5/"
-                },
-                {
-                    "hash": "8df950669a67cb3a3f49fbe5683e7d9bc0e81f51bb9e27812a52bd87ab144ddf439f7a0b6bc81cdae869cd486de542164d4765a53b01ad4c7cfbe7fc35a7b658",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/3/39/Bats_Romania_2003.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Bats_Romania_2003.jpg",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
                 }
             ]
         },
@@ -5529,13 +5515,6 @@
                     "rights_holder": "Biodiversity Heritage Library",
                     "source": "https://www.flickr.com/photos/biodivlibrary/6059419106/",
                     "license": "http://creativecommons.org/licenses/by/2.0/"
-                },
-                {
-                    "hash": "7fa37d3ff2b7c556f237178f2880c42216dd66d1f49fec595304bdcdea1ba53ff53023f87348db63a30cd70f2022a83cc595738f6ccbfd97e1238eca2677566b",
-                    "url": "https://farm1.staticflickr.com/226/471221558_85da4eecbe_o.jpg",
-                    "rights_holder": "Valter Jacinto",
-                    "source": "https://www.flickr.com/photos/valter/471221558/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 },
                 {
                     "hash": "6b9168fdbec7cb658c69c60ffa9dd8badf07fa1b717682463e4b11850fd279cdb8da20195c459db96915acf33c5a23f71f06f2c4d8d99671042fefbd19c078a4",
@@ -7060,13 +7039,6 @@
                     "url": "http://static.inaturalist.org/photos/194022/original.JPG?1351353529",
                     "rights_holder": "Ryan McFarland",
                     "source": "http://www.inaturalist.org/photos/194022",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "3c4cd5b323701f62fc53f49147f80126b0459d5e6083bfbb7acf70050be6422f5de6430446b4925db0ca89b1a8f483690838d1329282d7a546f509348fac5197",
-                    "url": "http://www.biopix.com/photos/ANE-Picoides-tridactylus-01240.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/three-toed-woodpecker-picoides-tridactylus_photo-80284.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
@@ -10823,13 +10795,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Numenius_arquata_Reculver.jpg",
                     "license": "http://creativecommons.org/licenses/by/2.0/"
-                },
-                {
-                    "hash": "3c462cadbe95ff8ff7f590542aa86107c4f40308d665a98cdf1f100e8b0c672dac3075f1e452ca748615974abde45ba3b331838d0a5c9ba39960e5fa64b0e7ad",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/0/0a/Eggs_Numenius_arquata.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Eggs_Numenius_arquata.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 },
                 {
                     "hash": "9c945ad86a5ce6e46395e4aada48ae7ebc612b5adbab7be06d95777cb64dfabe59c3fd8568c4f230d9814dc18395b5d3b5e968f30c8efebf26b0f5ea1cbda63a",
@@ -27845,13 +27810,6 @@
                     "rights_holder": null,
                     "source": "https://content-dev.lib.washington.edu/u?/fishimages,48089",
                     "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
-                    "hash": "bf435bae3c689b5eade9ca5d0515f6ba09ba90bd9ca9bb34d779cfe1c1bd0bb7d51ae510ce3a7980a91c8dd7a1f278d0b80359d4650218bdfe9f64e7555f7e3c",
-                    "url": "http://www.morphbank.net/?id=459227&imgType=jpg",
-                    "rights_holder": "Alexander Naseka",
-                    "source": "http://www.morphbank.net/?id=459227",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -27888,13 +27846,6 @@
                     "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=48106&DMWIDTH=10000&DMHEIGHT=10000",
                     "rights_holder": null,
                     "source": "https://content-dev.lib.washington.edu/u?/fishimages,48106",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
-                    "hash": "efd56f9c930db894be45fbfab7aba4d487c816ee694c2735ae81e801c0048de99f5929acd17288634d6ec85b7a08a7ecbafe51581f632e69a6a76b267632c05c",
-                    "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=48107&DMWIDTH=10000&DMHEIGHT=10000",
-                    "rights_holder": null,
-                    "source": "https://content-dev.lib.washington.edu/u?/fishimages,48107",
                     "license": "http://creativecommons.org/licenses/publicdomain/"
                 },
                 {
@@ -31136,13 +31087,6 @@
                     "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=48010&DMWIDTH=10000&DMHEIGHT=10000",
                     "rights_holder": null,
                     "source": "https://content-dev.lib.washington.edu/u?/fishimages,48010",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
-                    "hash": "103316ea02ab3d31b4592ee645c606e23d128ee7211af279c4f4e623dc6b7210eda216ce37dbed427d90f834248130a302f9e62049246ebaeb79f9c21ddd33ad",
-                    "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=48011&DMWIDTH=10000&DMHEIGHT=10000",
-                    "rights_holder": null,
-                    "source": "https://content-dev.lib.washington.edu/u?/fishimages,48011",
                     "license": "http://creativecommons.org/licenses/publicdomain/"
                 },
                 {
