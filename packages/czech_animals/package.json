@@ -1258,27 +1258,13 @@
         },
         "ovis aries": {
             "names": {
-                "cs": "muflon",
+                "cs": "ovce domácí",
                 "en": "domestic sheep"
             },
             "concepts": [
                 "cz_animals"
             ],
             "representations": [
-                {
-                    "hash": "1b5d544c2ba648fee3f64556349346ab20a36f8f6f8a5404d20558e954a7ecb1004058de9399f75afebca2cbcb91c5ca69b5236b72425efc62c6e9c228e3f7de",
-                    "url": "http://farm8.staticflickr.com/7066/7136829039_b5fda89b56_o.jpg",
-                    "rights_holder": "Jörg Hempel",
-                    "source": "http://www.flickr.com/photos/joerghempel/7136829039/",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.0/"
-                },
-                {
-                    "hash": "3fdee89a75d46ef9107818648e38d7619668db8ee7cdf419b12024642f9fc6716e13e3b090787929e3c8683b90a75f32987346994ed26c0eb7e97ce696b2185f",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/1/19/Caroux_mouflon.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Caroux_mouflon.JPG",
-                    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
-                },
                 {
                     "hash": "0d66d507930b73d8affeff35d674a7429845f7917b694ffde09ae99d1f00ec66388d5d1753bd21540bf5082ccc69695497021fd3cd5e8bfb76f33811f920fa9f",
                     "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0213/1312.jpeg",
