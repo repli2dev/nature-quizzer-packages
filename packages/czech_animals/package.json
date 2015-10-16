@@ -129,13 +129,6 @@
                     "rights_holder": null,
                     "source": "http://www.biopix.com/polecat-mustela-putorius_photo-39278.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "4edb42271f3dedab979c5f636b4fd3a4be27d9eba6a57fb4e482452003d3a331527781b81f58672466c075a52785e6ecaffa069242e7c8d764e9f4f87a24157c",
-                    "url": "http://www.biopix.com/photos/JCS-Mustela-putorius-29858.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/polecat-mustela-putorius_photo-39266.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
         },
@@ -843,13 +836,6 @@
                     "rights_holder": "Hana Raza",
                     "source": "http://www.inaturalist.org/photos/771382",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "a8cc298716eea192d7eb90ffd8ef98a29981f7ee490105301997a40ab984c9bb22b01c8b3cb99b5a4425cecec8cded86720abdda99dae634a27a83b912db891a",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Carnivora/Felidae/Felis_silvestris/dorsal5438/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Carnivora/Felidae/Felis_silvestris/dorsal5438/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -1409,13 +1395,6 @@
                     "rights_holder": null,
                     "source": "http://www.biopix.com/european-rabbit-oryctolagus-cuniculus_photo-87639.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "2b11e43e1a95ce391b7820c41ed9c6a336131a204686307102ce0e49c3dab6916c698c42fbd42524c3dee6a11f4c80fea9699d7e5a6bb69e1005698311a69c8b",
-                    "url": "http://cdn2.ps1.photosynth.net/image/m01001200-DuwKTDyjeyM_files/thumb.jpg",
-                    "rights_holder": null,
-                    "source": "http://photosynth.net/view.aspx?cid=a5b1ff44-c1ef-4ede-898e-435409bc3a49",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
                 }
             ]
         },
@@ -1625,13 +1604,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Chomik_europejski.jpg",
                     "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-                },
-                {
-                    "hash": "c05e509acb31cbf298eda58e0bb2bac23989eebc3f5a6215d1007cfac63dbfcd7da083cd1605103864b2791a5ad6189abea58e6a31f5f07857df89e81e5e23a3",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/anatomical_images/family_pages/rodentia/cricetinae/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/anatomical_images/family_pages/rodentia/cricetinae/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
                     "hash": "dd1ed9fad96e0e6781773c04c12aa58f8623ce2bdef0140707ecc6fccc296d8049c6a2357b71a30428c262a95ebebe8e15017a740b4358db2f68c7fdebf6080f",
@@ -1919,20 +1891,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Rat_temple.jpg",
                     "license": "http://creativecommons.org/licenses/by/2.5/"
-                },
-                {
-                    "hash": "d68209b97de9a3caca0544982d75a415945af488e09e39b5647dddb56f1d5e96bb8f9745460267af79fe4078e7d252e4bc59293a46c61def4697ff41d2f90b02",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Rodentia/Muridae/Rattus_rattus/dorsal2637/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Rodentia/Muridae/Rattus_rattus/dorsal2637/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "14fc5f0d2ae5382fcd645795bf41cecdc1b74fa6f83d0c410649367ddbd611e8606e7f586d2e58145ece1a1e5b460ac0ebb9289c92d067ca04342aabcbb5ffa1",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Rodentia/Muridae/Rattus_rattus/lateral2641/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Rodentia/Muridae/Rattus_rattus/lateral2641/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -2646,13 +2604,6 @@
                     "license": "http://creativecommons.org/licenses/by/3.0/"
                 },
                 {
-                    "hash": "7fd072d0e86541594a2b572837562ef2ac8f1358c9b974dd81a6a18edef77111d1fe04033c8faa2d795e457b79d1ea14d6ee3712d45549086a165358f0cd8e46",
-                    "url": "http://farm5.staticflickr.com/4052/4406427504_8b4cb1b3c9_o.jpg",
-                    "rights_holder": "António Pena",
-                    "source": "http://www.flickr.com/photos/anpena/4406427504/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
                     "hash": "45037ef488caa1d7d52f5c23b86aca0795600b9dcb1a6117e37928b11e089656080fb3df9efecfc274c48ac3564d3af29c282890fdff1985429e88283bacec5b",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Neomys_anomalus_02_by-dpc.jpg",
                     "rights_holder": null,
@@ -2697,20 +2648,6 @@
                     "rights_holder": "2013 Simon J. Tonge",
                     "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=435428&one=T",
                     "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
-                    "hash": "068fa08f933c77952ebe6234932d54bef32f4c7c60faf97b09a1fa8c3c08ee3a0e3d4be72fd9c9950ef5fb5e7c6059088ea3259bcf6f9cb7fea63c4d3b3b3640",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Neomys_fodiens/dorsal6458/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Neomys_fodiens/dorsal6458/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "bb65c49b58f4ecde58ee3edfd28b3d2254f946734a4abf6a80f9da4f02944bb7889a244f4310b764bd32e578d8710f6cfd81de7d55c1c700447f0a98893c7bcb",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Neomys_fodiens/lateral6459/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Neomys_fodiens/lateral6459/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -2860,27 +2797,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Crocidura_leucodon.JPG",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "a10a60dd69357a700aee15703a39a9386db22841924df650e955300b564aaeed31760791f1ae6a4c91c76539fcfeca53967d8f11771582c07da4c86e887cbb57",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/anatomical_images/family_pages/insectivora/soricidae/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/anatomical_images/family_pages/insectivora/soricidae/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "b419416399b6e532da384441f75d205b6f64d7507ade374d7b5f255a0043dc5a766b2e825830057d774216b0c353edced6d7b88247b5bb794e633e5aac5a3f26",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_leucodon/dorsal6112/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_leucodon/dorsal6112/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "77a1400dfba6e59a4a29e57a2ebe70c9b58c1e264c2e034d69ac2fb470d3904f452a88d569767f94c867b75bd564f0d41596c8c5fb2173efdfe4c8062e49d440",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_leucodon/lateral6114/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_leucodon/lateral6114/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -2898,27 +2814,6 @@
                     "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Mammalia/SORICOMORPHA/Soricidae/Crocidura/suaveolens/4F6AD66A-9B09-4BAE-9BB1-213677FA52F8.jpg",
                     "rights_holder": "科学出版社",
                     "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "5191cf2ed0aee0b1c6e0bac1aa5c4a312fe014010d8f226f9a8d9f621b6bb8c102e259cc789591fd9a6b53c3a2768f1bfeda5319c0ec14fdb8c11378b9621349",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_suaveolens/dorsal6063/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_suaveolens/dorsal6063/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "bef15c994713cf845ac866582143c8bd2770533b81002926d4055b168fd6fc4a5f1ba4d1779ba72196ad9a279b0263be4ddbf2934368d6ae99db1eb7ad5cd735",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_suaveolens/lateral6065/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_suaveolens/lateral6065/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "dc11b9b743363b10aaca7cdc1b4c151e800c74e63b6b9a4f4d55710b5b18950a31b2a442b2e6c7b14a7a2020fb12bad1a7f0f2fbbd62f2fcdef758b9d8a3cb7b",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_suaveolens/lower_dorsal6069/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Soricomorpha/Soricidae/Crocidura_suaveolens/lower_dorsal6069/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
@@ -3136,27 +3031,6 @@
                     "rights_holder": "Pierre Bonnet",
                     "source": "http://www.ecomare.nl/index.php?id=4142&L=2",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "0f3fd6d4dce7b0401f089fa3638f2668789c610720030ef0ee46ced3f248ecc181d8eaedd3a844f0fb9974c16a4a22dd998e506d99c5ff91313e47d1c0294ca8",
-                    "url": "http://www.biopix.com/photos/JCS-Eptesicus-serotinus-52414.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/eptesicus-serotinus_photo-79185.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "5277ae655ab998ef7b4bce318559f397a8461d2ab71e41a6aca734eb2179b3fe92e59a78655406be83789ec8142e63e57cdf350d1b14098f7c64c540ec16ecae",
-                    "url": "http://www.biopix.com/photos/JCS-Eptesicus-serotinus-52417.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/eptesicus-serotinus_photo-79188.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "7ee1070d515c4669436fd3ca38c55002a6970568d5ff89808a615ebb67874b3a41ba5084ef1ca6c055b677a0d34b5721d9b163e4c188a1c6ecdf2f916c78f718",
-                    "url": "http://www.biopix.com/photos/JCS-Eptesicus-serotinus-52416.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/eptesicus-serotinus_photo-79187.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
         },
@@ -3234,34 +3108,6 @@
                     "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/dorsal5588/medium.jpg",
                     "rights_holder": "Phil Myers",
                     "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/dorsal5588/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "e0eea1eef4d949c2ddc583153f0a4957767952826892a5d704bec2386017a4f8c02de99c8e3c39f39105396452581560eaed1d7083dd0880252daf34afb39c20",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/lateral5591/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/lateral5591/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "c6a2a729514373843c48bde148e59d128ac47332ed05cb4e422e82af52df96e932ed75b8434bf35a6a8c9855c2e50b4e611c1878a2be135a27f7c83440837b5a",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/lower_dorsal5593/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/lower_dorsal5593/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "95fc96908ce4cea00426074f330a8645aff578dae90561fda0f48d990b44a949a1975c4bb97e0a329efb52fa251b82fbe6e7784023093f7fd5f3a4e0b7e46dc7",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/lower_lateral5597/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/lower_lateral5597/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "a013b1793334b9b4f31e6c28398e76c360902c481fbca2058c4ea98e710b600d6221b74c613aa583555c61499a61aeb0bdee349a83e330d5a53d004e1dd662ab",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/ltr5593/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_bechsteinii/ltr5593/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
@@ -3382,46 +3228,11 @@
             ],
             "representations": [
                 {
-                    "hash": "0472d5dc0dd0214a21ccef448cfda6fe6c5d626153c7afac82930bbedeae23a947bc091c0ff78e6b0e8a87f3684bc0063fdc9430009a4793bb98b62570c95948",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/dorsal5634/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/dorsal5634/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "592f7b802f76ef639e4c37564aaade3a33af136fd8fadb75cfbc64368f209b617addaa921f7f388f6600f674493ebfe4157dccf0ac9113d226747eb3f1bcb1c0",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/lateral5635/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/lateral5635/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "0c2f18e33fd95f0e0a281806ea4812130ad071c9e6559c6db091bd2668dc74301dc7edc7da8626fb785a16f2f573927246ab01346a30fc44177454195f35fe9a",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/lower_dorsal5638/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/lower_dorsal5638/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "17bcd83d0fe9011ff710bf7443fd69f6b3f486f6b1534bb20b988495b32bcd7c1eab8e83e57b0bb5131a9527aa07d0ec2d3cf665ec2f07c0f75195e90a8b2fcf",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/lower_lateral5639/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/lower_lateral5639/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "fb20a83929a8252a2305a1720f2ae3dbd61665d8c441ca9babc6401bd7aa8ccbfcdb7bcaba333c05408617e2160e9db1cac6d8ff08d570d123cd31901d98b531",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/ltr5638/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/ltr5638/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "aaf75d5c6e358043792ddb4ef1fe1c1b1329b39911fc7bc25cd7475d2687e8d9cf3568a02afc1fe487626d5f045793dca9b2b6b2da178027f24d7c9d54330ea3",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/utr5637/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_emarginatus/utr5637/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+                    "hash": "de4204d0aefeb529a290b36784849fc01e75e4214ff48ec00729e69ecd1329620063aaf3df7351f6ccbc5d8f3e08d3bc89f318a6eb99697eb9bd482d6d0ec1ac",
+                    "url": "http://160.111.248.28/content/2015/01/02/08/29544_orig.jpg",
+                    "rights_holder": "C. Robiller / www.naturlichter.de",
+                    "source": "https://commons.wikimedia.org/",
+                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 }
             ]
         },
@@ -3435,24 +3246,17 @@
             ],
             "representations": [
                 {
-                    "hash": "53c13423e250dabcf6aae7f995bd302da7c784997751072e5b623d03cf09b2a563651f9a7717931cbe4eba8c1f9288779af7d1325030b15ad0766cec575cbf44",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_myotis/dorsal5729/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_myotis/dorsal5729/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+                    "hash": "014be061bc8f43e45c47b7046638660222964c4459f202b14571020a697ddf9d63329e0b0bc87206a9547e9c6d103f1da4e91a380d7d31e38290c8194df22a84",
+                    "url": "http://160.111.248.28/content/2013/09/06/03/92653_orig.jpg",
+                    "rights_holder": "Stepanka Nemcova",
+                    "source": "http://www.biolib.cz",
+                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "5fd47125bd142fa391cd1992f1b17d1b5aecb707a01e9c1a7a2476bf96a308240de927bb24eb50bc536fd186d2fdea911d354e8bd691cd24513bdfb30453ec7b",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_myotis/lateral5730/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_myotis/lateral5730/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "036a2944ffb3bf23d4bafcee71114d7887ba97cc5de1ca5c95765744984de8b3c4bab5dfbfdf63d51c796fc33c7b5087aed1ea7469b511af685d861068c0a862",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_myotis/lower_dorsal5734/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_myotis/lower_dorsal5734/",
+                    "hash": "4a5ac470c4568bbea73b30a1d7234d1b72bcb9200d2ef617671bd5c8632b1c10224d4087bb8f9fa5b0a3280906b3f512fa22440a30d541db9863e03629297f9f",
+                    "url": "http://160.111.248.28/content/2014/07/08/08/52870_orig.jpg",
+                    "rights_holder": "Muséum national d'Histoire naturelle. Service du Patrimoine naturel",
+                    "source": "http://inpn.mnhn.fr/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
@@ -3472,41 +3276,6 @@
                     "rights_holder": "doevos via www.flickr.com",
                     "source": "http://www.ecomare.nl/index.php?id=4144&L=2",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "882d89fe8500df531770a327772dcaaa91864a7e2efc6f65675be0c1a426b0c9e78d23d1051d8a814d9cbcdd960cdfc76f4756a6d87607488df2da68057d1ebb",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/dorsal5737/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/dorsal5737/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "8d6ce3728cf96e0b093be164a41e2c17eabba4985080ed425023b7b578aa09744e1ec95eaa7510299811db635986c4a5fc26ed9f4537d779a8aa7c85d63bb2d1",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/lateral5739/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/lateral5739/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "3dfe9301626326ccb6c2ea07f86f37f2b6c65f08e180ab87bedd0628e08b3561aa6f4c2c726d17ab03ed0a92ca691d2d0bafbdf2dcf0488bbffbd6fcfa153de5",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/lower_dorsal5744/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/lower_dorsal5744/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "0e4b84cad5e8c81429173e672ee777930419b75e97d77b980611fd0da798d3e59897e0a0224a6d8354f39c9c28bfe96c336f96e865b7a203e2dca0e6bf8465d0",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/lower_lateral5742/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/lower_lateral5742/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "f85f3299b22374970ebe56c40434dc76eee4ee8e1100b363a40f65fa57a757aab19680e79152e04e312a7647b876fa686b281a4e66042f2fcd5d2ca1ce225cac",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/ltr5744/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae/Myotis_mystacinus/ltr5744/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -3603,41 +3372,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Nyctalus_leisleri.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "43761c29bec8f11d3dfab3d5aa92ed89413a0f8685ec84189b95f022d5e0d5960aa8b6cb28410a8c5db174ce6e8186abbd854bf8ce8e3687fadf60badf69907c",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/anatomical_images/utr/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/anatomical_images/utr/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "084369e1f8d5b4c75f6e4eb39a132c1c63158f46bb29632442c30801c85cef361398e6a0ccd16b8a6de9b5ed72593481fd12005bae42723f999f085645de343d",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Nyctalus_leisleri/dorsal5839/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Nyctalus_leisleri/dorsal5839/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "f277474d610eb10f5607a49260aa6a2d794484d9e2e10478eea1cc79d640c7cab3ab2d6f822cb7084fc50f6d509d1f8a35ef1e76273eb5c3131ff75f8b0f35b2",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Nyctalus_leisleri/lateral5840/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Nyctalus_leisleri/lateral5840/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "8ea08e129db4f6424fc2eac847a871699036a5f5b1d352696b9de255e3135d05fbf0a9ee734dcbbc20c36b313787c5aeaaa006a762f4d57e65c2cea6b52ec419",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Nyctalus_leisleri/lower_dorsal5846/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Nyctalus_leisleri/lower_dorsal5846/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "5d01696875990e80d2e0d5654cf36221498969a00b590d515792d39c2b6f764122f57bbb97db91f64d8734066cbb08bde9be50497748a265f4be6ba1519eb315",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Nyctalus_leisleri/lower_lateral5845/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Nyctalus_leisleri/lower_lateral5845/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -3769,34 +3503,6 @@
                     "rights_holder": "Jasja Dekker, via www.flickr.com",
                     "source": "http://www.ecomare.nl/index.php?id=4139&L=2",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "81c2c7372b7bc683ce2924703f2c62bac502edaa2adf26ad4b9933b435844ac04a60d1c072a5396493ce723de3f21af21d228655a5b16ec6d1284e41d8f8de47",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_pipistrellus/dorsal5919/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_pipistrellus/dorsal5919/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "df83d60c47cf6eff3a356b522eab501eac1d91a88374506cd25edbaf918a7e2ce958f589f7ebd05be2d166be9e938967283c02a9d06f77088c488d6a58991a38",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_pipistrellus/lateral5920/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_pipistrellus/lateral5920/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "754faaf147128a23514b7fd3c89fbfa8c33df2d2f77ca92eed01cdaf319d841a38f508953e55ffd025a118406d121c7e1be2fa8b6d32c3a55d4a82ef0315986f",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_pipistrellus/lower_dorsal5922/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_pipistrellus/lower_dorsal5922/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "7b97cf1775a460f0c58e7588c4f18ec957ab30d05b55699826d7e6450de4b5b9d77508130a987f6aa38cd05441b8c2ae6fe8040de213d1135d3b3a4d8ddb0919",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_pipistrellus/lower_lateral5923/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_pipistrellus/lower_lateral5923/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -3889,13 +3595,6 @@
                     "rights_holder": "jasja-dekker via www.flickr.com",
                     "source": "http://www.ecomare.nl/index.php?id=4145&L=2",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "8bfb3bc4fa73250b69b35365216e63d6ce181b4073926987ef6c13747bdef1bfc93bf3eea256dd14a5d90519a9527d0c9851971b10785cf7cb3d7289a7dcec41",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Plecotus_auritus/dorsal5957/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Plecotus_auritus/dorsal5957/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -3952,20 +3651,6 @@
                     "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Mammalia/CHIROPTERA/Vespertilionidae/Vespertilio/murinus/0EBFB7C9-A4CF-430B-81AF-D25E68F2A029.jpg",
                     "rights_holder": "Milos Andera/www.naturefoto.com",
                     "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "faa0e5f30648581a1c1bd5299cfa69d2da45e85dc48d7975bfcf4caa9351bf574276ae2e1fb7a7740eb8ea9a4ef5c6a5d02c04e6d2444ae2191a6520f420779d",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Vespertilio_murinus/dorsal5998/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Vespertilio_murinus/dorsal5998/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "3537e8881a9b3a92a94ea4de9013f1b9ba55366f0eb9e4cf038be8740bf6cfe03ce654ec8cda9d1c315d361b858330b83aa3958bbdf6f2c38dcceabe28ea21ea",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Vespertilio_murinus/lateral5999/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Vespertilio_murinus/lateral5999/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
@@ -4076,13 +3761,6 @@
                     "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/anatomical_images/bat_noseleaves/rhinolophus/medium.jpg",
                     "rights_holder": "Phil Myers",
                     "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/anatomical_images/bat_noseleaves/rhinolophus/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "d7b695af8f6e59c0f7efed354bb5168812aa4bf73be37269c3129755167650baec1634e59fa508c75bcb2f03762764ebc4795dcc1aaf4f4609f6bd452c9d8f85",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Rhinolophidae/Rhinolophus_ferrumequinum/dorsal5324/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Rhinolophidae/Rhinolophus_ferrumequinum/dorsal5324/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
@@ -5187,13 +4865,6 @@
                     "url": "http://farm4.staticflickr.com/3509/3217984350_a2b81996bd_o.jpg",
                     "rights_holder": "Lip Kee Yap",
                     "source": "http://www.flickr.com/photos/lipkee/3217984350/",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.0/"
-                },
-                {
-                    "hash": "6b4689adaf6585000ed9def9a5e5659cfb8e4f4ec4a0bcf2b1fa516181e296cc24995228c7e279ac1d2ffe8cc1b40547a01ba01b20747d9139c7922e2a0a9165",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/2/21/Radde%27s_Warbler_%28Phylloscopus_schwarzi%29.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Radde's_Warbler_(Phylloscopus_schwarzi).jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/2.0/"
                 },
                 {
@@ -6959,13 +6630,6 @@
                     "license": "http://creativecommons.org/licenses/by/3.0/"
                 },
                 {
-                    "hash": "0cd2a2327399a43d8523d53a9cb594c1d04365726e3c17ce8be50deff21388ca5d16d2b256209696882fb98d3d6be29848ca5962762c5beba3cdbb407325c21a",
-                    "url": "http://farm9.staticflickr.com/8463/8105854939_0aba8f1ab7_o.jpg",
-                    "rights_holder": "Don Loarie",
-                    "source": "http://www.inaturalist.org/photos/190981",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "052d3d2d8de9b2977e73fa2fc309f0652951ff7a0c99951411d9188a093fa9e430b406fd9cf271e1e917a5c5a6baa246f8037e6f87ada59d16cf32bd587848d5",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/0/04/Dartmoorrook.JPG",
                     "rights_holder": null,
@@ -7387,13 +7051,6 @@
             ],
             "representations": [
                 {
-                    "hash": "9d73233a293e2ac28bcf465adeb176318508460aac9fb3c18e4b182c574ddbe9671cc10cf22725feaf6e7e6f1737e521496d2e935e0112688e27aa20ad4ed57f",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/2/25/Gaense_01_%28MK%29.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Gaense_01_(MK).JPG",
-                    "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
                     "hash": "ad8c7bdd140a5a5a2146b595251ecb7bfec5db04dff681588972c18f61e075690bb094024e864af5266882e801d5a9a65d4f7ab48b0ba4b4422e878cd2c646ef",
                     "url": "http://farm4.staticflickr.com/3378/3528386363_0613b3b0b1_o.jpg",
                     "rights_holder": "Alastair Rae",
@@ -7439,13 +7096,6 @@
                 "cz_animals"
             ],
             "representations": [
-                {
-                    "hash": "9d73233a293e2ac28bcf465adeb176318508460aac9fb3c18e4b182c574ddbe9671cc10cf22725feaf6e7e6f1737e521496d2e935e0112688e27aa20ad4ed57f",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/2/25/Gaense_01_%28MK%29.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Gaense_01_(MK).JPG",
-                    "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
                 {
                     "hash": "6b71e18f39fc9641d18c904a34836b739e286b3513686342e8e8d5d952fbfa62fda989300d0522cfb8aeba13ccb356956c89cd31b4da0a18c15c870a8c533797",
                     "url": "http://farm6.staticflickr.com/5100/5455687168_61881a034d_o.jpg",
@@ -8094,13 +7744,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "43ef2ab20bf9a447cc5b2988b9c621d6d3f59caf456fceaa405b24cf80f02141b648207b3444777a3d2fafd844a73a402cacd37f89a3d214357478a5e8ae4373",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Gruiformes/Rallidae/Porzana/porzana/E29B2D85-25E0-4429-8A93-C884C5F00B63.jpg",
-                    "rights_holder": "科学出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "efc56e1e16e597042db9d3989a80f17a1a55bf12e15abd4be20892dcf0466d5d9b5d9ff5a523e4135749dac73c7e7b4160e5b1c4029e255aeea936f23d029813",
                     "url": "http://farm9.staticflickr.com/8054/8103258618_c3d3001eb4_o.jpg",
                     "rights_holder": "Biodiversity Heritage Library",
@@ -8176,13 +7819,6 @@
                     "url": "http://pngbirds.myspecies.info/sites/pngbirds.myspecies.info/files/PorzPusi_0.jpg",
                     "rights_holder": "Katerina Tvardikova",
                     "source": "http://pngbirds.myspecies.info/file/4902",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "f985afc553450ce915e0e81315eedd8f67c26767978ab325c15eaaa77f20c266cf1178fc5096dd66a7cd9c0198cbf17e859569e999be8c06e3821f2100db38e6",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Gruiformes/Rallidae/Porzana/pusilla/5A507058-4D2E-4D59-ABC8-E31BA681E864.jpg",
-                    "rights_holder": "科学出版社",
-                    "source": null,
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
@@ -8407,13 +8043,6 @@
                     "rights_holder": "上海科学技术出版社",
                     "source": null,
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "ee379a98e6a85c9fb8f9efa83f8061cb565a57a0eb0603c2a82d388309340a49d1be94f2a2ab8670b1a913f428d0bd6bbaed7d85f282f4b51ee6a635c7aafeea",
-                    "url": "https://farm8.staticflickr.com/7260/13472765773_f4ae019068_o.jpg",
-                    "rights_holder": "Biodiversity Heritage Library",
-                    "source": "https://www.flickr.com/photos/biodivlibrary/13472765773/",
-                    "license": "http://creativecommons.org/licenses/by/2.0/"
                 },
                 {
                     "hash": "f0d263c109b0b6a000a79966f33378be95174915709786017bc5d797e13b51174e905424f9b69063db87dbc8d81ad68400954dd3140a9ce2b9ab05a7fa7a5862",
@@ -9120,13 +8749,6 @@
             ],
             "representations": [
                 {
-                    "hash": "1f7ca8ebfd956d2f1585ac31132212a9f678e0ab6d0f3ef7e6c4ba4b499924ee683359c15701ebcff0082d4ad8dcdeb725a0b1ee30e4a06515666480d9efda37",
-                    "url": "https://farm4.staticflickr.com/3120/3127123681_bd3d4045dc_o.jpg",
-                    "rights_holder": "Valter Jacinto",
-                    "source": "https://www.flickr.com/photos/valter/3127123681/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
                     "hash": "abe9b0d732995c766f68e6119d4e4f3e64aabd1229cd77a720d756e7a4384eca9a0b884da0df036adc64df0d8b3743144ea4934f0b73299032595ce4d4c0d9b1",
                     "url": "http://www.biopix.com/photos/JCS-Delichon-urbica-52692.JPG",
                     "rights_holder": null,
@@ -9677,13 +9299,6 @@
                     "rights_holder": "Don Loarie",
                     "source": "http://www.inaturalist.org/photos/190969",
                     "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
-                    "hash": "f159e25d73ec63c84dfd882c1d4e3db5415894b5d83b0d4fd733dcd7aefe47b779881db9c3cb160db23f861b7227290fa608ea570db629a3d076fa3a72fd910d",
-                    "url": "http://farm9.staticflickr.com/8189/8105678456_868c985b27_o.jpg",
-                    "rights_holder": "Don Loarie",
-                    "source": "http://www.inaturalist.org/photos/190967",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -9755,13 +9370,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Vanellus_gregarius_pair.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/2.0/"
-                },
-                {
-                    "hash": "e56183b17175691cf66536a9c21464c6ffb9a2879dab5ee4b904dcd7f7eb8016e85b278c13511f22365e328148072a9d027d032a62a47b7fa99c05deddf9ba69",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Charadriiformes/Charadriidae/Vanellus/gregarius/A14B2512-877F-4296-85CD-D93023292C9D.jpg",
-                    "rights_holder": "科学出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
                     "hash": "e56183b17175691cf66536a9c21464c6ffb9a2879dab5ee4b904dcd7f7eb8016e85b278c13511f22365e328148072a9d027d032a62a47b7fa99c05deddf9ba69",
@@ -10093,13 +9701,6 @@
                     "license": "http://creativecommons.org/licenses/by-sa/2.5/"
                 },
                 {
-                    "hash": "1f7ca8ebfd956d2f1585ac31132212a9f678e0ab6d0f3ef7e6c4ba4b499924ee683359c15701ebcff0082d4ad8dcdeb725a0b1ee30e4a06515666480d9efda37",
-                    "url": "https://farm1.staticflickr.com/149/431209692_7509873a19_o.jpg",
-                    "rights_holder": "Valter Jacinto",
-                    "source": "https://www.flickr.com/photos/valter/431209692/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
                     "hash": "8587cc2f61c1b5ce6391f22513151e695b89057a0e9a242a75adc3bf9fe758d5600737bbc4456756c52db9e926a88d025fdc92cfc7ff52af445fefe5840605e4",
                     "url": "https://farm2.staticflickr.com/1079/1432040774_291682986e_o.jpg",
                     "rights_holder": "Valter Jacinto",
@@ -10301,13 +9902,6 @@
                 "cz_animals"
             ],
             "representations": [
-                {
-                    "hash": "dc83ed0d571f8c0142b42ed755c2eeef9f88479905723e732c018d7f9dc0b730ad18ddc4d50f7988ccf2e50be5e7d50b8e75c3bb401ca56714d68c9f7f51a5e3",
-                    "url": "http://i1.treknature.com/photos/1990/cormor.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.treknature.com/viewphotos.php?l=3&p=299855",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
                 {
                     "hash": "166fc54645808ac51b105efc7eedee48924f26736abaeca035dfe87a6a4c2009157845cbd218b590e04f094b3e140cfa06e03d9c2dfc77cee7382e82f4a88f5c",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Pygmy_cormorant_and_gulls_1.jpg",
@@ -11445,13 +11039,6 @@
                     "rights_holder": "Kari Pihlaviita",
                     "source": "http://www.flickr.com/photos/42267636@N08/9295359538/",
                     "license": "http://creativecommons.org/licenses/by-nc/2.0/"
-                },
-                {
-                    "hash": "e5a45af44c495839338f0566bda478d9867b5204cbf741884580c203b2bcd9ab08f8c52e6e9537bdf70f458413fc3e3192eb22910f16f42567e2f91e067c865b",
-                    "url": "http://farm4.staticflickr.com/3824/9386905584_3afa78ce3f_o.jpg",
-                    "rights_holder": "Brian Gratwicke",
-                    "source": "http://www.flickr.com/photos/briangratwicke/9386905584/",
-                    "license": "http://creativecommons.org/licenses/by/2.0/"
                 }
             ]
         },
@@ -11622,13 +11209,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Schwan1_db.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "1f7ca8ebfd956d2f1585ac31132212a9f678e0ab6d0f3ef7e6c4ba4b499924ee683359c15701ebcff0082d4ad8dcdeb725a0b1ee30e4a06515666480d9efda37",
-                    "url": "http://farm1.staticflickr.com/47/194101985_c3fad254e9_o.jpg",
-                    "rights_holder": "Bruce McAdam",
-                    "source": "http://www.flickr.com/photos/bruce_mcadam/194101985/",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.0/"
                 },
                 {
                     "hash": "56cbf31d733383fce51f898392569ee8489c3fc76ff220dcdb4c6e5d97640f781d0f31d90f6255c8061745d0e17fdb996e1795f94475b81cf14a526073d99767",
@@ -12582,13 +12162,6 @@
                     "url": "https://farm8.staticflickr.com/7008/6500534263_feee9ba7aa_o.jpg",
                     "rights_holder": "Sciadopitys",
                     "source": "https://www.flickr.com/photos/40183553@N02/6500534263/",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.0/"
-                },
-                {
-                    "hash": "4d55611613bf70fbb22908296eb1580242e606331339b34ff834acf0da7e2ddb3aefe49286c35b86ddf2866db8ae22d2bcd44e6336354f245ff1ffeeb2f778f4",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/9/96/Phalaropus_fulicarius_and_Tringa_melanoleuca.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Phalaropus_fulicarius_and_Tringa_melanoleuca.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/2.0/"
                 }
             ]
@@ -14731,20 +14304,6 @@
                     "rights_holder": "Don Loarie",
                     "source": "http://www.inaturalist.org/photos/191196",
                     "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
-                    "hash": "c92528a9e1e1334ad535b30a7c63b436769073d7ff50421ca69159681e9eca8e0e3df372020005b8a1c322dc197c47bf4e7f5f2121f7ea62f019a74b5a5ef572",
-                    "url": "http://farm9.staticflickr.com/8189/8107287530_70cb3a968c_o.jpg",
-                    "rights_holder": "Don Loarie",
-                    "source": "http://www.inaturalist.org/photos/191195",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "f91262cad5efb75ca545d4492bd476cc7b4b508a5b6a72172ba365ac94a616804511c18bd84f247e5a621b56faa3d5be1136af54c286cc785a3a8c35ad672947",
-                    "url": "http://farm9.staticflickr.com/8189/8107277205_2231d7744c_o.jpg",
-                    "rights_holder": "Don Loarie",
-                    "source": "http://www.inaturalist.org/photos/191196",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -16059,13 +15618,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "837b868602b5675e86dbf490f15c275695c37de6351f327e9ae5ae35c0d6daacca77c638716f97361b46f3a4eca070248c3bd63abcbc8e816adbab8ac51849d9",
-                    "url": "http://farm9.staticflickr.com/8283/7737340288_a1b19cce83_o.jpg",
-                    "rights_holder": "Don Loarie",
-                    "source": "http://www.inaturalist.org/photos/157440",
-                    "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
                     "hash": "727af0e1536797c8b97a928bc2f5820c4d90515cda48845df6af49cc45e868c63f3175afee8ceb1a4b0ce89e6f56590d3c0dc681878fc884dc5269ee82a041bf",
                     "url": "http://farm9.staticflickr.com/8287/7737339414_d8ea5b175c_o.jpg",
                     "rights_holder": "Don Loarie",
@@ -16478,13 +16030,6 @@
                     "rights_holder": "Billy Lindblom",
                     "source": "http://www.flickr.com/photos/billyboysfotocolection/4732008131/",
                     "license": "http://creativecommons.org/licenses/by/2.0/"
-                },
-                {
-                    "hash": "cac4cfec3954e280e1d281043000c9b77f548633b2ba963239fe5a766eedf99d364bc6b7c9cfeb9b877c4af4a02efb0faa520ea32eab2f32144a727bad88ac53",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/5/54/Acrocephalus_schoenobaenus_1_%28Marek_Szczepanek%29-2.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Acrocephalus_schoenobaenus_1_(Marek_Szczepanek)-2.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 },
                 {
                     "hash": "ff10dd4dbdb5f36c58940d1f0266a4eaab1e747d5851010e8f7522723bcc01ded13daf3e91f674887aebc3254d3b881186c877bee22c087672a46e95bd80769d",
@@ -17090,13 +16635,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Sterna_paradisaea_09May2008.JPG",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "1f7ca8ebfd956d2f1585ac31132212a9f678e0ab6d0f3ef7e6c4ba4b499924ee683359c15701ebcff0082d4ad8dcdeb725a0b1ee30e4a06515666480d9efda37",
-                    "url": "http://farm4.staticflickr.com/3277/2674535099_de588ff95f_o.jpg",
-                    "rights_holder": "Bruce McAdam",
-                    "source": "http://www.flickr.com/photos/bruce_mcadam/2674535099/",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.0/"
                 },
                 {
                     "hash": "806f17c33af9edc4b5c45fa1f175745e81f1efd29a17a36347b770507e509d3bf1957b3bf3e29a6df009d1e5304eb44b66c60b833a7a7c59deb30f392b308a75",
@@ -17905,23 +17443,9 @@
                     "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 },
                 {
-                    "hash": "4f50bb4fb3d09067ac1f5b4956effb8afc02a5d78bfb84cef3e8a55f8bce17f62179e16596e05a939ebdb49812d7b33e0e494bdb98fc8921b9903b96f1cd78b1",
-                    "url": "http://farm4.staticflickr.com/3467/3397099336_a78d787f6d_o.jpg",
-                    "rights_holder": "كالب سليمونز",
-                    "source": "http://www.flickr.com/photos/kenai/3397099336/",
-                    "license": "http://creativecommons.org/licenses/by-nc/2.0/"
-                },
-                {
                     "hash": "fa89fe4c912ba24d3be3b415d6823df94f03676ee680f948deeb7ce52d70fd89454065bb4aa1d48c315a11af9ee5b9e1f3658bbae6d16053fd55d6f4db5fefb4",
                     "url": "http://farm4.staticflickr.com/3648/3397099340_beb1577ced_o.jpg",
                     "rights_holder": "Caleb Slemmons",
-                    "source": "http://www.flickr.com/photos/kenai/3397099340/",
-                    "license": "http://creativecommons.org/licenses/by-nc/2.0/"
-                },
-                {
-                    "hash": "fa89fe4c912ba24d3be3b415d6823df94f03676ee680f948deeb7ce52d70fd89454065bb4aa1d48c315a11af9ee5b9e1f3658bbae6d16053fd55d6f4db5fefb4",
-                    "url": "http://farm4.staticflickr.com/3648/3397099340_beb1577ced_o.jpg",
-                    "rights_holder": "كالب سليمونز",
                     "source": "http://www.flickr.com/photos/kenai/3397099340/",
                     "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 }
@@ -18520,13 +18044,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 },
                 {
-                    "hash": "dc83ed0d571f8c0142b42ed755c2eeef9f88479905723e732c018d7f9dc0b730ad18ddc4d50f7988ccf2e50be5e7d50b8e75c3bb401ca56714d68c9f7f51a5e3",
-                    "url": "http://i1.treknature.com/photos/1990/dsc_2980.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.treknature.com/viewphotos.php?l=3&p=294684",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "b4b5baa5f30ef3ffc6378dbce8f7c0a4242e4e708a70d7d6da06ab0ee7bcad2e32b9d01940bf3709bb88e3c52126bbdd495d7be53f1285662ea2f9ca379a39f2",
                     "url": "http://static.inaturalist.org/photos/1551355/original.JPG?1423823349",
                     "rights_holder": "Stefano Doglio",
@@ -18827,13 +18344,6 @@
                 "cz_animals"
             ],
             "representations": [
-                {
-                    "hash": "1f7ca8ebfd956d2f1585ac31132212a9f678e0ab6d0f3ef7e6c4ba4b499924ee683359c15701ebcff0082d4ad8dcdeb725a0b1ee30e4a06515666480d9efda37",
-                    "url": "https://farm1.staticflickr.com/205/469775411_b723796320_o.jpg",
-                    "rights_holder": "Valter Jacinto",
-                    "source": "https://www.flickr.com/photos/valter/469775411/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
                 {
                     "hash": "8caf6fb6f4a73cb05b7245f1c52534320d23a732a22d5410e5cbda5667dc7ea7e282340ffaf168e8355ae673e2279931cad6125654b6b9bd15499f49fe28a13a",
                     "url": "https://farm1.staticflickr.com/230/489851160_e8d0d7c77c_o.jpg",
@@ -19559,13 +19069,6 @@
                 "cz_animals"
             ],
             "representations": [
-                {
-                    "hash": "ae8b9e26aaab0e30d4ba0fd520bfdf4e15ec8beb6637c818599177724c0188abfde3266a5889b672cbeb63426d5f498fd5e4bf9ff9f2cb06b763eb3989f7077e",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Passeriformes/Paridae/Parus/cyanus/6631BEA6-B1EC-4EBF-B46B-E765CAC970AB.jpg",
-                    "rights_holder": "科学出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
                 {
                     "hash": "ae8b9e26aaab0e30d4ba0fd520bfdf4e15ec8beb6637c818599177724c0188abfde3266a5889b672cbeb63426d5f498fd5e4bf9ff9f2cb06b763eb3989f7077e",
                     "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Passeriformes/Paridae/Parus/cyanus/6631BEA6-B1EC-4EBF-B46B-E765CAC970AB.jpg",
@@ -20391,24 +19894,10 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 },
                 {
-                    "hash": "1f7ca8ebfd956d2f1585ac31132212a9f678e0ab6d0f3ef7e6c4ba4b499924ee683359c15701ebcff0082d4ad8dcdeb725a0b1ee30e4a06515666480d9efda37",
-                    "url": "https://farm1.staticflickr.com/191/467233110_13ede02970_o.jpg",
-                    "rights_holder": "Valter Jacinto",
-                    "source": "https://www.flickr.com/photos/valter/467233110/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
                     "hash": "fe3a7f04bbc60071ebe4a699cd0d7a1323a203502df4163345daa43372dd833865a887ee14df2b0af2d44e481a2ca3a06907639d289d5d5a08f9a70e746b7d2a",
                     "url": "https://farm1.staticflickr.com/169/445354118_0471f8fc7d_o.jpg",
                     "rights_holder": "Valter Jacinto",
                     "source": "https://www.flickr.com/photos/valter/445354118/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "1f7ca8ebfd956d2f1585ac31132212a9f678e0ab6d0f3ef7e6c4ba4b499924ee683359c15701ebcff0082d4ad8dcdeb725a0b1ee30e4a06515666480d9efda37",
-                    "url": "https://farm1.staticflickr.com/49/145239112_96b3eccf40_o.jpg",
-                    "rights_holder": "Valter Jacinto",
-                    "source": "https://www.flickr.com/photos/valter/145239112/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 }
             ]
@@ -21810,13 +21299,6 @@
                     "rights_holder": "科学出版社",
                     "source": null,
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "b8c44c8ff33da155fb1c12742010063e70f927ff6996fbf9dd396f58b63e24ab0b3fb89c0b0970413f5e35dee080f5213fc738fafd9e0d14da7404f112f525cf",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Strigiformes/Strigidae/Otus/scops/623F94F1-A66C-4BDC-9E82-8AA819C3380A.jpg",
-                    "rights_holder": "科学出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -23053,13 +22535,6 @@
                 "cz_animals"
             ],
             "representations": [
-                {
-                    "hash": "1f7ca8ebfd956d2f1585ac31132212a9f678e0ab6d0f3ef7e6c4ba4b499924ee683359c15701ebcff0082d4ad8dcdeb725a0b1ee30e4a06515666480d9efda37",
-                    "url": "https://farm4.staticflickr.com/3658/3602152254_8973af8216_o.jpg",
-                    "rights_holder": "Valter Jacinto",
-                    "source": "https://www.flickr.com/photos/valter/3602152254/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
                 {
                     "hash": "f0961d645dc88aa2f465908e0c2cd2cf3b7e5319fa3b15a6e82e99b1a14d410a9ecddb346bfbd9ee0a214e7d2305378cd20a0c47e3c096eddab95c3cb94293db",
                     "url": "http://farm6.staticflickr.com/5051/5405841412_6b84d61f2a_o.jpg",
@@ -24438,20 +23913,6 @@
                     "rights_holder": "وورمز لجمعية إدارة البيانات الإلكترونية للتنوع البيولوجي",
                     "source": "http://www.marinespecies.org/aphia.php?p=image&id=20308",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "677df89db19eefa81364b384546060fbd9e449aeebdabe91256b9afef63f6804587e072c2a5194f30bccd472430a77f2039a950e842308f61b7719d9c9aace56",
-                    "url": "http://www.fishbase.us/images/species/Huhus_u0.gif",
-                    "rights_holder": "Cada, L.A.",
-                    "source": "http://www.fishbase.org/summary/SpeciesSummary.php?id=2067",
-                    "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
-                    "hash": "21b464bdff7c1e64649f40a1870ba011b4fc4e4d7e47677a53b1837a0422065c4997cb8c9bbef7d49aa5c93f23f478b66396585294bfed595ce5b12e15475546",
-                    "url": "http://www.fishbase.us/images/species/Huhus_u2.gif",
-                    "rights_holder": "FAO",
-                    "source": "http://www.fishbase.org/summary/SpeciesSummary.php?id=2067",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
         },
@@ -25377,13 +24838,6 @@
                     "rights_holder": "Biodiversity Heritage Library",
                     "source": "http://www.flickr.com/photos/biodivlibrary/6266711391/",
                     "license": "http://creativecommons.org/licenses/by/2.0/"
-                },
-                {
-                    "hash": "2b568427942c2e56f235fc0a058a0aecfc69ea6f8261a8271f829da8a656e47d6905d662e4d810a9c78a9764e44023e6782a76be1ded08d25482e8297e3c2d72",
-                    "url": "http://www.morphbank.net/?id=461001&imgType=jpg",
-                    "rights_holder": "Ericka Grey and Paula Mabee",
-                    "source": "http://www.morphbank.net/?id=461001",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -26732,13 +26186,6 @@
                     "license": "http://creativecommons.org/licenses/publicdomain/"
                 },
                 {
-                    "hash": "33b99797a1bdee6a482597f0c14cfe244141076e513ef6e799d0dc6a0255f70acb9a28ab06fea4ab6d8e923391c81ac974f48e4727b2215e5d9400d5508f9a37",
-                    "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=47987&DMWIDTH=10000&DMHEIGHT=10000",
-                    "rights_holder": null,
-                    "source": "https://content-dev.lib.washington.edu/u?/fishimages,47987",
-                    "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
                     "hash": "12db0e5db5d4232536fad1c40a176c5c867128c99fea9987236bb9b8cab73b57e5acd9dde3a782d74ad665193460bc5f98a314dda5566262d2a2ffd5a66daaae",
                     "url": "http://content.lib.washington.edu/cgi-bin/getimage.exe?CISOROOT=/fishimages&CISOPTR=47988&DMWIDTH=10000&DMHEIGHT=10000",
                     "rights_holder": null,
@@ -27045,27 +26492,6 @@
                     "rights_holder": "jimbo",
                     "source": "http://www.inaturalist.org/photos/976598",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "c1e62680a5f604ce4078739563f23780fb6a4361e2a627eba3020c2abd72575480848ae2e69a7000765c0857c6b95a524b7edb8d593c2df991f1ed59c27d693f",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Mammalia/CHIROPTERA/Vespertilionidae/Pipistrellus/kuhlii/62CD0500-2EE6-4C79-BDA9-FFFDEEBD2442.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "e021ba2c9aea1bc2021514402f5fcd7c17735838b9d962040e295cf57a1ec337c0a8b01f8829dd15acf9359c5e304351cd73ebf4148a9227035917e1fe9e38cf",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_kuhlii/dorsal5907/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_kuhlii/dorsal5907/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "b15dc17044b7e64bbd554e2cdad71fbb391a217084542c625d06e64e445d15f568a105141c236b558b4cb2a8bb7d66362fd1afe7a8772cdaba9c9deb234c1ad1",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_kuhlii/lateral5908/medium.jpg",
-                    "rights_holder": "Phil Myers",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/phil_myers/ADW_mammals/specimens/Chiroptera/Vespertilionidae2/Pipistrellus_kuhlii/lateral5908/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
