@@ -824,13 +824,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 },
                 {
-                    "hash": "b28871af172d2daf5f4382051f98f1fc03ab8b499edeb69fec6bd5f03a68569ead7a401bf0f5cc3165fc28de3514255e00f3731ced9f5f11bbe5ac970171ff38",
-                    "url": "http://lh5.ggpht.com/-F8mmOqehRmM/Th5WlNrmZAI/AAAAAAAABp8/L-jX7JNCI50/P1070556.jpg",
-                    "rights_holder": "Matt Muir",
-                    "source": "http://www.inaturalist.org/photos/44888",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "a5b0211e90ecc422bd1f8a361fa02819e57aa9484b025842480ae187ae3552e52233372f92174f075b13a3c9e0f4230540c68edd5ef9ed8a39af6c887be09ef9",
                     "url": "http://static.inaturalist.org/photos/771382/original.jpg?1396876444",
                     "rights_holder": "Hana Raza",
@@ -4671,13 +4664,6 @@
                     "rights_holder": null,
                     "source": "http://www.biopix.com/sand-martin-riparia-riparia_photo-105759.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "b4d90c2a65edb1a4d6253d29319287b61b855c73cf5df9d182ffeef0dbcc4903d429adcbba498e10ca3eccb6f8bf57b9387044cd8b740b8b460df61adf9adbc4",
-                    "url": "http://farm4.staticflickr.com/3426/3889313525_f2b9352c31_o.jpg",
-                    "rights_holder": "Arthur Chapman",
-                    "source": "http://www.flickr.com/photos/arthur_chapman/3889313525/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 }
             ]
         },
@@ -5484,46 +5470,32 @@
             ],
             "representations": [
                 {
-                    "hash": "cbd3592679509a03bf326340207f57ea5032b42211c5b4ef4fbbe3048d46994215cda5d4eb5e16596ad62c21100894a991d6a126a45be232cd9639c62c415712",
-                    "url": "http://mczbase.mcz.harvard.edu/specimen_images/ornithology/large/MCZ229805_Acanthis_hornemanni_exilipes_v.jpg",
-                    "rights_holder": "President and Fellows of Harvard College",
-                    "source": "http://mczbase.mcz.harvard.edu/guid/MCZ:Orn:229805",
+                    "hash": "b1da43b684505aba69433402b0086c3c48efca3eeee6406e58693628aa2590aa1471a194023d79d60517069ccf35295e08727af99bb5a4848b5835cf40ad6a7a",
+                    "url": "http://assets.eol.org/content/2013/04/11/05/42157_orig.jpg",
+                    "rights_holder": "Otter Creek Audubon Society",
+                    "source": "http://ottercreek.wordpress.com/2013/01/08/hoary-redpoll-in-weybridge/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "00d6d9bb08c6e0b29f8100f0e09c76db72e4d851e36a4f1d9e2c80c24ceefa278e8e476495c4b87fe6b886ddf50bda511a7ee73f541de347ab6bc97c95c754ef",
-                    "url": "http://mczbase.mcz.harvard.edu/specimen_images/ornithology/large/MCZ229805_Acanthis_hornemanni_exilipes_l_2.jpg",
-                    "rights_holder": "President and Fellows of Harvard College",
-                    "source": "http://mczbase.mcz.harvard.edu/guid/MCZ:Orn:229805",
+                    "hash": "0d4439484271e516d434ab207027cb8f723fc93ead126b353799564542c6fca05967259d3f1a6327d20dcd44d97c33cf9c9df1a29e40ca0c4fd4eb9b95f7fb45",
+                    "url": "http://assets.eol.org/content/2013/04/11/05/65640_orig.jpg",
+                    "rights_holder": "Otter Creek Audubon Society",
+                    "source": "http://ottercreek.wordpress.com/2013/01/08/hoary-redpoll-in-weybridge/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "9d5f540eacac91b90320a9aff7082c4073d7ded6dc7f56880df6ce55bf99daa6688d403fef705f3cc048dc13e04443c352741ab7f81bc0a47f0036461f2fd7a8",
-                    "url": "http://mczbase.mcz.harvard.edu/specimen_images/ornithology/large/MCZ229805_Acanthis_hornemanni_exilipes_l_1.jpg",
-                    "rights_holder": "President and Fellows of Harvard College",
-                    "source": "http://mczbase.mcz.harvard.edu/guid/MCZ:Orn:229805",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+                    "hash": "80d8986bceff1e1455bf27948ce7cc44c9eaac4e1503920cbbe1a6043bed255b33792d306e0e3325ce4c364e87fcc62c461d6241473534a6f8bdda71e5356780",
+                    "url": "http://assets.eol.org/content/2014/06/14/12/51241_orig.jpg",
+                    "rights_holder": "Greg Lasley",
+                    "source": "http://www.inaturalist.org/photos/239771",
+                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "cdc36a69dfeb22a288cbaa7299c9a43ab848a4a48d91d7f2208c05497b29d1f1b305c90b134f737d52a75221e16efdad19ea187ae0d21d2a03b067bd115f088b",
-                    "url": "http://mczbase.mcz.harvard.edu/specimen_images/ornithology/large/MCZ229805_Acanthis_hornemanni_exilipes_d.jpg",
-                    "rights_holder": "President and Fellows of Harvard College",
-                    "source": "http://mczbase.mcz.harvard.edu/guid/MCZ:Orn:229805",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "1a540bbb5cbe4961cde2b8d30a39d9a50bda205f6b668350896093b2af08c2acb96cd297057416c14791ab5c4ab701fcb14d64bd4d71486f1e489fd6b3d5361b",
-                    "url": "http://mczbase.mcz.harvard.edu/specimen_images/ornithology/large/MCZ271946_Acanthis_hornemanni_exilipes_d.jpg",
-                    "rights_holder": "President and Fellows of Harvard College",
-                    "source": "http://mczbase.mcz.harvard.edu/guid/MCZ:Orn:271946",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "753ceeb1bd2a791f6aaa9e75ae20dd7fc8237a2d469c3c4d907525cc02ca4891c42019fd6ef9d7be9bdbe9c0867da8b1f7e01476ae65178df333e406946f314b",
-                    "url": "http://mczbase.mcz.harvard.edu/specimen_images/ornithology/large/MCZ271946_Acanthis_hornemanni_exilipes_l_1.jpg",
-                    "rights_holder": "President and Fellows of Harvard College",
-                    "source": "http://mczbase.mcz.harvard.edu/guid/MCZ:Orn:271946",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+                    "hash": "c6f8571e4c954ecb207213824e765458eed3025cf4e318df8f192bec9f1185549811349463e64f376780ba50eec9a41b84f67bcce1c8cce7b3ffa123b2abf98d",
+                    "url": "http://assets.eol.org/content/2013/12/08/16/58019_orig.jpg",
+                    "rights_holder": "Cephas",
+                    "source": "http://commons.wikimedia.org/wiki/File:Carduelis_hornemanni_CT6.jpg",
+                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 }
             ]
         },
@@ -10721,13 +10693,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Pluvialis_squatarola_(summer_plumage).jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "624fb7f3e0c4135fa8ff7f9462a2234109046a99876a9c58bf0eec65df725fde59bb532ba947f0c2d4609ca4b95bf2d0eb7b7982b8f354c6bf918deeae4e0d63",
-                    "url": "http://www.biopix.com/photos/JOM-Pluvialis-squatarola-00002.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/grey-plover-pluvialis-squatarola_photo-107780.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
                     "hash": "49c4a5be7237973a4aa69ab857cbfe3a77d0a4b8643211dfe62c9817add691ad18237af0cb269572487ea21004cfafcdbe73fd3d8d7f71771c210ed1c87fdfdd",
@@ -17112,13 +17077,6 @@
                     "rights_holder": "anis",
                     "source": "http://www.inaturalist.org/photos/1520652",
                     "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
-                    "hash": "84f03c912be6effc83ffdf40c400586355e56e20afee50eda07d31dc40014309993b7395b66fc8a4f3249c849df8ced13f49ee2ff51862d61c38ca0daa9bf394",
-                    "url": "http://static.inaturalist.org/photos/1334802/original.jpg?1415554185",
-                    "rights_holder": "chamaeleo",
-                    "source": "http://www.inaturalist.org/photos/1334802",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
         },
@@ -17975,13 +17933,6 @@
                     "rights_holder": "Tatiana Bulyonkova",
                     "source": "http://www.flickr.com/photos/ressaure/4086174532/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "124dc09ec4fbbadcd7106b5f2c820258f6bbb23feb285dd422072a079e2d88e6b60c67e30b380bd403874edbea038627ca5e8b678ef6124a13844a5fe38b3698",
-                    "url": "http://animaldiversity.ummz.umich.edu/collections/contributors/tanya_dewey/whitebackedwoodpeckersign/medium.jpg",
-                    "rights_holder": "Tanya Dewey",
-                    "source": "http://animaldiversity.ummz.umich.edu/collections/contributors/tanya_dewey/whitebackedwoodpeckersign/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
                     "hash": "79a494262f62e06f19ed1a6f31fcb1e85caaa5c03a0efb1bd6ffe21f936fc3485236b9cce21d5f2e35b603a931034abfe2bf5b2a3a0a171e98167a88dc6f127d",
@@ -19169,13 +19120,6 @@
                     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
                 },
                 {
-                    "hash": "1bc5bca12a0f200854709a9c1b7b3080190f76e7c235ae70c323ad809804ca8807daf5d6654c63bc4039f3f6b01e0c276da5b633382c418a36259adc673a271b",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Passeriformes/Paridae/Parus/bokharensis/197CC730-50D8-42F6-A66B-FEB0CCF9A18D.jpg",
-                    "rights_holder": "科学出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "7fa96535157273a66cfdd541bb7939b33c4fe99d55b0407f9aabe04b44e3355478575041b018343018cb8176069ebee0a6f8dedde0b31cfe44873f61a1a4b26e",
                     "url": "http://static.inaturalist.org/photos/21731/original.jpg",
                     "rights_holder": "msr",
@@ -19449,13 +19393,6 @@
                     "url": "http://www.biopix.com/photos/JOM-Certhia-familiaris-00002.jpg",
                     "rights_holder": null,
                     "source": "http://www.biopix.com/eurasian-treecreeper-certhia-familiaris_photo-109324.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "df68e288d4fa8bb71b8f49e69300986e275646969cdafcb5438310a9e3b6f9898c2b48c78d25fd79c4185f2f689e81c0f310cc47ae3cff0167c04d1a05ad51a8",
-                    "url": "http://farm9.staticflickr.com/8531/8482098666_ca62955cde_o.jpg",
-                    "rights_holder": "Kirill Ignatyev",
-                    "source": "http://www.inaturalist.org/photos/254198",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
@@ -21831,20 +21768,6 @@
                 "cz_animals"
             ],
             "representations": [
-                {
-                    "hash": "6a044732bd98da707a63503dfd9fbba6160c48ec8a03383a626948a367fbd8a1b14bdf3129450adaef13b02c148694a82bce562482fcd3c6293a1f49857f2dac",
-                    "url": "http://www.biopix.com/photos/JOM-Marmaronetta-angustirostris-00002.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/marbled-duck-marmaronetta-angustirostris_photo-114082.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "76a6c02f321c60a042b3c88601f48c075e8860089d6d3a2b5ba03ee84a698070c44f8abef947b5e7b9f534c9a3d1887e93791f52cd4192f45caae18175691dc2",
-                    "url": "http://www.biopix.com/photos/JOM-Marmaronetta-angustirostris-00001.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/marbled-duck-marmaronetta-angustirostris_photo-114081.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
                 {
                     "hash": "c7b95b4a54ea6b9941c0b0edf9875919bb6adb0efab97ff701594d167a797d5c57c68e30f288b1b32122668a73a495f00dff401168dd9c10a295b8a9845ed303",
                     "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0213/2117.jpeg",
