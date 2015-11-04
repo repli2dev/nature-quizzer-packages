@@ -149,13 +149,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "6075b8921e602c087ed5f474ed4e3844641dd56d8e28ca39d1bc3d9d52e8e0b4ba32b8b917c245419cfb292fdb3ae5e1f2a3b852be864304eea957570b4c6b5a",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/f/fb/Mustela_putorius_%28Turkestan_polecat%29_fur_skins.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Mustela_putorius_(Turkestan_polecat)_fur_skins.jpg",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-                },
-                {
                     "hash": "a9533b27a85ae34860b0237d4fa55012ee3c567243ab96fbc82aaafa090dc7ab3743e1614c84422a3a2f5ec36491b7fe07ca04283737161bac15f12e11521f95",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/f/f1/Mustela_eversmannii_1.jpg",
                     "rights_holder": null,
@@ -822,13 +815,6 @@
                     "rights_holder": "David Bygott",
                     "source": "http://www.flickr.com/photos/davidbygott/4019916114/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "a5b0211e90ecc422bd1f8a361fa02819e57aa9484b025842480ae187ae3552e52233372f92174f075b13a3c9e0f4230540c68edd5ef9ed8a39af6c887be09ef9",
-                    "url": "http://static.inaturalist.org/photos/771382/original.jpg?1396876444",
-                    "rights_holder": "Hana Raza",
-                    "source": "http://www.inaturalist.org/photos/771382",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
         },
@@ -4420,20 +4406,6 @@
                     "rights_holder": "msr",
                     "source": "http://www.inaturalist.org/photos/27683",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "4c8ec2d2423415fbea94eb4d55c4740c771cefaf28bdf9b23c7838758cd7d546fe99f22aa503928bfefb17be5dd14f1608c5567f5fd32c740b43e502f41015c4",
-                    "url": "http://lh6.ggpht.com/-iH_tP2HBHT8/TcDCmoXzTAI/AAAAAAAADEM/-zA2W3rll0o/P1020011.jpg",
-                    "rights_holder": "Matt Muir",
-                    "source": "http://www.inaturalist.org/photos/64883",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "cc8f31f9c7c293d007551110d665590950ff89e574a7c92a519569adc63beb05d3d441a53b680f42c7b804f999b66209f09457c2f29e9900d673550c2b756334",
-                    "url": "http://static.inaturalist.org/photos/93838/original.jpg",
-                    "rights_holder": "cyric",
-                    "source": "http://www.inaturalist.org/photos/93838",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -20094,13 +20066,6 @@
                     "rights_holder": null,
                     "source": "http://www.biopix.com/european-honey-buzzard-pernis-apivorus_photo-101312.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "a8ed919bd65889ed52e0957c4b8e41333f50f57f17cc13722b10783ddc012406a02fe7eb93d52b841eb89984fc5665df9cb225d454459aafe942d0e399b28aea",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/8/85/HoneyBuzzardFlock.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:HoneyBuzzardFlock.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.5/"
                 }
             ]
         },
@@ -21523,13 +21488,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:PicVert_Femelle_et_Jeune-Remy_BPL.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-                },
-                {
-                    "hash": "7d2459352293b5c98a4d599941b10e5061d2f6ef48ad94e26c94115c6d51bc06ab3608af05d2d27fb2dc9f2b6d8e2b39aaeaaabd0fc23a308276d0ab755b5830",
-                    "url": "http://www.biopix.com/photos/INN-Picus-viridis-00069.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/green-woodpecker-picus-viridis_photo-64259.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
                     "hash": "b89a2241da5defe67e0ded1f0fd6a3ad2ffc088369bed548cbaea8c292e99f3e0ced79dcf4cc0f29ed9f49ea20d598459ee6efbbdc9d32b0e47a7654b591562b",
