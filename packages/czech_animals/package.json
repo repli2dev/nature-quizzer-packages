@@ -26379,20 +26379,6 @@
             ],
             "representations": [
                 {
-                    "hash": "f00cb3b35a6fda14b96342d81ef4225ab729cd9f95169451ac32e5980096f2a3dbc8f60f8910440ce01f59bb779623436cc8a978820b5691e2c1018b4d9ba704",
-                    "url": "http://static.inaturalist.org/photos/387747/original.jpg?1372249015",
-                    "rights_holder": "aebarr",
-                    "source": "http://www.inaturalist.org/photos/387747",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "50ccb77d4a4b70e58236e71d1471207151def315deeb6f51d54259cfe2c4f6575b22e44e319dd4db516dc7d8180e8bd999a35a2e637fa51952a0b6d57e4fdb33",
-                    "url": "http://static.inaturalist.org/photos/391679/original.jpg?1372521897",
-                    "rights_holder": "aebarr",
-                    "source": "http://www.inaturalist.org/photos/391679",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "8f0df5288a67e2611446177c4b91eafff1ff4c967154f4fd812ec3e5b27e37639dd18d5187d00202316947e9e6bfe6783ad64267b7d755f9e7d793aa2fe3df7b",
                     "url": "http://static.inaturalist.org/photos/453986/original.jpg?1376322948",
                     "rights_holder": "tbrooks",
@@ -26400,25 +26386,11 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "6d783c5c3c73ff3e014ec0aab2a5a0410e9296ce270f796c6c6ca16edd6fdf302afda53d0778432e2b99a854d19257934c3efc00054e6f1288cf9accd4afaf5b",
-                    "url": "http://static.inaturalist.org/photos/403110/original.jpg?1373214238",
-                    "rights_holder": "aebarr",
-                    "source": "http://www.inaturalist.org/photos/403110",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "1e975b6dc4169317c0e578ac3b9f9c892eae3daab49c05dfa30d35639c6a8c04eddf1f9b31d22593f0d0f4263926bda50a71b2e966d438caaf6a506d37113cb6",
-                    "url": "http://static.inaturalist.org/photos/403117/original.jpg?1373214263",
-                    "rights_holder": "aebarr",
-                    "source": "http://www.inaturalist.org/photos/403117",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "0c3aa660fa93f3773b1cf11cac3d8c6b82630d6cb26beb289e99f9a32244d4ea83e94e3e25efc25b2105b53006bd7947e1eed41391516033317bd3ef7b5b5cc9",
-                    "url": "http://static.inaturalist.org/photos/403124/original.jpg?1373214286",
-                    "rights_holder": "aebarr",
-                    "source": "http://www.inaturalist.org/photos/403124",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                    "hash": "c6f2499b81e9e3123e8cac38f7a33d5ef7e097959f52c8a23780bd85700a966784c1929fdd8b0ed2963df4bd1b5cd2b1cb68427119bc4469fb08252eb6036e3d",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Erinaceus_roumanicus.jpg",
+                    "rights_holder": "Mikhail Kolesnikov",
+                    "source": "https://commons.wikimedia.org/wiki/File:Erinaceus_roumanicus.jpg",
+                    "license": "https://creativecommons.org/licenses/by-sa/3.0/"
                 }
             ]
         },
@@ -27754,11 +27726,25 @@
             ],
             "representations": [
                 {
-                    "hash": "c157addfc1a7345aef407fa7abb75fccff599e6d024b8da9ed0a3d84a1dfef7394f21a5571b4ed87b2776fb45ffd4e56d78856c99266be26f827d01f1f3aec38",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/2/24/Glattnatter_heidekraut.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Glattnatter_heidekraut.JPG",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
+                    "hash": "f7682ae4a65b083680bf3c56f779d2fb4faf9d9946cd5a620886703aa459ce60673137492fb147a36b4611b64f901240a3d993ddfadf7d254cfd1053e5fc433e",
+                    "url": "http://media.eol.org/content/2009/07/24/12/13293_orig.jpg",
+                    "rights_holder": "Jiří Duchoň",
+                    "source": "http://www.biolib.cz/en/image/id42701/",
+                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                },
+                {
+                    "hash": "4a62e95bb47eeb3761820edbacf6f364a53541b740e0ecd8d393c4ecf58fc9e08e7bfb83994aa1e671a86114e64bdf1bd75f821d363afd21beb490bbe6bdbe0e",
+                    "url": "http://www.biolib.cz/IMG/GAL/BIG/68108.jpg",
+                    "rights_holder": "Andrej Alena",
+                    "source": "http://www.biolib.cz/en/image/id68108/",
+                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                },
+                {
+                    "hash": "a40b959a381cebd53ae37a8a25f26d2d558dfce47c7804c0870afbb9909857ae85f89f64237429c0ff823d30585eb05e50d8146955cce249eeae6f8f0f27da66",
+                    "url": "http://www.biolib.cz/IMG/GAL/83613.jpg",
+                    "rights_holder": "Václav Hanzlík",
+                    "source": "http://www.biolib.cz/en/image/id83613/",
+                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
         },
