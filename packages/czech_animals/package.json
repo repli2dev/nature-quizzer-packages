@@ -23911,13 +23911,6 @@
                     "rights_holder": null,
                     "source": "http://www.biopix.com/atlantic-salmon-salmo-salar_photo-74477.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "1a874fa9357a93b7ee6dd002dea34c2729b60aeb9e9c21e94b956ba09ed4b9f1f1348eaf2cd76d5b0268a20333c0fd344c64b564d4d83885afbc8e517c354853",
-                    "url": "http://farm1.staticflickr.com/85/247823365_b8cfccf0e5_o.jpg",
-                    "rights_holder": "amortize",
-                    "source": "http://www.flickr.com/photos/amortize/247823365/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 }
             ]
         },
@@ -27683,11 +27676,25 @@
             ],
             "representations": [
                 {
-                    "hash": "7fdfb254825b258c1a1e4bafb85800ea328572960daf069fde2d7e6009453b441089ebf41197780d2421a153ec56e1b5109d6c5e797b6308e371126503974c42",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/2/26/ViperaBerusEatingZootocaVivipara.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:ViperaBerusEatingZootocaVivipara.JPG",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.5/"
+                    "hash": "1f7503010131d407272b43e421864e89a0668c43aa6c77c9abdb40f990f1755f03799243d89748f53294247a57b30e4bce99bda26f269142282b234cfb73cad5",
+                    "url": "http://media.eol.org/content/2014/12/08/21/76549_orig.jpg",
+                    "rights_holder": "Marek Velechovský",
+                    "source": "http://www.biolib.cz/en/image/id26589/",
+                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                },
+                {
+                    "hash": "70f2a2b5c796b634fcf948f948bc51a57e3208f6fcd7f60ab08f529e9f3c413b3ad01d3f0097fb56773c71be9f0624468bbb7d21a133b30c30fc6ffa9bc5d441",
+                    "url": "http://media.eol.org/content/2009/07/24/12/19778_orig.jpg",
+                    "rights_holder": "Ondřej Zicha",
+                    "source": "http://www.biolib.cz/en/image/id95/",
+                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                },
+                {
+                    "hash": "93b340a398ac4243b3f34728383b4b2030563e781118d1abcd548e53440fefac696fa538f9905e15392d6f634484f8cba6d5250fb3c8cc45a32f8b07f069f061",
+                    "url": "http://media.eol.org/content/2009/07/24/12/18363_orig.jpg",
+                    "rights_holder": "Ondřej Zicha",
+                    "source": "http://www.biolib.cz/en/image/id5194/",
+                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
         },
