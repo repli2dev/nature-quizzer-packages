@@ -5990,19 +5990,20 @@
                     "license": "http://creativecommons.org/licenses/by/3.0/"
                 },
                 {
-                    "hash": "0eb2392e212d540f8a25cd44fb983699a636ba631314e585c980be3ee8d18bbd479e73f2345d589ba52158ce16876452b215ce621de29742eaecc00d5ddabf47",
-                    "url": "http://static.inaturalist.org/photos/194022/original.JPG?1351353529",
-                    "rights_holder": "Ryan McFarland",
-                    "source": "http://www.inaturalist.org/photos/194022",
+                    "hash": "f874074d72aaab898384083bd73a64147583dfaf6141cf904ac854bbf196d35cd2d3b358b785f38429a15e798c3d6b2f34862e9b608f40a12f5823b5da81b4a8",
+                    "url": "http://media.eol.org/content/2012/05/23/22/66723_orig.jpg",
+                    "rights_holder": "Biopix",
+                    "source": "http://www.biopix.com/three-toed-woodpecker-picoides-tridactylus_photo-79061.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "5be6593225366da42b3c1d8c305b76b63e1ccedadce057ab1557cae4f7a66c3a2d0b0f3bbcb9e153d45bee06eb75c6c616211ac02af66956120cb40eb61ee9ff",
-                    "url": "http://www.biopix.com/photos/ANE-Picoides-tridactylus-01239.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/three-toed-woodpecker-picoides-tridactylus_photo-80283.aspx",
+                    "hash": "e96b479f6cc1d2eb34d80796648ba0b8200ae991357b5d2985964db9f673235d69b9f216c11d8b8cc707c8c7bf1827613593cd40d9ef0220700bbf210df36601",
+                    "url": "http://media.eol.org/content/2012/05/23/22/00403_orig.jpg",
+                    "rights_holder": "Biopix",
+                    "source": "http://www.biopix.com/three-toed-woodpecker-picoides-tridactylus_photo-79061.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
+
             ]
         },
         "coccothraustes coccothraustes": {
