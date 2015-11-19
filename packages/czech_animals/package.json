@@ -22,7 +22,7 @@
             "group": "czech_republic",
             "names": {
                 "cs": {
-                    "name": "Česká zvěř",
+                    "name": "Zvířata ČR",
                     "description": "Zvířata vyskytující se na území České republiky."
                 },
                 "en": {
@@ -1445,13 +1445,6 @@
                     "rights_holder": "Peter",
                     "source": "http://www.flickr.com/photos/peteredin/3672316979/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "27805048a54a475811bb4e40cdd33eaae0b975d1d6eb57634d5cc417fecec4973cedc9f2f3c42a3d30e780073a375b43a0c739a857d70d73723b1bb7d121b127",
-                    "url": "http://farm6.staticflickr.com/5182/5614042736_8db07c1e11_o.jpg",
-                    "rights_holder": "Hermann Falkner",
-                    "source": "http://www.flickr.com/photos/hermannherbarium/5614042736/",
-                    "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 },
                 {
                     "hash": "577de56d39171c79144670460ab719e60508b11270534dbefbdaa7fc1cface141142678d3b67a6bb61b668ce8e4a2f2d3dc80fe3fcc34379f011e7d4a4e13e43",
@@ -24171,13 +24164,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Parc_aquarium_du_Québec_-_brochet.jpg",
                     "license": "http://creativecommons.org/licenses/by/2.5/"
-                },
-                {
-                    "hash": "273805f99741029f4d2c57a60fcfd183c9f8abb29b17ce61f5f04e230fadffe9c4219935149f22dc502406b7936caf31b988a3eaf164460218420d12eb4879e3",
-                    "url": "http://static.inaturalist.org/photos/637743/original.jpg?1389716158",
-                    "rights_holder": "benhoogervorst",
-                    "source": "http://www.inaturalist.org/photos/637743",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
                     "hash": "ca2da085cef3a2c8cb4396b81f1e2fefafb4d980294f372428516b1e6ca5b4eac06b690ce7e3dbdccfce2fb2d04c01907b546ad9fab8b167ce7723dd06ba5042",
