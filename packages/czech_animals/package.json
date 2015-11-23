@@ -241,25 +241,11 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "447cf6b805f8a9048517cc784f6f70c6d86f81f4736148591495d652586871b07a861e9b32f8a9f00cb2fecefd79313376ec8e51f5a770df67f5ea23f8955374",
-                    "url": "http://static.inaturalist.org/photos/453709/original.jpg?1376306874",
-                    "rights_holder": "tbrooks",
-                    "source": "http://www.inaturalist.org/photos/453709",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "0619a61560f827dfa5f7196307e5aee2182d20772e589a5b7a4e6bfc57dd97110284a13615d84479d053d8abe17d3cb8c5939c5d48d153bbc57823e2aded8770",
-                    "url": "http://farm2.staticflickr.com/1397/5180196904_0efd7643b8_o.jpg",
-                    "rights_holder": "Smithsonian Wild",
-                    "source": "http://www.flickr.com/photos/smithsonianwild/5180196904/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "451157a938c302c8e3dd4368dd98c22f300e4d50194b082153faa3687ca26f520dbcd81917d044fff1b550528939a11158af0b3d00618f5e8aba59804293177d",
-                    "url": "http://farm2.staticflickr.com/1036/5179575793_2df0b6952c_o.jpg",
-                    "rights_holder": "Smithsonian Wild",
-                    "source": "http://www.flickr.com/photos/smithsonianwild/5179575793/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+                    "hash": "f3fa9f2e37aad93b78b88b530eef24e336b08f3940118a38236c91807ea91fe0c45133d2738d7de11b06db1090e9944cc3325afd880f9af25ba0d5530dd3ddbe",
+                    "url": "http://media.eol.org/content/2015/06/03/13/90407_orig.jpg",
+                    "rights_holder": "Miroslav Deml",
+                    "source": "http://www.biolib.cz/en/image/id92111/",
+                    "license": "http://creativecommons.org/licenses/by/3.0/"
                 }
             ]
         },
@@ -3800,39 +3786,25 @@
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "d600e237836dca7bf62d4dd86e0972aa3ef7ec8916177947a1bac0573832f5f1b66a2d1a65acc9d8e67898f62588834ce40f79ba7e31eb5355acba84e171d779",
-                    "url": "http://www.biopix.com/photos/Cepphus-grylle-00018.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/black-guillemot-cepphus-grylle_photo-104623.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                    "hash": "04563f11e07edead680ab1402f690c6fbeff2f3571f0d1249f89b8c9c33979394ed94bfd240ee4d95b43a9dd9e64561aa359b28ed2045fb1fb906dfc23bf0e5d",
+                    "url": "http://media.eol.org/content/2012/11/13/02/74200_orig.jpg",
+                    "rights_holder": "Boaworm",
+                    "source": "http://commons.wikimedia.org/wiki/File:Black_Guillemot_Cepphus_grylle.jpg",
+                    "license": "http://creativecommons.org/licenses/by/3.0/"
                 },
                 {
-                    "hash": "d1710be93e28a6e78ecd2a778d2b68cff3b4355e7435390d2da8775bfd1b3d47b587dfed813de51ef9101d8b1d54215d65f2f54a35ffce9ba9a2ac4a68501dc8",
-                    "url": "http://www.biopix.com/photos/Cepphus-grylle-00017.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/black-guillemot-cepphus-grylle_photo-104622.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                    "hash": "ec3b0010da8b8a9f2b5f481c02e2378323c77f7a2f08f400ecbd84c0e6ec9534eb38cf41ceb608515ddb28005a27f9aae1f10e168a53a82b5ee4b32684e75c13",
+                    "url": "http://media.eol.org/content/2012/11/13/02/64604_orig.jpg",
+                    "rights_holder": "D. Gordon E. Robertson",
+                    "source": "http://commons.wikimedia.org/wiki/File:Black_Guillemots,_Elliston.jpg",
+                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 },
                 {
-                    "hash": "037e347b872473cce78d3b70e68f21100f6c945395ddcc3b16b49832973b2b30519ae4f1fc818db93d1fa1029c82216ada22beda05f03835d5abbc434ccead0b",
-                    "url": "http://www.biopix.com/photos/Cepphus-grylle-00016.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/black-guillemot-cepphus-grylle_photo-104621.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "b9a42024c1638d27b4669fef29d628d7f06dcc8c8c643d77b3c6433dd42a0bd80f33399793f40b1f269a9a47f4561dfbd97b86e6633a35a4046f5eeef2986bd8",
-                    "url": "http://www.biopix.com/photos/Cepphus-grylle-00015.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/black-guillemot-cepphus-grylle_photo-104620.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "e89b9f44a0629098a2328a85b727895a78c8dd0af6ec21ce70e3e1676e489e2fa2080170c23641a2e41acc78a96042a4db5a459985f73306d70a2729457627cd",
-                    "url": "http://www.biopix.com/photos/Cepphus-grylle-00014.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/black-guillemot-cepphus-grylle_photo-104619.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                    "hash": "8433b28c296e70787c18202b528f5f2ab11aaf450973c1a15cb5e35b37f70cbef65281d2b82d3762233950594023234b168e84d365323ef9243c1506fe2b60fb",
+                    "url": "http://media.eol.org/content/2012/11/13/02/77245_orig.jpg",
+                    "rights_holder": "Annukar1",
+                    "source": "http://commons.wikimedia.org/wiki/File:Cepphus_grylle2.jpg",
+                    "license": "http://creativecommons.org/licenses/by-sa/3.0/"
                 }
             ]
         },
@@ -3867,25 +3839,11 @@
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "5bca61c466ce6cc74337bf538d0c7cb5d22e054d9dc07df5b3a9195b8c03411ebd243894806d98a3075974ac135e8567abb042104968b662d323d7424cf4b356",
-                    "url": "http://www.biopix.com/photos/JOM-Uria-aalge-00008.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/common-guillemot-uria-aalge_photo-108306.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "2fcb86a0a7f85ba6d4519f982493079606ac5ecd96115d199acfdfb398bfa7c96d52ec897ee8890b77f391b59cf7bb741e46fff820265c9883886e5fa7a35608",
                     "url": "http://www.biopix.com/photos/JOM-Uria-aalge-00009.jpg",
                     "rights_holder": null,
                     "source": "http://www.biopix.com/common-guillemot-uria-aalge_photo-111203.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "69f99c5d411e2c721e04cfe483b320b7f2f78f8082b964a64296dc23f0d5df449c0a25464efe93d61be4cb426373d639ac0ff22da126cebe06c2100381ed7da5",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/8/82/Basstoelpel_03.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Basstoelpel_03.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.5/"
                 }
             ]
         },
@@ -23900,11 +23858,18 @@
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "30e738c495a31cd2cd70763bea8cc9f13b3f6462b96608439447e6252f8857d1f1db9ae58afa365a76a1b5197df857a1fe5f96936d1f7b6d1aa178e8b7409a37",
-                    "url": "http://www.biopix.com/photos/INN-Salmo-salar-00737.jpg",
+                    "hash": "a7c44a82be5f317468b58a4c9540b14a9d5676442276a114695ce0e2d6b414d7b80c57a233842034433cc817af7eb97a709caae56d15680ace40ad19c2b9c837",
+                    "url": "http://media.eol.org/content/2012/05/24/01/79940_orig.jpg",
                     "rights_holder": null,
-                    "source": "http://www.biopix.com/atlantic-salmon-salmo-salar_photo-74477.aspx",
+                    "source": "http://www.biopix.com/atlantic-salmon-salmo-salar_photo-41985.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                },
+                {
+                    "hash": "28bfd7572f58e41f5387f503c1a4716cc01419e2839df4f83ffaee5cfda2eb7d703fe5da1749fd081a764eb0e26560b85105811d0999a7d7028d54fbfd3a858f",
+                    "url": "http://media.eol.org/content/2009/07/24/11/23938_orig.jpg",
+                    "rights_holder": "Steenstra, Peter",
+                    "source": "http://www.biolib.cz/en/image/id20690/",
+                    "license": "https://creativecommons.org/licenses/publicdomain/"
                 }
             ]
         },
@@ -24164,13 +24129,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Parc_aquarium_du_Québec_-_brochet.jpg",
                     "license": "http://creativecommons.org/licenses/by/2.5/"
-                },
-                {
-                    "hash": "ca2da085cef3a2c8cb4396b81f1e2fefafb4d980294f372428516b1e6ca5b4eac06b690ce7e3dbdccfce2fb2d04c01907b546ad9fab8b167ce7723dd06ba5042",
-                    "url": "http://static.inaturalist.org/photos/422835/original.JPG?1374370095",
-                    "rights_holder": "fbates",
-                    "source": "http://www.inaturalist.org/photos/422835",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
                     "hash": "86415b0e231ee1ea9f701c647b9b0631379fdc11a199205b87291e140a3e69b422f62594098392d0ce474afa834cef96497da3fb29f6beb008df2c887d1f1eb1",
@@ -25636,20 +25594,6 @@
                     "url": "http://static.inaturalist.org/photos/929017/original.JPG?1402903989",
                     "rights_holder": "Mark",
                     "source": "http://www.inaturalist.org/photos/929017",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "ac9a6ea1498b9581d96e6dd7df9b7f7b8466d66852a95d0619b2e0bfd34f87b4d7b29c8b3e26296367be306672df3199efe4fc3631d649d4794a31fe6310bfe6",
-                    "url": "http://static.inaturalist.org/photos/929018/original.JPG?1402903989",
-                    "rights_holder": "Mark",
-                    "source": "http://www.inaturalist.org/photos/929018",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "6720f7bb96e72ffdcbc0b7405a0601e0009465fe37ca1fabe9b12a0c436a0c32ac20a9e36a0fd6f81a5bb11ff086fecb722672471b70949242673352b12e2106",
-                    "url": "http://static.inaturalist.org/photos/1128277/original.jpg?1411326699",
-                    "rights_holder": "Martin Grimm",
-                    "source": "http://www.inaturalist.org/photos/1128277",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
