@@ -1189,13 +1189,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "9f25b81ebe82ee879e803fd4ba05f382aa44cda55ef42ac761c772049d50d899d70c6826ea909fb4f29855e99bbc2e7c7fdb5df5e761a19e5f728fb56757bd18",
-                    "url": "http://www.biopix.com/photos/JCS-Alnus-glutinosa-23434.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/alder-alnus-glutinosa_photo-17425.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "bea6788651bde954a433c91a6d1c707f8f7e4538fe587823b4b6ec4130c4987354d54d6520887e33f0ceacf3fd34a5eeba91a46fe9d385423c1d336eb026b991",
                     "url": "http://www.biopix.com/photos/JCS-Alnus-glutinosa-23435.jpg",
                     "rights_holder": null,
@@ -3529,13 +3522,6 @@
                     "rights_holder": "Foto Fitis, www.fotofitis.nl",
                     "source": "http://www.ecomare.nl/index.php?id=3335&L=2",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "0b64a6df60c86e1809becb556735a8527544b9d6e08065f0a559fa1783f446e86ee69d74f09a0310532517f46012623c7582704e1779950e83f1325b557470f6",
-                    "url": "http://collections.mnh.si.edu/services/media.php?env=botany&irn=10367281",
-                    "rights_holder": "Smithsonian Institution, National Museum of Natural History, Department of Botany",
-                    "source": "http://collections.mnh.si.edu/search/botany/?irn=10326744",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 }
             ]
         },
@@ -3718,13 +3704,6 @@
                     "url": "http://static.inaturalist.org/photos/717331/original.jpg?1394577593",
                     "rights_holder": "enriqueorozcoarroyo",
                     "source": "http://www.inaturalist.org/photos/717331",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "6e735db8eb41461057534d57d1f5b3b127c4cc5fb82826cd15475a5f7f3f3c3a29a104edcbb4647eeb5e982226dc84ca626baa1b2cc380774ca2ece4de931d4a",
-                    "url": "http://static.inaturalist.org/photos/731993/original.jpg?1395270553",
-                    "rights_holder": "Sam Kieschnick",
-                    "source": "http://www.inaturalist.org/photos/731993",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
@@ -4029,13 +4008,6 @@
                     "rights_holder": "Hermann Falkner",
                     "source": "http://www.flickr.com/photos/hermannherbarium/5611247980/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "795806a761f4d88379286fd665bafee2440f8d587c022f2e31700fbc8c76e2ad5ffdb17503f162d2b37cd9c1a42960e64932b6fd11994b595a78e3780dc4f6c5",
-                    "url": "http://plants.usda.gov/gallery/large/prar3_004_lhp.jpg",
-                    "rights_holder": "<a href=\"http://www.ag.ndsu.nodak.edu/aginfo/trees/handbook.htm\">ND State Soil Conservation Committee</a>. <a href=\"http://www.nd.nrcs.usda.gov/\">USDA NRCS ND State Office</a>. United States, ND.",
-                    "source": "http://plants.usda.gov/java/largeImage?imageID=prar3_004_ahp.tif",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
                 },
                 {
                     "hash": "b547c8ef0be8f86442fd17789f85605e70ffa7f04d4783d44ee7aa93ca56d66b467bb790d0aeec0596aeade4db5a6bb30ae54bc5b3ecef66ea4655a014c640ff",
