@@ -30,6 +30,71 @@
                     "description": "Animals living in the Czech republic."
                 }
             }
+        },
+        "cz_mammals": {
+            "group": "czech_republic",
+            "names": {
+                "cs": {
+                    "name": "Savci ČR",
+                    "description": "Savci vyskytující se na území České republiky."
+                },
+                "en": {
+                    "name": "Czech mammals",
+                    "description": "Mammals living in the Czech republic."
+                }
+            }
+        },
+        "cz_birds": {
+            "group": "czech_republic",
+            "names": {
+                "cs": {
+                    "name": "Ptáci ČR",
+                    "description": "Ptáci vyskytující se na území České republiky."
+                },
+                "en": {
+                    "name": "Czech birds",
+                    "description": "Birds living in the Czech republic."
+                }
+            }
+        },
+        "cz_reptiles": {
+            "group": "czech_republic",
+            "names": {
+                "cs": {
+                    "name": "Plazi ČR",
+                    "description": "Plazi vyskytující se na území České republiky."
+                },
+                "en": {
+                    "name": "Czech reptiles",
+                    "description": "Reptiles living in the Czech republic."
+                }
+            }
+        },
+        "cz_amphibians": {
+            "group": "czech_republic",
+            "names": {
+                "cs": {
+                    "name": "Obojživelníci ČR",
+                    "description": "Obojživelníci vyskytující se na území České republiky."
+                },
+                "en": {
+                    "name": "Czech amphibian",
+                    "description": "Amphibians living in the Czech republic."
+                }
+            }
+        },
+        "cz_fishes": {
+            "group": "czech_republic",
+            "names": {
+                "cs": {
+                    "name": "Ryby ČR",
+                    "description": "Ryby vyskytující se na území České republiky."
+                },
+                "en": {
+                    "name": "Czech fishes",
+                    "description": "Fishes living in the Czech republic."
+                }
+            }
         }
     },
     "organism": {
@@ -39,7 +104,8 @@
                 "en": "american mink"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -92,7 +158,8 @@
                 "en": "european polecat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -138,7 +205,8 @@
                 "en": "steppe polecat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -184,7 +252,8 @@
                 "en": "european pine marten"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -230,7 +299,8 @@
                 "en": "stone marten"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -255,7 +325,8 @@
                 "en": "least weasel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -308,7 +379,8 @@
                 "en": "ermine"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -361,7 +433,8 @@
                 "en": "eurasian badger"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -414,7 +487,8 @@
                 "en": "european otter"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -467,7 +541,8 @@
                 "en": "brown bear"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -520,7 +595,8 @@
                 "en": "northern raccoon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -573,7 +649,8 @@
                 "en": "asiatic raccoon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -626,7 +703,8 @@
                 "en": "red fox"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -679,7 +757,8 @@
                 "en": "grey wolf"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -725,7 +804,8 @@
                 "en": "eurasian lynx"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -778,7 +858,8 @@
                 "en": "wildcat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -810,7 +891,8 @@
                 "en": "wild boar"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -863,7 +945,8 @@
                 "en": "elk"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -916,7 +999,8 @@
                 "en": "fallow deer"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -962,7 +1046,8 @@
                 "en": "sika deer"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1015,7 +1100,8 @@
                 "en": "white-tailed deer"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1054,7 +1140,8 @@
                 "en": "european roe deer"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1107,7 +1194,8 @@
                 "en": "eurasian elk"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1160,7 +1248,8 @@
                 "en": "chamois"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1213,7 +1302,8 @@
                 "en": "domestic sheep"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1252,7 +1342,8 @@
                 "en": "aoudad"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1270,7 +1361,8 @@
                 "en": "european hare"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1323,7 +1415,8 @@
                 "en": "european rabbit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1369,7 +1462,8 @@
                 "en": "eurasian red squirrel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1422,7 +1516,8 @@
                 "en": "european suslik"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1447,7 +1542,8 @@
                 "en": "eurasian beaver"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1486,7 +1582,8 @@
                 "en": "coypu"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1539,7 +1636,8 @@
                 "en": "european hamster"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1585,7 +1683,8 @@
                 "en": "bank vole"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1617,7 +1716,8 @@
                 "en": "european water vole"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1670,7 +1770,8 @@
                 "en": "common muskrat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1709,7 +1810,8 @@
                 "en": "common vole"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1727,7 +1829,8 @@
                 "en": "field vole"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1780,7 +1883,8 @@
                 "en": "common pine vole"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1819,7 +1923,8 @@
                 "en": "black rat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1858,7 +1963,8 @@
                 "en": "brown rat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1911,7 +2017,8 @@
                 "en": "house mouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1964,7 +2071,8 @@
                 "en": "eurasian harvest mouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -1980,13 +2088,6 @@
                     "rights_holder": null,
                     "source": "http://www.biopix.com/harvest-mouse-micromys-minutus_photo-28253.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "f2a1e67faba4f7e6bb99c61bd5520935b86ad739c88b83a70f1831130ac03721f4b92ececf26f6f1e9ccfbadbd43e29b7257e2301af6c369292549d33e1cb990",
-                    "url": "http://www.discoverlife.org/mp/20p?img=I_MWS22149&res=mx",
-                    "rights_holder": null,
-                    "source": "http://www.bioimages.org.uk/html/p2/p22149.php",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
                     "hash": "1a7226f98e2600df67b913bc4904eeab615807d752dddebcba26cb65287bfeffe830ebe1018fc939d780463600a1abbe6c95f113d60820a63ccccd81b203c9f2",
@@ -2017,7 +2118,8 @@
                 "en": "striped field mouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2070,7 +2172,8 @@
                 "en": "northern birch mouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2123,7 +2226,8 @@
                 "en": "yellow-necked field mouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2176,7 +2280,8 @@
                 "en": "wood mouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2229,7 +2334,8 @@
                 "en": "pygmy field mouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2275,7 +2381,8 @@
                 "en": "edible dormouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2328,7 +2435,8 @@
                 "en": "hazel dormouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2374,7 +2482,8 @@
                 "en": "garden dormouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2427,7 +2536,8 @@
                 "en": "forest dormouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2459,7 +2569,8 @@
                 "en": "east european hedgehog"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2491,7 +2602,8 @@
                 "en": "european hedgehog"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2530,7 +2642,8 @@
                 "en": "southern water shrew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2576,7 +2689,8 @@
                 "en": "eurasian water shrew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2615,7 +2729,8 @@
                 "en": "web-footed water shrew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2633,7 +2748,8 @@
                 "en": "eurasian shrew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2679,7 +2795,8 @@
                 "en": "pgymy shrew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2732,7 +2849,8 @@
                 "en": "bicoloured white-toothed shrew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2764,7 +2882,8 @@
                 "en": "lesser white-toothed shrew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2782,7 +2901,8 @@
                 "en": "european mole"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2821,7 +2941,8 @@
                 "en": "humans"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2874,7 +2995,8 @@
                 "en": "western barbastelle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2920,7 +3042,8 @@
                 "en": "northern bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2973,7 +3096,8 @@
                 "en": "common serotine"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -2998,7 +3122,8 @@
                 "en": "savi's pipistrelle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3051,7 +3176,8 @@
                 "en": "bechstein's myotis"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3076,7 +3202,8 @@
                 "en": "pond bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3129,7 +3256,8 @@
                 "en": "daubenton's myotis"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3182,7 +3310,8 @@
                 "en": "geoffroy's myotis"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3200,7 +3329,8 @@
                 "en": "large mouse-eared bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3225,7 +3355,8 @@
                 "en": "whiskered bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3243,7 +3374,8 @@
                 "en": "natterer's bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3296,7 +3428,8 @@
                 "en": "giant noctule"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3321,7 +3454,8 @@
                 "en": "leisler's noctule"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3339,7 +3473,8 @@
                 "en": "mountain noctule bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3392,7 +3527,8 @@
                 "en": "nathusius's pipistrelle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3445,7 +3581,8 @@
                 "en": "common pipistrelle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3470,7 +3607,8 @@
                 "en": "soprano pipistrelle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3523,7 +3661,8 @@
                 "en": "brown long-eared bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3562,7 +3701,8 @@
                 "en": "grey long-eared bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3594,7 +3734,8 @@
                 "en": "particolored bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3619,7 +3760,8 @@
                 "en": "lesser mouse-eared myotis"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3665,7 +3807,8 @@
                 "en": "lesser horseshoe bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3683,7 +3826,8 @@
                 "en": "greater horseshoe bat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -3729,7 +3873,8 @@
                 "en": "dovekie"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -3775,7 +3920,8 @@
                 "en": "black guillemot"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -3814,7 +3960,8 @@
                 "en": "common murre"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -3853,7 +4000,8 @@
                 "en": "common snipe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -3906,7 +4054,8 @@
                 "en": "great snipe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -3938,7 +4087,8 @@
                 "en": "black-eared wheatear"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -3991,7 +4141,8 @@
                 "en": "desert wheatear, black-throated desent"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4044,7 +4195,8 @@
                 "en": "wheatear"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4083,7 +4235,8 @@
                 "en": "barnacle goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4136,7 +4289,8 @@
                 "en": "red-breasted goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4182,7 +4336,8 @@
                 "en": "brent goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4228,7 +4383,8 @@
                 "en": "african stonechat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4281,7 +4437,8 @@
                 "en": "whinchat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4334,7 +4491,8 @@
                 "en": "eurasian nuthatch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4366,7 +4524,8 @@
                 "en": "bohemian waxwing"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4419,7 +4578,8 @@
                 "en": "black-tailed godwit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4465,7 +4625,8 @@
                 "en": "bar-tailed godwit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4518,7 +4679,8 @@
                 "en": "eurasian crag martin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4557,7 +4719,8 @@
                 "en": "sand martin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4596,7 +4759,8 @@
                 "en": "iberian chiffchaff"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4621,7 +4785,8 @@
                 "en": "wood warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4674,7 +4839,8 @@
                 "en": "chiff-chaff"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4713,7 +4879,8 @@
                 "en": "yellow-browed warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4766,7 +4933,8 @@
                 "en": "radde's willow warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4805,7 +4973,8 @@
                 "en": "willow warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4851,7 +5020,8 @@
                 "en": "greenish leaf-warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4904,7 +5074,8 @@
                 "en": "pallas's leaf warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4936,7 +5107,8 @@
                 "en": "eurasian bittern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -4982,7 +5154,8 @@
                 "en": "little bittern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5028,7 +5201,8 @@
                 "en": "european storm petrel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5067,7 +5241,8 @@
                 "en": "northern fulmar"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5120,7 +5295,8 @@
                 "en": "cetti’s warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5152,7 +5328,8 @@
                 "en": "river warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5198,7 +5375,8 @@
                 "en": "savi's warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5244,7 +5422,8 @@
                 "en": "eastern grasshopper warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5283,7 +5462,8 @@
                 "en": "white stork"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5336,7 +5516,8 @@
                 "en": "black stork"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5389,7 +5570,8 @@
                 "en": "arctic redpoll"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5428,7 +5610,8 @@
                 "en": "lesser redpoll"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5481,7 +5664,8 @@
                 "en": "common redpoll"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5534,7 +5718,8 @@
                 "en": "northern lapwing"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5587,7 +5772,8 @@
                 "en": "spur-winged plover"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5640,7 +5826,8 @@
                 "en": "european robin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5693,7 +5880,8 @@
                 "en": "garganey"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5732,7 +5920,8 @@
                 "en": "blue-winged teal"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5771,7 +5960,8 @@
                 "en": "common teal"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5824,7 +6014,8 @@
                 "en": "eurasian siskin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5877,7 +6068,8 @@
                 "en": "black woodpecker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5930,7 +6122,8 @@
                 "en": "three-toed woodpecker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -5954,7 +6147,6 @@
                     "source": "http://www.biopix.com/three-toed-woodpecker-picoides-tridactylus_photo-79061.aspx",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
-
             ]
         },
         "coccothraustes coccothraustes": {
@@ -5963,7 +6155,8 @@
                 "en": "hawfinch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6016,7 +6209,8 @@
                 "en": "little bustard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6048,7 +6242,8 @@
                 "en": "great bustard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6094,7 +6289,8 @@
                 "en": "mistle thrush"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6147,7 +6343,8 @@
                 "en": "redwing"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6193,7 +6390,8 @@
                 "en": "fieldfare"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6225,7 +6423,8 @@
                 "en": "white-browed thrush"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6271,7 +6470,8 @@
                 "en": "dusky trush"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6324,7 +6524,8 @@
                 "en": "song thrush"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6356,7 +6557,8 @@
                 "en": "merlin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6409,7 +6611,8 @@
                 "en": "hoopoe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6462,7 +6665,8 @@
                 "en": "stone curlew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6508,7 +6712,8 @@
                 "en": "rook"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6554,7 +6759,8 @@
                 "en": "common goldeneye"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6607,7 +6813,8 @@
                 "en": "oldsquaw"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6646,7 +6853,8 @@
                 "en": "stock pigeon, stock dove"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6692,7 +6900,8 @@
                 "en": "wood pigeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6745,7 +6954,8 @@
                 "en": "turtle dove"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6784,7 +6994,8 @@
                 "en": "eurasian collared dove"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6837,7 +7048,8 @@
                 "en": "white-fronted goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6890,7 +7102,8 @@
                 "en": "lesser white-fronted goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6943,7 +7156,8 @@
                 "en": "bean goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -6989,7 +7203,8 @@
                 "en": "greylag goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7035,7 +7250,8 @@
                 "en": "shelduck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7081,7 +7297,8 @@
                 "en": "american wigeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7120,7 +7337,8 @@
                 "en": "eurasian widgeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7173,7 +7391,8 @@
                 "en": "bullfinch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7219,7 +7438,8 @@
                 "en": "desert finch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7265,7 +7485,8 @@
                 "en": "pine rosefinch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7318,7 +7539,8 @@
                 "en": "scarlet grosbeak"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7371,7 +7593,8 @@
                 "en": "long-tailed skua"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7424,7 +7647,8 @@
                 "en": "pomarine skua"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7477,7 +7701,8 @@
                 "en": "arctic skua"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7523,7 +7748,8 @@
                 "en": "great skua"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7576,7 +7802,8 @@
                 "en": "crested lark"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7629,7 +7856,8 @@
                 "en": "spotted crake"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7675,7 +7903,8 @@
                 "en": "little crake"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7693,7 +7922,8 @@
                 "en": "baillon's crake"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7732,7 +7962,8 @@
                 "en": "corncrake"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7771,7 +8002,8 @@
                 "en": "water rail"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7824,7 +8056,8 @@
                 "en": "glossy ibis"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7877,7 +8110,8 @@
                 "en": "common crane"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7930,7 +8164,8 @@
                 "en": "hazel grouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -7962,7 +8197,8 @@
                 "en": "broad-billed sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8015,7 +8251,8 @@
                 "en": "ruff"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8068,7 +8305,8 @@
                 "en": "baird's sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8100,7 +8338,8 @@
                 "en": "curlew sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8146,7 +8385,8 @@
                 "en": "little stint"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8199,7 +8439,8 @@
                 "en": "purple sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8245,7 +8486,8 @@
                 "en": "dunlin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8291,7 +8533,8 @@
                 "en": "sanderling"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8344,7 +8587,8 @@
                 "en": "buff-breasted sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8397,7 +8641,8 @@
                 "en": "red knot"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8450,7 +8695,8 @@
                 "en": "pectoral sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8503,7 +8749,8 @@
                 "en": "temminck's stint"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8535,7 +8782,8 @@
                 "en": "white-rumped sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8588,7 +8836,8 @@
                 "en": "northern goshawk"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8641,7 +8890,8 @@
                 "en": "common house martin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8673,7 +8923,8 @@
                 "en": "mallard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8726,7 +8977,8 @@
                 "en": "king eider"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8744,7 +8996,8 @@
                 "en": "common eider"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8797,7 +9050,8 @@
                 "en": "steller's eider"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8815,7 +9069,8 @@
                 "en": "short-eared owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8868,7 +9123,8 @@
                 "en": "long-eared owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8914,7 +9170,8 @@
                 "en": "ruddy turnstone"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8967,7 +9224,8 @@
                 "en": "long-legged hawk"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -8999,7 +9257,8 @@
                 "en": "buzzard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9052,7 +9311,8 @@
                 "en": "rough-legged hawk"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9105,7 +9365,8 @@
                 "en": "yellow-billed chough"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9158,7 +9419,8 @@
                 "en": "jackdaw"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9204,7 +9466,8 @@
                 "en": "white-tailed lapwing"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9243,7 +9506,8 @@
                 "en": "sociable lapwing"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9282,7 +9546,8 @@
                 "en": "whimbrel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9335,7 +9600,8 @@
                 "en": "eurasian curlew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9381,7 +9647,8 @@
                 "en": "eurasian spoonbill"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9420,7 +9687,8 @@
                 "en": "white wagtail"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9473,7 +9741,8 @@
                 "en": "citrine wagtail"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9526,7 +9795,8 @@
                 "en": "grey wagtail"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9572,7 +9842,8 @@
                 "en": "western yellow wagtail"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9618,7 +9889,8 @@
                 "en": "linnet"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9671,7 +9943,8 @@
                 "en": "twite"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9724,7 +9997,8 @@
                 "en": "gadwall"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9756,7 +10030,8 @@
                 "en": "shag"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9795,7 +10070,8 @@
                 "en": "pygmy cormorant"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9841,7 +10117,8 @@
                 "en": "great cormorant"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9894,7 +10171,8 @@
                 "en": "grey partridge"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -9947,7 +10225,8 @@
                 "en": "common blackbird"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10000,7 +10279,8 @@
                 "en": "ring ouzel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10053,7 +10333,8 @@
                 "en": "levant sparrowhawk"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10099,7 +10380,8 @@
                 "en": "eurasian sparrow hawk"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10152,7 +10434,8 @@
                 "en": "goldcrest"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10205,7 +10488,8 @@
                 "en": "firecrest"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10237,7 +10521,8 @@
                 "en": "common raven"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10290,7 +10575,8 @@
                 "en": "wryneck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10343,7 +10629,8 @@
                 "en": "common quail"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10382,7 +10669,8 @@
                 "en": "white-winged crossbill"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10435,7 +10723,8 @@
                 "en": "red crossbill"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10481,7 +10770,8 @@
                 "en": "parrot crossbill"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10534,7 +10824,8 @@
                 "en": "common cuckoo"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10587,7 +10878,8 @@
                 "en": "grey plover"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10633,7 +10925,8 @@
                 "en": "american golden plover"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10679,7 +10972,8 @@
                 "en": "eurasian dotterel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10732,7 +11026,8 @@
                 "en": "kentish plover"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10785,7 +11080,8 @@
                 "en": "common ringed plover"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10838,7 +11134,8 @@
                 "en": "little ringed plover"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10891,7 +11188,8 @@
                 "en": "european golden plover"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10937,7 +11235,8 @@
                 "en": "pigmy owlet"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -10990,7 +11289,8 @@
                 "en": "black-crowned night-heron"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11043,7 +11343,8 @@
                 "en": "tundra swan"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11089,7 +11390,8 @@
                 "en": "mute swan"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11135,7 +11437,8 @@
                 "en": "whooper swan"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11188,7 +11491,8 @@
                 "en": "common kingfisher"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11241,7 +11545,8 @@
                 "en": "collared flycatcher"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11287,7 +11592,8 @@
                 "en": "european pied flycatcher"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11340,7 +11646,8 @@
                 "en": "red-throated flycatcher"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11393,7 +11700,8 @@
                 "en": "spotted flycatcher"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11446,7 +11754,8 @@
                 "en": "european nightjar"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11492,7 +11801,8 @@
                 "en": "water pipit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11545,7 +11855,8 @@
                 "en": "tree pipit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11598,7 +11909,8 @@
                 "en": "meadow pipit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11651,7 +11963,8 @@
                 "en": "eurasian rock pipit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11704,7 +12017,8 @@
                 "en": "red-throated pipit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11750,7 +12064,8 @@
                 "en": "tawny pipit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11803,7 +12118,8 @@
                 "en": "black-winged kite"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11856,7 +12172,8 @@
                 "en": "red kite"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11909,7 +12226,8 @@
                 "en": "black kite"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -11962,7 +12280,8 @@
                 "en": "eurasian coot"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12015,7 +12334,8 @@
                 "en": "grey phalarope"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12061,7 +12381,8 @@
                 "en": "red-necked phalarope"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12114,7 +12435,8 @@
                 "en": "northern shoveler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12167,7 +12489,8 @@
                 "en": "european roller"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12220,7 +12543,8 @@
                 "en": "long-tailed tit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12273,7 +12597,8 @@
                 "en": "red-flanked bluetail"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12326,7 +12651,8 @@
                 "en": "smew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12365,7 +12691,8 @@
                 "en": "red-breasted merganser"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12418,7 +12745,8 @@
                 "en": "common merganser"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12471,7 +12799,8 @@
                 "en": "montagu’s harrier"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12517,7 +12846,8 @@
                 "en": "northern harrier"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12570,7 +12900,8 @@
                 "en": "western marsh harrier"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12609,7 +12940,8 @@
                 "en": "pallid harrier"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12655,7 +12987,8 @@
                 "en": "penduline tit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12694,7 +13027,8 @@
                 "en": "bonelli’s eagle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12726,7 +13060,8 @@
                 "en": "imperial eagle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12744,7 +13079,8 @@
                 "en": "lesser spotted eagle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12783,7 +13119,8 @@
                 "en": "white-tailed eagle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12815,7 +13152,8 @@
                 "en": "booted hawk eagle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12840,7 +13178,8 @@
                 "en": "golden eagle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12893,7 +13232,8 @@
                 "en": "steppe eagle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12946,7 +13286,8 @@
                 "en": "greater spotted eagle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -12999,7 +13340,8 @@
                 "en": "short-toed eagle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13052,7 +13394,8 @@
                 "en": "osprey"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13098,7 +13441,8 @@
                 "en": "nutcracker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13151,7 +13495,8 @@
                 "en": "northern pintail"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13197,7 +13542,8 @@
                 "en": "eleonora's falcon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13250,7 +13596,8 @@
                 "en": "eurasian hobby"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13303,7 +13650,8 @@
                 "en": "black-winged pratincole"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13321,7 +13669,8 @@
                 "en": "collared pratincole"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13353,7 +13702,8 @@
                 "en": "great white pelican"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13406,7 +13756,8 @@
                 "en": "sardinian warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13459,7 +13810,8 @@
                 "en": "eurasian blackcap"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13512,7 +13864,8 @@
                 "en": "common whitethroat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13558,7 +13911,8 @@
                 "en": "dartford warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13604,7 +13958,8 @@
                 "en": "desert warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13657,7 +14012,8 @@
                 "en": "whitethroat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13689,7 +14045,8 @@
                 "en": "garden warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13735,7 +14092,8 @@
                 "en": "barred warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13767,7 +14125,8 @@
                 "en": "brambling"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13820,7 +14179,8 @@
                 "en": "chaffinch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13873,7 +14233,8 @@
                 "en": "white-winged snowfinch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13926,7 +14287,8 @@
                 "en": "dunnock"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -13979,7 +14341,8 @@
                 "en": "alpine accentor"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14025,7 +14388,8 @@
                 "en": "common sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14057,7 +14421,8 @@
                 "en": "common stilt"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14110,7 +14475,8 @@
                 "en": "greater flamingo"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14163,7 +14529,8 @@
                 "en": "tufted duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14202,7 +14569,8 @@
                 "en": "greater scaup"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14255,7 +14623,8 @@
                 "en": "ferruginous duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14308,7 +14677,8 @@
                 "en": "ring-necked duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14361,7 +14731,8 @@
                 "en": "common pochard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14414,7 +14785,8 @@
                 "en": "lesser kestrel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14460,7 +14832,8 @@
                 "en": "eurasian kestrel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14513,7 +14886,8 @@
                 "en": "red-footed falcon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14566,7 +14940,8 @@
                 "en": "eared grebe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14619,7 +14994,8 @@
                 "en": "great-crested grebe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14658,7 +15034,8 @@
                 "en": "horned grebe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14697,7 +15074,8 @@
                 "en": "common loon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14750,7 +15128,8 @@
                 "en": "red-throated loon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14782,7 +15161,8 @@
                 "en": "arctic loon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14828,7 +15208,8 @@
                 "en": "yellow-billed loon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14881,7 +15262,8 @@
                 "en": "ural owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14920,7 +15302,8 @@
                 "en": "tawny wood owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -14973,7 +15356,8 @@
                 "en": "audouin's gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15012,7 +15396,8 @@
                 "en": "caspian gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15065,7 +15450,8 @@
                 "en": "bonaparte's gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15118,7 +15504,8 @@
                 "en": "common gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15171,7 +15558,8 @@
                 "en": "mediterranean gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15224,7 +15612,8 @@
                 "en": "ring-billed gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15277,7 +15666,8 @@
                 "en": "black-headed gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15330,7 +15720,8 @@
                 "en": "little gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15383,7 +15774,8 @@
                 "en": "great black-backed gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15436,7 +15828,8 @@
                 "en": "iceland gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15489,7 +15882,8 @@
                 "en": "sabine's gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15521,7 +15915,8 @@
                 "en": "yellow-legged gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15574,7 +15969,8 @@
                 "en": "herring gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15627,7 +16023,8 @@
                 "en": "glaucous gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15666,7 +16063,8 @@
                 "en": "kittiwake gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15712,7 +16110,8 @@
                 "en": "great black-headed gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15744,7 +16143,8 @@
                 "en": "lesser black-backed gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15797,7 +16197,8 @@
                 "en": "eurasian reed warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15850,7 +16251,8 @@
                 "en": "aquatic warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15889,7 +16291,8 @@
                 "en": "sedge warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15935,7 +16338,8 @@
                 "en": "moustached warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -15974,7 +16378,8 @@
                 "en": "great reed warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16006,7 +16411,8 @@
                 "en": "marsh warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16059,7 +16465,8 @@
                 "en": "saker falcon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16112,7 +16519,8 @@
                 "en": "black redstart"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16165,7 +16573,8 @@
                 "en": "common redstart"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16211,7 +16620,8 @@
                 "en": "common swift"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16250,7 +16660,8 @@
                 "en": "alpine swift"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16296,7 +16707,8 @@
                 "en": "whiskered tern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16349,7 +16761,8 @@
                 "en": "white-winged tern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16402,7 +16815,8 @@
                 "en": "gull-billed tern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16455,7 +16869,8 @@
                 "en": "black tern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16508,7 +16923,8 @@
                 "en": "arctic tern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16554,7 +16970,8 @@
                 "en": "little tern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16607,7 +17024,8 @@
                 "en": "common tern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16660,7 +17078,8 @@
                 "en": "sandwich tern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16713,7 +17132,8 @@
                 "en": "caspian tern"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16766,7 +17186,8 @@
                 "en": "icterine warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16819,7 +17240,8 @@
                 "en": "booted warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16865,7 +17287,8 @@
                 "en": "olivaceous warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16918,7 +17341,8 @@
                 "en": "white-backed rock thrush"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -16964,7 +17388,8 @@
                 "en": "dipper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17010,7 +17435,8 @@
                 "en": "woodlark"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17056,7 +17482,8 @@
                 "en": "horned lark"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17109,7 +17536,8 @@
                 "en": "skylark"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17155,7 +17583,8 @@
                 "en": "bluethroat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17208,7 +17637,8 @@
                 "en": "common nightingale"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17261,7 +17691,8 @@
                 "en": "thrush nightingale"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17314,7 +17745,8 @@
                 "en": "common moorhen"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17339,7 +17771,8 @@
                 "en": "jack snipe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17392,7 +17825,8 @@
                 "en": "eurasian woodcock"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17438,7 +17872,8 @@
                 "en": "snow bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17491,7 +17926,8 @@
                 "en": "jay"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17544,7 +17980,8 @@
                 "en": "peregrine falcon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17590,7 +18027,8 @@
                 "en": "barn owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17643,7 +18081,8 @@
                 "en": "hawk owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17682,7 +18121,8 @@
                 "en": "snowy owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17735,7 +18175,8 @@
                 "en": "european goldfinch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17788,7 +18229,8 @@
                 "en": "eurasian magpie"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17841,7 +18283,8 @@
                 "en": "white-backed woodpecker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17887,7 +18330,8 @@
                 "en": "syrian woodpecker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17933,7 +18377,8 @@
                 "en": "lesser spotted woodpecker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -17986,7 +18431,8 @@
                 "en": "middle spotted woodpecker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18039,7 +18485,8 @@
                 "en": "great spotted woodpecker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18078,7 +18525,8 @@
                 "en": "pine bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18131,7 +18579,8 @@
                 "en": "cirl bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18184,7 +18633,8 @@
                 "en": "brown-headed bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18216,7 +18666,8 @@
                 "en": "corn bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18262,7 +18713,8 @@
                 "en": "little bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18315,7 +18767,8 @@
                 "en": "yellowhammer"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18361,7 +18814,8 @@
                 "en": "yellow-breasted bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18414,7 +18868,8 @@
                 "en": "common reed bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18446,7 +18901,8 @@
                 "en": "rustic bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18499,7 +18955,8 @@
                 "en": "lapland longspur"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18524,7 +18981,8 @@
                 "en": "rock bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18577,7 +19035,8 @@
                 "en": "ortolan bunting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18623,7 +19082,8 @@
                 "en": "winter wren"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18676,7 +19136,8 @@
                 "en": "eurasian griffon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18729,7 +19190,8 @@
                 "en": "cinereous vulture"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18782,7 +19244,8 @@
                 "en": "egyptian vulture"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18835,7 +19298,8 @@
                 "en": "tengmalm's owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18888,7 +19352,8 @@
                 "en": "little owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18941,7 +19406,8 @@
                 "en": "azure tit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -18966,7 +19432,8 @@
                 "en": "marsh tit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19019,7 +19486,8 @@
                 "en": "great tit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19065,7 +19533,8 @@
                 "en": "willow tit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19104,7 +19573,8 @@
                 "en": "blue tit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19157,7 +19627,8 @@
                 "en": "european crested tit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19210,7 +19681,8 @@
                 "en": "coal tit"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19263,7 +19735,8 @@
                 "en": "bearded reedling"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19309,7 +19782,8 @@
                 "en": "tree creeper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19348,7 +19822,8 @@
                 "en": "short-toed treecreeper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19373,7 +19848,8 @@
                 "en": "common starling"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19426,7 +19902,8 @@
                 "en": "rosy starling"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19479,7 +19956,8 @@
                 "en": "avocet"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19532,7 +20010,8 @@
                 "en": "northern gannet"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19585,7 +20064,8 @@
                 "en": "western capercaillie"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19638,7 +20118,8 @@
                 "en": "lesser grey shrike"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19684,7 +20165,8 @@
                 "en": "red-backed shrike"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19730,7 +20212,8 @@
                 "en": "woodchat shrike"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19769,7 +20252,8 @@
                 "en": "northern shrike"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19822,7 +20306,8 @@
                 "en": "black scoter"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19875,7 +20360,8 @@
                 "en": "white-winged scoter"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19928,7 +20414,8 @@
                 "en": "eurasian oystercatcher"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -19981,7 +20468,8 @@
                 "en": "european honey-buzzard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20027,7 +20515,8 @@
                 "en": "barn swallow"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20080,7 +20569,8 @@
                 "en": "red-rumped swallow"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20133,7 +20623,8 @@
                 "en": "european bee eater"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20186,7 +20677,8 @@
                 "en": "wood sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20239,7 +20731,8 @@
                 "en": "green sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20292,7 +20785,8 @@
                 "en": "terek sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20345,7 +20839,8 @@
                 "en": "common redshank"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20398,7 +20893,8 @@
                 "en": "greenshank"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20451,7 +20947,8 @@
                 "en": "marsh sandpiper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20504,7 +21001,8 @@
                 "en": "spotted redshank"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20543,7 +21041,8 @@
                 "en": "greater yellowlegs"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20596,7 +21095,8 @@
                 "en": "great egret"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20649,7 +21149,8 @@
                 "en": "purple heron"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20688,7 +21189,8 @@
                 "en": "grey heron"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20741,7 +21243,8 @@
                 "en": "cattle egret"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20794,7 +21297,8 @@
                 "en": "little egret"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20847,7 +21351,8 @@
                 "en": "squacco heron"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20900,7 +21405,8 @@
                 "en": "house sparrow"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20939,7 +21445,8 @@
                 "en": "eurasian tree sparrow"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -20985,7 +21492,8 @@
                 "en": "carrion crow"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21024,7 +21532,8 @@
                 "en": "hooded crow"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21077,7 +21586,8 @@
                 "en": "eurasian eagle-owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21123,7 +21633,8 @@
                 "en": "scops owl"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21162,7 +21673,8 @@
                 "en": "wallcreeper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21208,7 +21720,8 @@
                 "en": "red-crested pochard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21254,7 +21767,8 @@
                 "en": "european greenfinch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21307,7 +21821,8 @@
                 "en": "citril finch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21325,7 +21840,8 @@
                 "en": "european serin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21378,7 +21894,8 @@
                 "en": "gray-faced woodpecker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21431,7 +21948,8 @@
                 "en": "european green woodpecker"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21470,7 +21988,8 @@
                 "en": "golden oriole"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21516,7 +22035,8 @@
                 "en": "razor-billed auk"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21569,7 +22089,8 @@
                 "en": "cream-coloured courser"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21622,7 +22143,8 @@
                 "en": "mediterranean shearwater"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21668,7 +22190,8 @@
                 "en": "marbled duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21700,7 +22223,8 @@
                 "en": "macqueen’s bustard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21746,7 +22270,8 @@
                 "en": "black-throated thrush"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21785,7 +22310,8 @@
                 "en": "snow goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21831,7 +22357,8 @@
                 "en": "ruddy shelduck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21856,7 +22383,8 @@
                 "en": "calandra lark"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21902,7 +22430,8 @@
                 "en": "lanner falcon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -21955,7 +22484,8 @@
                 "en": "gyrfalcon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22008,7 +22538,8 @@
                 "en": "melodious warbler"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22047,7 +22578,8 @@
                 "en": "pallas' sand grouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22100,7 +22632,8 @@
                 "en": "common pheasant"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22153,7 +22686,8 @@
                 "en": "reeves's pheasant"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22199,7 +22733,8 @@
                 "en": "canada goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22252,7 +22787,8 @@
                 "en": "rock dove"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22305,7 +22841,8 @@
                 "en": "egyptian goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22358,7 +22895,8 @@
                 "en": "sacred ibis"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22397,7 +22935,8 @@
                 "en": "mandarin duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22450,7 +22989,8 @@
                 "en": "ruddy duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22503,7 +23043,8 @@
                 "en": "bufflehead"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22549,7 +23090,8 @@
                 "en": "barrow's goldeneye"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22581,7 +23123,8 @@
                 "en": "hooded merganser"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22627,7 +23170,8 @@
                 "en": "harlequin duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22673,7 +23217,8 @@
                 "en": "lammergeier"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22726,7 +23271,8 @@
                 "en": "budgerigar"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22779,7 +23325,8 @@
                 "en": "yellow-billed teal"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22825,7 +23372,8 @@
                 "en": "chiloe wigeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22878,7 +23426,8 @@
                 "en": "bar-headed goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22924,7 +23473,8 @@
                 "en": "wandering whistling ducks"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -22970,7 +23520,8 @@
                 "en": "australian wood duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23023,7 +23574,8 @@
                 "en": "wood duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23076,7 +23628,8 @@
                 "en": "african spoonbill"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23129,7 +23682,8 @@
                 "en": "wild turkey"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23182,7 +23736,8 @@
                 "en": "black swan"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23235,7 +23790,8 @@
                 "en": "marabou stork"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23281,7 +23837,8 @@
                 "en": "rock partridge"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23320,7 +23877,8 @@
                 "en": "bahama duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23373,7 +23931,8 @@
                 "en": "muscovy duck"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23426,7 +23985,8 @@
                 "en": "chilean flamingo"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23479,7 +24039,8 @@
                 "en": "blue rock thrush"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23532,7 +24093,8 @@
                 "en": "siberian jay"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23585,7 +24147,8 @@
                 "en": "azure-winged magpie"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -23638,7 +24201,8 @@
                 "en": "sterlet"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -23670,7 +24234,8 @@
                 "en": "sturgeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -23716,7 +24281,8 @@
                 "en": "russian sturgeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -23748,7 +24314,8 @@
                 "en": "european eel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -23801,7 +24368,8 @@
                 "en": "shad"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -23840,7 +24408,8 @@
                 "en": "atlantic salmon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -23872,7 +24441,8 @@
                 "en": "huchen"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -23911,7 +24481,8 @@
                 "en": "rainbow trout"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -23943,7 +24514,8 @@
                 "en": "brook trout"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -23961,7 +24533,8 @@
                 "en": "whitefish"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24014,7 +24587,8 @@
                 "en": "houting"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24053,7 +24627,8 @@
                 "en": "grayling"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24099,7 +24674,8 @@
                 "en": "northern pike"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24138,7 +24714,8 @@
                 "en": "mudminnow"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24163,7 +24740,8 @@
                 "en": "siberian roach"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24209,7 +24787,8 @@
                 "en": "danube roach"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24227,7 +24806,8 @@
                 "en": "able de heckel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24280,7 +24860,8 @@
                 "en": "hasel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24312,7 +24893,8 @@
                 "en": "chub"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24351,7 +24933,8 @@
                 "en": "ide"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24404,7 +24987,8 @@
                 "en": "eurasian minnow"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24443,7 +25027,8 @@
                 "en": "topmouth gudgeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24496,7 +25081,8 @@
                 "en": "rudd"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24542,7 +25128,8 @@
                 "en": "asp"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24581,7 +25168,8 @@
                 "en": "tench"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24627,7 +25215,8 @@
                 "en": "undermouth"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24659,7 +25248,8 @@
                 "en": "gudgeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24698,7 +25288,8 @@
                 "en": "kessler's gudgeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24716,7 +25307,8 @@
                 "en": "white-finned gudgeon"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24734,7 +25326,8 @@
                 "en": "barbel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24752,7 +25345,8 @@
                 "en": "bleak"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24791,7 +25385,8 @@
                 "en": "spirlin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24816,7 +25411,8 @@
                 "en": "white bream"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24869,7 +25465,8 @@
                 "en": "european bream"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24915,7 +25512,8 @@
                 "en": "white-eye bream"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24954,7 +25552,8 @@
                 "en": "zope"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24972,7 +25571,8 @@
                 "en": "zanthe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -24990,7 +25590,8 @@
                 "en": "ziege"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25029,7 +25630,8 @@
                 "en": "bitterling"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25075,7 +25677,8 @@
                 "en": "crucian carp"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25128,7 +25731,8 @@
                 "en": "goldfish"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25153,7 +25757,8 @@
                 "en": "common carp"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25199,7 +25804,8 @@
                 "en": "grass carp"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25231,7 +25837,8 @@
                 "en": "silver carp"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25270,7 +25877,8 @@
                 "en": "bighead carp"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25302,7 +25910,8 @@
                 "en": "terek stone loach"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25348,7 +25957,8 @@
                 "en": "weather-fish"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25380,7 +25990,8 @@
                 "en": "weatherfish"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25398,7 +26009,8 @@
                 "en": "spined loach"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25416,7 +26028,8 @@
                 "en": "european catfish"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25455,7 +26068,8 @@
                 "en": "brown bullhead"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25494,7 +26108,8 @@
                 "en": "burbot"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25533,7 +26148,8 @@
                 "en": "three-spined stickleback"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25565,7 +26181,8 @@
                 "en": "european perch"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25604,7 +26221,8 @@
                 "en": "zander"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25650,7 +26268,8 @@
                 "en": "volga zander"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25675,7 +26294,8 @@
                 "en": "ruffe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25721,7 +26341,8 @@
                 "en": "striped ruffe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25746,7 +26367,8 @@
                 "en": "danube ruffe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25764,7 +26386,8 @@
                 "en": "zingel"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25810,7 +26433,8 @@
                 "en": "streber"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25835,7 +26459,8 @@
                 "en": "largemouth bass"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25881,7 +26506,8 @@
                 "en": "pumpkinseed"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25927,7 +26553,8 @@
                 "en": "tube-nosed goby"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -25966,7 +26593,8 @@
                 "en": "sculpin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -26005,7 +26633,8 @@
                 "en": "spotted sculpin"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -26014,13 +26643,6 @@
                     "rights_holder": null,
                     "source": "https://content-dev.lib.washington.edu/u?/fishimages,47992",
                     "license": "http://creativecommons.org/licenses/publicdomain/"
-                },
-                {
-                    "hash": "17ef39a5d725af3a8352c7be881a2e6997dd8067b1b10ffeb97bf78656e9352f1313f27fd7cedf79ce1264d175d8da518d7e22043f279da1c08171aad15f66c6",
-                    "url": "http://www.fishbase.us/images/species/Copoe_m0.jpg",
-                    "rights_holder": "Østergaard, T.",
-                    "source": "http://www.fishbase.org/summary/SpeciesSummary.php?id=8419",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
                     "hash": "ed0f67412a4daddfe509020668ce89d68160a257103a468ce81314590dc6bf38770a19cbb5d93339f46036a6155b40810914675e6985788a7045e826b560b5dc",
@@ -26037,7 +26659,8 @@
                 "en": "european flounder"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -26090,7 +26713,8 @@
                 "en": "golden jackal"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -26129,7 +26753,8 @@
                 "en": "european mink"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -26175,7 +26800,8 @@
                 "en": "european bison"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -26228,7 +26854,8 @@
                 "en": "brandt's myotis"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -26274,7 +26901,8 @@
                 "en": "kuhl's pipistrelle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -26299,7 +26927,8 @@
                 "en": "northern white-breasted hedgehog"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -26324,7 +26953,8 @@
                 "en": "alpine shrew"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_mammals"
             ],
             "representations": [
                 {
@@ -26342,7 +26972,8 @@
                 "en": "alpine newt"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26367,7 +26998,8 @@
                 "en": "draadstaartsalamand"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26420,7 +27052,8 @@
                 "en": "caprpathian newt"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26466,7 +27099,8 @@
                 "en": "smooth newt"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26512,7 +27146,8 @@
                 "en": "fire salamander"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26565,7 +27200,8 @@
                 "en": "italian crested newt"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26618,7 +27254,8 @@
                 "en": "great crested newt"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26671,7 +27308,8 @@
                 "en": "danube crested newt"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26724,7 +27362,8 @@
                 "en": "fire-bellied toad"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26763,7 +27402,8 @@
                 "en": "yellow-bellied toad"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26788,7 +27428,8 @@
                 "en": "european toad"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26827,7 +27468,8 @@
                 "en": "green toad"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26859,7 +27501,8 @@
                 "en": "natterjack toad"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26912,7 +27555,8 @@
                 "en": "european treefrog"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -26965,7 +27609,8 @@
                 "en": "common spadefoot"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -27004,7 +27649,8 @@
                 "en": "edible frog"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -27036,7 +27682,8 @@
                 "en": "pool frog"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -27068,7 +27715,8 @@
                 "en": "marsh frog"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -27114,7 +27762,8 @@
                 "en": "moor frog"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -27132,7 +27781,8 @@
                 "en": "european frog"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_amphibians"
             ],
             "representations": [
                 {
@@ -27157,7 +27807,8 @@
                 "en": "european pond turtle"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27210,7 +27861,8 @@
                 "en": "mediterranean spur-thighed tortoise"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27263,7 +27915,8 @@
                 "en": "greek tortoise"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27309,7 +27962,8 @@
                 "en": "horsfield's tortoise"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27355,7 +28009,8 @@
                 "en": "marginated tortoise"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27408,7 +28063,8 @@
                 "en": "common slider"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27454,7 +28110,8 @@
                 "en": "slow worm"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27479,7 +28136,8 @@
                 "en": "zauneidechse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27504,7 +28162,8 @@
                 "en": "european green lizard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27536,7 +28195,8 @@
                 "en": "common wall lizard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27568,7 +28228,8 @@
                 "en": "viviparous lizard"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27600,7 +28261,8 @@
                 "en": "mediterranean house gecko"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27646,7 +28308,8 @@
                 "en": "smooth snake"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27678,7 +28341,8 @@
                 "en": "grass snake"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27731,7 +28395,8 @@
                 "en": "diced water snake"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27784,7 +28449,8 @@
                 "en": "common viper"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27837,7 +28503,8 @@
                 "en": "aesculapian rat snake"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_reptiles"
             ],
             "representations": [
                 {
@@ -27876,7 +28543,8 @@
                 "en": "prussian carp"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -27922,7 +28590,8 @@
                 "en": "european brook lamprey"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_fishes"
             ],
             "representations": [
                 {
@@ -27954,7 +28623,8 @@
                 "en": "little grebe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -28007,7 +28677,8 @@
                 "en": "european stonechat"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -28060,7 +28731,8 @@
                 "en": "black grouse"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -28106,7 +28778,8 @@
                 "en": "red-necked grebe"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -28159,7 +28832,8 @@
                 "en": "slender-billed gull"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -28212,7 +28886,8 @@
                 "en": "pink-footed goose"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -28265,7 +28940,8 @@
                 "en": "red-necked stint"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
@@ -28311,7 +28987,8 @@
                 "en": "ringed teal"
             },
             "concepts": [
-                "cz_animals"
+                "cz_animals",
+                "cz_birds"
             ],
             "representations": [
                 {
