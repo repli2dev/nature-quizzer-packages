@@ -776,13 +776,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 },
                 {
-                    "hash": "bcf61425299e68242f135b83516a10c8a6cfa770518939fd216b608e22faefb369e3e297355c2951c8ddec9e4bdcba67bed122aaa2f2c143e8d12ca0c5c5d8f2",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/c/c9/Wolfbear.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Wolfbear.jpg",
-                    "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-                },
-                {
                     "hash": "0a2efa2577cae7c604d13837560e161e97f2e4d802111dfe19621d48bdf602d568e57e3daefb9621ddb9d10e24fb9087cf09bc5e9a2b30b635adb2fecc943e9f",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/6/69/Canis_lupus_laying_in_grass.jpg",
                     "rights_holder": null,
@@ -1526,13 +1519,6 @@
                     "rights_holder": "Peter",
                     "source": "http://www.flickr.com/photos/peteredin/3672316979/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "577de56d39171c79144670460ab719e60508b11270534dbefbdaa7fc1cface141142678d3b67a6bb61b668ce8e4a2f2d3dc80fe3fcc34379f011e7d4a4e13e43",
-                    "url": "http://farm3.staticflickr.com/2495/3760683613_7abbf366e0_o.jpg",
-                    "rights_holder": "Hermann Falkner",
-                    "source": "http://www.flickr.com/photos/hermannherbarium/3760683613/",
-                    "license": "http://creativecommons.org/licenses/by-nc/2.0/"
                 }
             ]
         },
@@ -2706,20 +2692,6 @@
                     "rights_holder": "Ecomare, Sytske Dijksen",
                     "source": "http://www.ecomare.nl/index.php?id=4136&L=2",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "c2579c60f015fda1c8bca0325415fbf78bb04a9ac05156c1d3ba6885a00b8eed6ffd3c9cce8d934ff34f2ce3430677cdbe6e839c95fae23aeca3eb8ff34223c9",
-                    "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0113/2384.jpeg",
-                    "rights_holder": "2013 Simon J. Tonge",
-                    "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=435427&one=T",
-                    "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
-                    "hash": "7860f31d0cc851dffe1e8045fc8f06618ca2461a6d72828e039de196b458ba9e152b563ee632f4567544c81148d34eaf5e915a850b2f6a3c07c9f3cb829aef10",
-                    "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0113/2385.jpeg",
-                    "rights_holder": "2013 Simon J. Tonge",
-                    "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=435428&one=T",
-                    "license": "http://creativecommons.org/licenses/by/3.0/"
                 }
             ]
         },
@@ -5604,7 +5576,7 @@
                 }
             ]
         },
-        "carduelis cabaret": {
+        "acanthis flammea": {
             "names": {
                 "cs": "čečetka tmavá",
                 "en": "lesser redpoll"
@@ -10064,7 +10036,7 @@
                 }
             ]
         },
-        "phalacrocorax pygmaeus": {
+        "microcarbo pygmeus": {
             "names": {
                 "cs": "kormorán malý",
                 "en": "pygmy cormorant"
@@ -24887,7 +24859,7 @@
                 }
             ]
         },
-        "squalius cephaloides": {
+        "leuciscus cephalus": {
             "names": {
                 "cs": "jelec tloušť",
                 "en": "chub"
@@ -25506,7 +25478,7 @@
                 }
             ]
         },
-        "ballerus sapa": {
+        "abramis sapa": {
             "names": {
                 "cs": "cejn perleťový",
                 "en": "white-eye bream"
@@ -25546,7 +25518,7 @@
                 }
             ]
         },
-        "ballerus ballerus": {
+        "abramis ballerus": {
             "names": {
                 "cs": "cejn siný",
                 "en": "zope"
@@ -26288,7 +26260,7 @@
                 }
             ]
         },
-        "gymnocephalus cernua": {
+        "gymnocephalus cernuus": {
             "names": {
                 "cs": "ježdík obecný",
                 "en": "ruffe"
@@ -26966,7 +26938,7 @@
                 }
             ]
         },
-        "mesotriton alpestris": {
+        "ichthyosaura alpestris": {
             "names": {
                 "cs": "čolek horský",
                 "en": "alpine newt"
@@ -27462,7 +27434,7 @@
                 }
             ]
         },
-        "bufotes viridis": {
+        "pseudepidalea viridis": {
             "names": {
                 "cs": "ropucha zelená",
                 "en": "green toad"
@@ -27643,7 +27615,7 @@
                 }
             ]
         },
-        "pelophylax esculentus": {
+        "pelophylax lessonae": {
             "names": {
                 "cs": "skokan zelený",
                 "en": "edible frog"
@@ -28497,7 +28469,7 @@
                 }
             ]
         },
-        "zamenis longissimus": {
+        "erythrolamprus aesculapii": {
             "names": {
                 "cs": "užovka stromová",
                 "en": "aesculapian rat snake"
