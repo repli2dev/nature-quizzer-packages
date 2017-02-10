@@ -1011,20 +1011,6 @@
                     "license": "http://creativecommons.org/publicdomain/mark/1.0/"
                 },
                 {
-                    "hash": "bd8a9f52ce917091632c99ff1dd60ca76235b5ff6982225fe41e22a54da4053f13f671e0b065a7409f72b77ed1eff11078c3e8c7425c1c6b3a0cde4bdab7074d",
-                    "url": "http://farm4.staticflickr.com/3055/2789416327_498ba3692c_o.jpg",
-                    "rights_holder": "Sílvia Darnís",
-                    "source": "http://www.flickr.com/photos/embolic/2789416327/",
-                    "license": "http://creativecommons.org/licenses/by-nc/2.0/"
-                },
-                {
-                    "hash": "18ebd1852bc45cff3661e67b8eb150f0a798768cc84ebb9ced17f8668b63dfb0e838fbd04862bcfb10898fb532a342d20e2ef9fc2cbc8f20d04a1cf994b59794",
-                    "url": "http://farm3.staticflickr.com/2724/4042986469_f8ef0f90c8_o.jpg",
-                    "rights_holder": "Carlos Solana",
-                    "source": "http://www.flickr.com/photos/lasombraenlapared/4042986469/",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
                     "hash": "c02aba01147c9388c63f85a2b387d7072e7e86c969c07cb03441b5631bdf3b58b790bcaadefb22336e147f3ca440dc782d761f0431687dad1df4536fcde52143",
                     "url": "http://farm4.staticflickr.com/3537/3357623707_ed321c15b5_o.jpg",
                     "rights_holder": "Bas Kers",
@@ -26676,25 +26662,11 @@
             ],
             "representations": [
                 {
-                    "hash": "fb7357d6e59bda3f838347e333fc8a33463b35950083aa20468d43ac466a3598f7a35745ea3df948743475963316fb6163f58850590aa83dc463a9ffab3e3bd5",
-                    "url": "http://www.biopix.com/photos/JOM-Canis-aureus-00001.jpg",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/golden-jackal-canis-aureus_photo-110428.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "814c383544f8870963e68b11c6b34b9d542de974ea3503968f27f33d7a5322522cf48e806f15c7b8958d9208b1f7acb0351bb6034f70f29d307281f9075bb392",
                     "url": "http://farm3.staticflickr.com/2563/4067440134_bb9c1bfa66_o.jpg",
                     "rights_holder": "David Bygott",
                     "source": "http://www.flickr.com/photos/davidbygott/4067440134/",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
-                },
-                {
-                    "hash": "126407b2cb25dc9a076112db68dc4ecccc51a883b86a2961845f5c73c4a4647ea95ddc31c0121987a10c378e679d2951f8edcd603ac40d0966a0222ffe090041",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/2/21/Wildlife_in_Ngorongoro.JPG",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Wildlife_in_Ngorongoro.JPG",
-                    "license": "http://creativecommons.org/licenses/by-sa/2.5/"
                 },
                 {
                     "hash": "f3a20abe160cd2bd36eda6443fe0dbd969a51ef96fdad21a092eb61b871cf0266a045c9cae7633bcf596a8749f19f2eda50db119a8d2a8b9e5634cd01b87e9c2",
@@ -28384,13 +28356,6 @@
                     "rights_holder": "Zack Demirtshyan",
                     "source": "http://www.inaturalist.org/photos/88287",
                     "license": "http://creativecommons.org/licenses/by/3.0/"
-                },
-                {
-                    "hash": "6953c6d1d8243e7aaae3f03b8d149a30ca6faa582efb4bf48e043a14256124039ee4700dfeb00a13cf9fa1764baea93dca631938a0047abb1eb20a25f1ff47d3",
-                    "url": "http://static.inaturalist.org/photos/320377/original.JPG?1367953224",
-                    "rights_holder": "carmelkid",
-                    "source": "http://www.inaturalist.org/photos/320377",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
                     "hash": "fcb8c6d29cf723333211a05e7336209170bb6d07c4bdf1c3eccec09bfaf1ebd74c51df4f01e9583f7efcf4b75219259b87e0e6118c9011441dacdbe011a5e874",
