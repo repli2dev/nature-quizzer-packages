@@ -28431,13 +28431,6 @@
             ],
             "representations": [
                 {
-                    "hash": "66e7b2baafb6181f792e328c639bb57396f542e145d78564894309ffb29edc6cd91a0210efa38571d07273b7a2e70990bb65b83a350014ec0600217c0ebada3e",
-                    "url": "http://calphotos.berkeley.edu/imgs/512x768/1111_1111/1111/5303.jpeg",
-                    "rights_holder": "2006 Arie van der Meijden",
-                    "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=198593&one=T",
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "440d084c2558dc24912460c4e035731ed479dbbd81b5cc90d80054100903e634accc396d18b374b6ab3cdf3ba0ac630cf0f6efd56d5963abda9d89c482b27180",
                     "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0413/3727.jpeg",
                     "rights_holder": "2013 Omid Mozaffari",
