@@ -21918,19 +21918,20 @@
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
-                    "hash": "55d1cf7366bcf7cd2012bd52b15b6c13c2d8a845548597ba50f6e7d036e367ab6803a5b700a9a7f0e5ecd90b5dfddcfae19c012389b7fa241968a99aec842ff6",
-                    "url": "http://static.inaturalist.org/photos/675209/original.JPG?1392412364",
-                    "rights_holder": "Alessandro Fiorillo",
-                    "source": "http://www.inaturalist.org/photos/675209",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "7ba0eda2876dfec274bb35f2f2ef7e612db5f91ddf622e7eda1832b08f6ca992d656db5d2e901615949a90a2172c1800a6ad65e3f830b71e75ee42a052f6eaf2",
                     "url": "http://static.inaturalist.org/photos/1339757/original.jpg?1415733355",
                     "rights_holder": "Martin Grimm",
                     "source": "http://www.inaturalist.org/photos/1339757",
                     "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+                },
+                {
+                    "hash": "e890e95d75631e93b770e07644cfe6e10de3649791e2ac67caab2ad3ad1b71e7ff0d34b4429c61c086ea139c1887779953a68640364685f29b050039f36cbf04",
+                    "url": "http://media.eol.org/content/2009/07/24/12/75920_orig.jpg",
+                    "rights_holder": "Jiří Duchoň",
+                    "source": "http://www.biolib.cz/en/image/id60227/",
+                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
+
             ]
         },
         "oriolus oriolus": {
