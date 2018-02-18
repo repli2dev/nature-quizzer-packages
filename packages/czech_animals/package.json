@@ -15225,13 +15225,6 @@
                     "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
                 },
                 {
-                    "hash": "fa8737913649faf4fbb49a43fc4e08682aad5150aab0a67e47ecad9259a0a3a21faccaadd86b559acee437e3c1526099219dd29d30f2a4b5e209a3a341ceeb08",
-                    "url": "http://csdb.ioz.ac.cn/images/Upload_images/Animalia/Chordata/Aves/Strigiformes/Strigidae/Strix/uralensis/60805E75-0182-441A-B2C7-9D492528FA5D.jpg",
-                    "rights_holder": "上海科学技术出版社",
-                    "source": null,
-                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
                     "hash": "1e2e2b8d0899ee9ac553cb0805b8397785230438956a63fcd635afd37a965a5c732e1d3079caffadf8ca7c53efb23a197991c47ead196a33a059a1e1e4f5509e",
                     "url": "http://upload.wikimedia.org/wikipedia/commons/5/53/Strix_uralensis_in_city_01.jpg",
                     "rights_holder": null,
@@ -25627,20 +25620,6 @@
             ],
             "representations": [
                 {
-                    "hash": "69d8e61c7ab8716c3ae814965287502eb69a9032f5ec21def7ea47edff2ac3abcc42e5c0951cde4eb57e889560531180c1656dbe08d379eb720084e5c408e1ec",
-                    "url": "http://www.biopix.com/photos/Carassius-carassius-00035.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/crucian-carp-carassius-carassius_photo-62329.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "9454932392b7e66333b9ac52bd3db23424704e42cbab184c4f06c264435ac8197b57b51837b5d1b1d414caa55cf4bcaa93f7f10ad8350d4960821838f51ef208",
-                    "url": "http://www.biopix.com/photos/Carassius-carassius-00040.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/crucian-carp-carassius-carassius_photo-62331.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
                     "hash": "66e51ecdb136f75ff2afe81d48c1cb5a93a10c5d2cb4f9fc5f8573e3e95f7acc6ec6cb7b1ecf56ff89c451bcd90c2c307d59ef49a18e16b739951739f10d6aa4",
                     "url": "http://www.biopix.com/photos/Carassius-carassius-00013.jpg",
                     "rights_holder": null,
@@ -26607,13 +26586,6 @@
                     "rights_holder": "National Museums Northern Ireland and its licensors",
                     "source": "http://www.habitas.org.uk/marinelife/species.asp?item=ZG8990",
                     "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-                },
-                {
-                    "hash": "d81d4923f83beeee28acac709a5cca0df8aa444c5eaa90ad837ef4ef739c9cc0a00f42bacb8d3078957b1725bd239d64096e645c94be94a43e60612709721ec9",
-                    "url": "http://www.biopix.com/photos/Platichthys-flesus-00002.JPG",
-                    "rights_holder": null,
-                    "source": "http://www.biopix.com/flounder-platichthys-flesus_photo-106848.aspx",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 },
                 {
                     "hash": "54376b5296574cc895e2bb72de30cf94b3c31f8c8c74305e827e915007a1bf4f9e0d6340237a21661e9b12e89c9b424b075b55424af3695d52588b8184733fda",
