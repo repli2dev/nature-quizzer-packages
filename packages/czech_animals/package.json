@@ -10026,32 +10026,18 @@
             ],
             "representations": [
                 {
-                    "hash": "166fc54645808ac51b105efc7eedee48924f26736abaeca035dfe87a6a4c2009157845cbd218b590e04f094b3e140cfa06e03d9c2dfc77cee7382e82f4a88f5c",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Pygmy_cormorant_and_gulls_1.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Pygmy_cormorant_and_gulls_1.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+                    "hash": "28cbf74adf990c0ce36b0846613c5ae7805e4bd7271cd63ccee0ce695f8509f3e8ef575b45410901abb09671abf5aedbd178ea7fa78112971c1b5d0cfdad2a92",
+                    "url": "http://media.eol.org/content/2015/01/08/04/16456_orig.jpg",
+                    "rights_holder": "Ori Fragman-Sapir",
+                    "source": "http://www.treknature.com/viewphotos.php?l=3&p=299855",
+                    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
                 },
                 {
-                    "hash": "966c7c5e77f052db771592b20da592b4f9b6d797710717610b503b2a00e734d175e9bedf975dbb7bc3b9d6f2a5fbf40d4f79a1073307ac3f12cf3033d81c733d",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/3/39/Pygmy_cormorant_and_gulls.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Pygmy_cormorant_and_gulls.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
-                },
-                {
-                    "hash": "72c3860bb80e9c6438e440e09e54067d752a09d4d7c8431f4db7519d437ef85f23e4f9381b23f000fe2a19133fcad7c584aeb62636fcd2b76ff19c76d0410f63",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/0/04/Pygmy_cormorants_and_gull.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Pygmy_cormorants_and_gull.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
-                },
-                {
-                    "hash": "d0eb1300c6685796c23b65eae99e13004c64e99fa6a3c68d4c56c9a5c8d6263c7362ed02bdb04f724b51c71502a29547a1a4761a5c4b22f7c9f8990c544d1d31",
-                    "url": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Pygmy_cormorants_and_gulls.jpg",
-                    "rights_holder": null,
-                    "source": "http://commons.wikimedia.org/wiki/File:Pygmy_cormorants_and_gulls.jpg",
-                    "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+                    "hash": "ed91fdbb5b74a17499cbd2e051f24bb6093094531385476d10018aa6d5bbc3a6571e45c70c118ff2b48fd0cc49ef38653b67450780bf9bcb7970ba24d8f4fd8b",
+                    "url": "http://media.eol.org/content/2016/07/24/20/76191_orig.jpg",
+                    "rights_holder": "anis",
+                    "source": "http://www.inaturalist.org/photos/1769899",
+                    "license": "http://creativecommons.org/licenses/by/4.0/"
                 },
                 {
                     "hash": "ac60bb777c2326dd02db0a872a9c5ef2f4e065d08a81eab6d3081b61433f3adbef1514db082b3348dbb70a5f31964b6f099650a954e01c379f5726a11cefb95b",
@@ -19447,20 +19433,6 @@
                     "rights_holder": null,
                     "source": "http://commons.wikimedia.org/wiki/File:Parus_major_poised.jpg",
                     "license": "http://creativecommons.org/licenses/by-sa/4.0/"
-                },
-                {
-                    "hash": "7fa96535157273a66cfdd541bb7939b33c4fe99d55b0407f9aabe04b44e3355478575041b018343018cb8176069ebee0a6f8dedde0b31cfe44873f61a1a4b26e",
-                    "url": "http://static.inaturalist.org/photos/21731/original.jpg",
-                    "rights_holder": "msr",
-                    "source": "http://www.inaturalist.org/photos/21731",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-                },
-                {
-                    "hash": "1b5930242f34ec547b1abfc5c12386abafb56cbffcf3e9b4353ad768ff0c406695780937342dedee443352d49d5d2345e07731ddf5b1203d39850e65f39616df",
-                    "url": "http://static.inaturalist.org/photos/21736/original.jpg",
-                    "rights_holder": "msr",
-                    "source": "http://www.inaturalist.org/photos/21736",
-                    "license": "http://creativecommons.org/licenses/by-nc/3.0/"
                 }
             ]
         },
